@@ -24,8 +24,8 @@
         <xs:element ref="IDIOMAS"/>
         <xs:element ref="PREMIOS-TITULOS"/>
       </xs:sequence>
-      <xs:attribute name="SIGLA-PAIS-NACIONALIDADE" use="required"/>
-      <xs:attribute name="PAIS-DE-NACIONALIDADE" use="required"/>
+      <xs:attribute name="SIGLA-PAIS-NACIONALIDADE" use="optional"/>
+      <xs:attribute name="PAIS-DE-NACIONALIDADE" use="optional"/>
       <xs:attribute name="CIDADE-NASCIMENTO" use="required"/>
       <xs:attribute name="DATA-FALECIMENTO" use="required"/>
       <xs:attribute name="NACIONALIDADE" use="required" type="xs:NCName"/>
