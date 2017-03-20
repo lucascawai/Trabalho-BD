@@ -1,0 +1,75 @@
+{
+   "curriculum_vitae": {
+      "dados_pessoais": {
+         "nome_completo": {
+            "nome": "Oscar Martins",
+            "sobrenome": "Wanderley Filho"
+         },
+         "data_nascimento": "06/05/1991",
+         "contato": {
+            "telefone": [
+               {
+                  "_tipo": "residencial",
+                  "__text": "(021) 2569-2056",
+                  "toString": [
+                     null
+                  ]
+               },
+               {
+                  "_tipo": "celular",
+                  "__text": "(021) 99777-1677",
+                  "toString": [
+                     null
+                  ]
+               }
+            ],
+            "email": "oscar_mwf@hotmail.com"
+         },
+         "endereco": {
+            "rua": "Rua Martins Pena",
+            "numero": "41",
+            "complemento": "apto 501",
+            "bairro": "Tijuca",
+            "cidade": "Rio de Janeiro",
+            "estado": "RJ"
+         },
+         "naturalidade": "RJ"
+      },
+      "formacao": {
+         "segundo_grau": {
+            "instituicao": "Colgio e Curso PH",
+            "formatura": "2008"
+         },
+         "ensino_superior": {
+            "instituicao": "Instituto Militar de Engenharia",
+            "sigla": [
+               "IME"
+            ],
+            "curso": "Engenharia de Computao",
+            "formatura": "2015"
+         }
+      },
+      "experiencia": {
+         "estagio": {
+            "empresa": "Segundo Centro de Telemtica de çrea",
+            "sigla": [
+               "2CTA",
+               "EB"
+            ],
+            "filiacao": "Exrcito Brasileiro",
+            "data_inicio": "05/01/2014",
+            "data_termino": "05/02/2014",
+            "atividade_realizada": "Desenvolvimento de pginas WEb"
+         }
+      },
+      "proficiencia_linguistica": {
+         "idioma": {
+            "_condicao": "fluente",
+            "__text": "Ingls",
+            "toString": [
+               null
+            ]
+         }
+      }
+   }
+}

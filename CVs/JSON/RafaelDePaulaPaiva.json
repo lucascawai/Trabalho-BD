@@ -1,0 +1,89 @@
+{
+   "CurriculumVitae": {
+      "Pessoa": {
+         "PrimeiroNome": "Rafael",
+         "SobreNome": "de Paula Paiva",
+         "EstadoCivil": "Solteiro",
+         "Idade": "23"
+      },
+      "Contato": {
+         "Endereco": {
+            "Logradouro": {
+               "_tipo": "Praca",
+               "__text": "General TibÃºrcio",
+               "toString": [
+                  null
+               ]
+            },
+            "Numero": "80",
+            "Bairro": "Urca",
+            "Cidade": {
+               "Nome": "Rio de Janeiro",
+               "Estado": "Rio de Janeiro"
+            },
+            "_tipo": "Pessoal"
+         },
+         "Telefone": {
+            "_tipo": "Celular",
+            "__text": "+55 21 998839697",
+            "toString": [
+               null
+            ]
+         },
+         "Email": "08.paiva@gmail.com",
+         "Site": "https://github.com/paivao"
+      },
+      "Objetivo": "UtilizaÃ§Ã£o dos conhecimentos em aprendizado de mÃ¡quina para a Ã¡rea de anÃ¡lise de dados.",
+      "Formacao": {
+         "Curso": {
+            "Nome": "GraduaÃ§Ã£o em Engenharia da ComputaÃ§Ã£o",
+            "Instituicao": "Instituto Militar de Engenharia",
+            "Perido": {
+               "Inicio": "Fev/2012",
+               "Final": "Dez/2016"
+            }
+         }
+      },
+      "Experiencia": "",
+      "Qualificacoes": {
+         "Idioma": [
+            {
+               "Nome": "InglÃªs",
+               "Nivel": "AvanÃ§ado"
+            },
+            {
+               "Nome": "FrancÃªs",
+               "Nivel": "Principiante"
+            }
+         ],
+         "Certificado": {
+            "Nome": "TOEFL iBT",
+            "Data": "11/07/2014",
+            "Nota": "92/120"
+         },
+         "Habilidade": [
+            {
+               "Nome": "Progamador C++",
+               "Nivel": "AvanÃ§ado"
+            },
+            {
+               "Nome": "Progamador Java",
+               "Nivel": "AvanÃ§ado"
+            },
+            {
+               "Nome": "Progamador Python",
+               "Nivel": "Principiante"
+            },
+            {
+               "Nome": "Progamador C",
+               "Nivel": "AvanÃ§ado"
+            },
+            {
+               "Nome": "SQL",
+               "Nivel": "IntermediÃ¡rio"
+            }
+         ]
+      },
+      "_versao": "27/04/2015"
+   }
+}

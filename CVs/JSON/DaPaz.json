@@ -1,0 +1,220 @@
+{
+   "CURRICULO-VITAE": {
+      "DADOS-GERAIS": {
+         "RESUMO-CV": {
+            "_TEXTO-RESUMO-CV-RH": "Possui graduação em Engenharia de Computação pelo Instituto Militar de Engenharia (2014).",
+            "_TEXTO-RESUMO-CV-RH-EN": "bachelor's at Engenharia de Computação from Instituto Militar de Engenharia (2014)."
+         },
+         "OUTRAS-INFORMACOES-RELEVANTES": {
+            "_OUTRAS-INFORMACOES-RELEVANTES": ""
+         },
+         "ENDERECO": {
+            "ENDERECO-PROFISSIONAL": {
+               "_CODIGO-INSTITUICAO-EMPRESA": "",
+               "_NOME-INSTITUICAO-EMPRESA": "",
+               "_CODIGO-UNIDADE": "",
+               "_NOME-UNIDADE": "",
+               "_CODIGO-ORGAO": "",
+               "_NOME-ORGAO": "",
+               "_PAIS": "",
+               "_UF": "",
+               "_LOGRADOURO-COMPLEMENTO": "",
+               "_BAIRRO": "",
+               "_CIDADE": "",
+               "_CAIXA-POSTAL": "",
+               "_CEP": "",
+               "_DDD": "",
+               "_TELEFONE": "",
+               "_RAMAL": "",
+               "_FAX": "",
+               "_HOME-PAGE": ""
+            },
+            "_FLAG-DE-PREFERENCIA": "ENDERECO_RESIDENCIAL"
+         },
+         "FORMACAO-ACADEMICA-TITULACAO": {
+            "GRADUACAO": {
+               "_SEQUENCIA-FORMACAO": "2",
+               "_NIVEL": "1",
+               "_TITULO-DO-TRABALHO-DE-CONCLUSAO-DE-CURSO": "Framework para Aplicações em Plataformas Móveis Usando Panoramas com Camadas",
+               "_NOME-DO-ORIENTADOR": "Luiz Carlos Pacheco Rodrigues Velho",
+               "_CODIGO-INSTITUICAO": "869900000005",
+               "_NOME-INSTITUICAO": "Instituto Militar de Engenharia",
+               "_CODIGO-CURSO": "90000000",
+               "_NOME-CURSO": "Engenharia de Computação",
+               "_CODIGO-AREA-CURSO": "",
+               "_STATUS-DO-CURSO": "CONCLUIDO",
+               "_ANO-DE-INICIO": "2010",
+               "_ANO-DE-CONCLUSAO": "2014",
+               "_FLAG-BOLSA": "NAO",
+               "_TIPO-GRADUACAO": "N",
+               "_CODIGO-INSTITUICAO-GRAD": "",
+               "_NOME-INSTITUICAO-GRAD": "",
+               "_CODIGO-INSTITUICAO-OUTRA-GRAD": "",
+               "_NOME-INSTITUICAO-OUTRA-GRAD": "",
+               "_NOME-ORIENTADOR-GRAD": "",
+               "_CODIGO-AGENCIA-FINANCIADORA": "",
+               "_NOME-AGENCIA": "",
+               "_NUMERO-ID-ORIENTADOR": "",
+               "_CODIGO-CURSO-CAPES": "",
+               "_TITULO-DO-TRABALHO-DE-CONCLUSAO-DE-CURSO-INGLES": "",
+               "_NOME-CURSO-INGLES": ""
+            },
+            "MESTRADO": {
+               "AREAS-DO-CONHECIMENTO": {
+                  "AREA-DO-CONHECIMENTO-1": {
+                     "_NOME-GRANDE-AREA-DO-CONHECIMENTO": "CIENCIAS_EXATAS_E_DA_TERRA",
+                     "_NOME-DA-AREA-DO-CONHECIMENTO": "Matemática",
+                     "_NOME-DA-SUB-AREA-DO-CONHECIMENTO": "",
+                     "_NOME-DA-ESPECIALIDADE": ""
+                  },
+                  "AREA-DO-CONHECIMENTO-2": {
+                     "_NOME-GRANDE-AREA-DO-CONHECIMENTO": "CIENCIAS_EXATAS_E_DA_TERRA",
+                     "_NOME-DA-AREA-DO-CONHECIMENTO": "Matemática",
+                     "_NOME-DA-SUB-AREA-DO-CONHECIMENTO": "Matemática Aplicada",
+                     "_NOME-DA-ESPECIALIDADE": ""
+                  }
+               },
+               "_SEQUENCIA-FORMACAO": "3",
+               "_NIVEL": "3",
+               "_CODIGO-INSTITUICAO": "005800000006",
+               "_NOME-INSTITUICAO": "Associação Instituto Nacional de Matemática Pura e Aplicada",
+               "_CODIGO-CURSO": "31070019",
+               "_NOME-CURSO": "Matemática",
+               "_CODIGO-AREA-CURSO": "10100008",
+               "_STATUS-DO-CURSO": "EM_ANDAMENTO",
+               "_ANO-DE-INICIO": "2015",
+               "_ANO-DE-CONCLUSAO": "",
+               "_FLAG-BOLSA": "SIM",
+               "_TIPO-MESTRADO": "N",
+               "_CODIGO-INSTITUICAO-DOUT": "",
+               "_NOME-INSTITUICAO-DOUT": "",
+               "_CODIGO-INSTITUICAO-OUTRA-DOUT": "",
+               "_NOME-INSTITUICAO-OUTRA-DOUT": "",
+               "_NOME-ORIENTADOR-DOUT": "",
+               "_CODIGO-AGENCIA-FINANCIADORA": "002200000000",
+               "_NOME-AGENCIA": "Conselho Nacional de Desenvolvimento Científico e Tecnológico",
+               "_ANO-DE-OBTENCAO-DO-TITULO": "",
+               "_TITULO-DA-DISSERTACAO-TESE": "",
+               "_NOME-COMPLETO-DO-ORIENTADOR": "Luiz Carlos Pacheco Rodrigues Velho",
+               "_NUMERO-ID-ORIENTADOR": "",
+               "_CODIGO-CURSO-CAPES": "31008011001P9",
+               "_TITULO-DA-DISSERTACAO-TESE-INGLES": "",
+               "_NOME-CURSO-INGLES": "Mathematics",
+               "_NOME-DO-CO-ORIENTADOR": ""
+            },
+            "ENSINO-MEDIO-SEGUNDO-GRAU": {
+               "_SEQUENCIA-FORMACAO": "1",
+               "_NIVEL": "C",
+               "_CODIGO-INSTITUICAO": "J3YT00000009",
+               "_NOME-INSTITUICAO": "Colégio Naval",
+               "_STATUS-DO-CURSO": "CONCLUIDO",
+               "_ANO-DE-INICIO": "2007",
+               "_ANO-DE-CONCLUSAO": "2009"
+            }
+         },
+         "AREAS-DE-ATUACAO": "",
+         "IDIOMAS": {
+            "IDIOMA": [
+               {
+                  "_IDIOMA": "EN",
+                  "_DESCRICAO-DO-IDIOMA": "Inglês",
+                  "_PROFICIENCIA-DE-LEITURA": "BEM",
+                  "_PROFICIENCIA-DE-FALA": "RAZOAVELMENTE",
+                  "_PROFICIENCIA-DE-ESCRITA": "BEM",
+                  "_PROFICIENCIA-DE-COMPREENSAO": "BEM"
+               },
+               {
+                  "_IDIOMA": "FR",
+                  "_DESCRICAO-DO-IDIOMA": "Francês",
+                  "_PROFICIENCIA-DE-LEITURA": "BEM",
+                  "_PROFICIENCIA-DE-FALA": "RAZOAVELMENTE",
+                  "_PROFICIENCIA-DE-ESCRITA": "RAZOAVELMENTE",
+                  "_PROFICIENCIA-DE-COMPREENSAO": "BEM"
+               }
+            ]
+         },
+         "PREMIOS-TITULOS": {
+            "PREMIO-TITULO": [
+               {
+                  "_NOME-DO-PREMIO-OU-TITULO": "Reconhecimento da Seção de Engenharia Mecânica e de Materiais do IME por destacar-se com o trabalho \"Caracterização e Beneficiamento de Rejeito de Caulim para Síntese de Geopolímeros\"",
+                  "_NOME-DA-ENTIDADE-PROMOTORA": "Instituto Militar de Engenharia",
+                  "_ANO-DA-PREMIACAO": "2011",
+                  "_NOME-DO-PREMIO-OU-TITULO-INGLES": ""
+               },
+               {
+                  "_NOME-DO-PREMIO-OU-TITULO": "Menção Honrosa na Olimpíada Brasileira de Física",
+                  "_NOME-DA-ENTIDADE-PROMOTORA": "Sociedade Brasileira de Física",
+                  "_ANO-DA-PREMIACAO": "2009",
+                  "_NOME-DO-PREMIO-OU-TITULO-INGLES": ""
+               }
+            ]
+         },
+         "_NOME-COMPLETO": "Hallison Oliveira da Paz",
+         "_NOME-EM-CITACOES-BIBLIOGRAFICAS": "PAZ, Hallison. O.",
+         "_NACIONALIDADE": "B",
+         "_PAIS-DE-NASCIMENTO": "Brasil",
+         "_UF-NASCIMENTO": "PE",
+         "_CIDADE-NASCIMENTO": "Recife",
+         "_PERMISSAO-DE-DIVULGACAO": "NAO",
+         "_DATA-FALECIMENTO": "",
+         "_SIGLA-PAIS-NACIONALIDADE": "BRA",
+         "_PAIS-DE-NACIONALIDADE": "Brasil"
+      },
+      "DADOS-COMPLEMENTARES": {
+         "INFORMACOES-ADICIONAIS-INSTITUICOES": {
+            "INFORMACAO-ADICIONAL-INSTITUICAO": [
+               {
+                  "_CODIGO-INSTITUICAO": "005800000006",
+                  "_SIGLA-INSTITUICAO": "IMPA",
+                  "_SIGLA-UF-INSTITUICAO": "RJ",
+                  "_SIGLA-PAIS-INSTITUICAO": "BRA",
+                  "_NOME-PAIS-INSTITUICAO": "Brasil",
+                  "_FLAG-AGENCIA-FOMENTO": "NAO",
+                  "_FLAG-INSTITUICAO-DE-ENSINO": "NAO"
+               },
+               {
+                  "_CODIGO-INSTITUICAO": "869900000005",
+                  "_SIGLA-INSTITUICAO": "IME",
+                  "_SIGLA-UF-INSTITUICAO": "RJ",
+                  "_SIGLA-PAIS-INSTITUICAO": "BRA",
+                  "_NOME-PAIS-INSTITUICAO": "Brasil",
+                  "_FLAG-AGENCIA-FOMENTO": "NAO",
+                  "_FLAG-INSTITUICAO-DE-ENSINO": "SIM"
+               }
+            ]
+         },
+         "INFORMACOES-ADICIONAIS-CURSOS": {
+            "INFORMACAO-ADICIONAL-CURSO": [
+               {
+                  "_CODIGO-CURSO": "31070019",
+                  "_CODIGO-ORGAO": "",
+                  "_NOME-ORGAO": "",
+                  "_CODIGO-INSTITUICAO": "005800000006",
+                  "_NOME-INSTITUICAO": "Associação Instituto Nacional de Matemática Pura e Aplicada",
+                  "_NOME-GRANDE-AREA-DO-CONHECIMENTO": "CIENCIAS_EXATAS_E_DA_TERRA",
+                  "_NOME-DA-AREA-DO-CONHECIMENTO": "Matemática",
+                  "_NOME-DA-SUB-AREA-DO-CONHECIMENTO": "",
+                  "_NOME-DA-ESPECIALIDADE": "",
+                  "_NIVEL-CURSO": "MESTRADO_DOUTORADO"
+               },
+               {
+                  "_CODIGO-CURSO": "90000000",
+                  "_CODIGO-ORGAO": "",
+                  "_NOME-ORGAO": "",
+                  "_CODIGO-INSTITUICAO": "869900000005",
+                  "_NOME-INSTITUICAO": "Instituto Militar de Engenharia",
+                  "_NOME-GRANDE-AREA-DO-CONHECIMENTO": "CIENCIAS_EXATAS_E_DA_TERRA",
+                  "_NOME-DA-AREA-DO-CONHECIMENTO": "Ciência da Computação",
+                  "_NOME-DA-SUB-AREA-DO-CONHECIMENTO": "",
+                  "_NOME-DA-ESPECIALIDADE": "",
+                  "_NIVEL-CURSO": "GRADUACAO"
+               }
+            ]
+         }
+      },
+      "_SISTEMA-ORIGEM-XML": "LATTES_OFFLINE",
+      "_DATA-ATUALIZACAO": "31032015",
+      "_HORA-ATUALIZACAO": "132758",
+      "_NUMERO-IDENTIFICADOR": "2903347562349249"
+   }
+}

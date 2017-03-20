@@ -1,0 +1,120 @@
+{
+   "CURRICULO-VITAE": {
+      "DADOS-GERAIS": {
+         "RESUMO-CV": {
+            "_TEXTO-RESUMO-CV-RH": "Graduando em Engenharia pelo Instituto Militar de Engenharia",
+            "_TEXTO-RESUMO-CV-RH-EN": ""
+         },
+         "OUTRAS-INFORMACOES-RELEVANTES": {
+            "_OUTRAS-INFORMACOES-RELEVANTES": ""
+         },
+         "ENDERECO": {
+            "ENDERECO-PROFISSIONAL": {
+               "_CODIGO-INSTITUICAO-EMPRESA": "",
+               "_NOME-INSTITUICAO-EMPRESA": "",
+               "_CODIGO-UNIDADE": "",
+               "_NOME-UNIDADE": "",
+               "_CODIGO-ORGAO": "",
+               "_NOME-ORGAO": "",
+               "_PAIS": "",
+               "_UF": "",
+               "_LOGRADOURO-COMPLEMENTO": "",
+               "_BAIRRO": "",
+               "_CIDADE": "",
+               "_CAIXA-POSTAL": "",
+               "_CEP": "",
+               "_DDD": "",
+               "_TELEFONE": "",
+               "_RAMAL": "",
+               "_FAX": "",
+               "_HOME-PAGE": ""
+            },
+            "_FLAG-DE-PREFERENCIA": "ENDERECO_RESIDENCIAL"
+         },
+         "FORMACAO-ACADEMICA-TITULACAO": {
+            "GRADUACAO": {
+               "_SEQUENCIA-FORMACAO": "3",
+               "_NIVEL": "1",
+               "_TITULO-DO-TRABALHO-DE-CONCLUSAO-DE-CURSO": "",
+               "_NOME-DO-ORIENTADOR": "",
+               "_CODIGO-INSTITUICAO": "869900000005",
+               "_NOME-INSTITUICAO": "Instituto Militar de Engenharia",
+               "_CODIGO-CURSO": "",
+               "_NOME-CURSO": "Engenharia",
+               "_CODIGO-AREA-CURSO": "",
+               "_STATUS-DO-CURSO": "EM_ANDAMENTO",
+               "_ANO-DE-INICIO": "2010",
+               "_ANO-DE-CONCLUSAO": "",
+               "_FLAG-BOLSA": "NAO",
+               "_CODIGO-AGENCIA-FINANCIADORA": "",
+               "_NOME-AGENCIA": "",
+               "_NUMERO-ID-ORIENTADOR": "",
+               "_CODIGO-CURSO-CAPES": "",
+               "_TITULO-DO-TRABALHO-DE-CONCLUSAO-DE-CURSO-INGLES": "",
+               "_NOME-CURSO-INGLES": ""
+            }
+         },
+         "ATUACOES-PROFISSIONAIS": "",
+         "AREAS-DE-ATUACAO": "",
+         "IDIOMAS": {
+            "IDIOMA": [
+               {
+                  "_IDIOMA": "ES",
+                  "_DESCRICAO-DO-IDIOMA": "Espanhol",
+                  "_PROFICIENCIA-DE-LEITURA": "RAZOAVELMENTE",
+                  "_PROFICIENCIA-DE-FALA": "NAO_INFORMADO",
+                  "_PROFICIENCIA-DE-ESCRITA": "NAO_INFORMADO",
+                  "_PROFICIENCIA-DE-COMPREENSAO": "RAZOAVELMENTE"
+               },
+               {
+                  "_IDIOMA": "EN",
+                  "_DESCRICAO-DO-IDIOMA": "Inglês",
+                  "_PROFICIENCIA-DE-LEITURA": "BEM",
+                  "_PROFICIENCIA-DE-FALA": "BEM",
+                  "_PROFICIENCIA-DE-ESCRITA": "BEM",
+                  "_PROFICIENCIA-DE-COMPREENSAO": "BEM"
+               }
+            ]
+         },
+         "_NOME-COMPLETO": "Renan Gemignani",
+         "_NOME-EM-CITACOES-BIBLIOGRAFICAS": "GEMIGNANI, R.",
+         "_NACIONALIDADE": "B",
+         "_PAIS-DE-NASCIMENTO": "Brasil",
+         "_UF-NASCIMENTO": "RO",
+         "_CIDADE-NASCIMENTO": "Porto Velho",
+         "_PERMISSAO-DE-DIVULGACAO": "NAO",
+         "_DATA-FALECIMENTO": ""
+      },
+      "DADOS-COMPLEMENTARES": {
+         "INFORMACOES-ADICIONAIS-INSTITUICOES": {
+            "INFORMACAO-ADICIONAL-INSTITUICAO": {
+               "_CODIGO-INSTITUICAO": "869900000005",
+               "_SIGLA-INSTITUICAO": "IME",
+               "_SIGLA-UF-INSTITUICAO": "RJ",
+               "_SIGLA-PAIS-INSTITUICAO": "BRA",
+               "_NOME-PAIS-INSTITUICAO": "Brasil",
+               "_FLAG-AGENCIA-FOMENTO": "NAO",
+               "_FLAG-INSTITUICAO-DE-ENSINO": "SIM"
+            }
+         },
+         "INFORMACOES-ADICIONAIS-CURSOS": {
+            "INFORMACAO-ADICIONAL-CURSO": {
+               "_CODIGO-CURSO": "90000000",
+               "_CODIGO-ORGAO": "",
+               "_NOME-ORGAO": "",
+               "_CODIGO-INSTITUICAO": "869900000005",
+               "_NOME-INSTITUICAO": "Instituto Militar de Engenharia",
+               "_NOME-GRANDE-AREA-DO-CONHECIMENTO": "OUTROS",
+               "_NOME-DA-AREA-DO-CONHECIMENTO": "",
+               "_NOME-DA-SUB-AREA-DO-CONHECIMENTO": "",
+               "_NOME-DA-ESPECIALIDADE": "",
+               "_NIVEL-CURSO": "GRADUACAO"
+            }
+         }
+      },
+      "_SISTEMA-ORIGEM-XML": "LATTES_OFFLINE",
+      "_DATA-ATUALIZACAO": "17082010",
+      "_HORA-ATUALIZACAO": "144810",
+      "_NUMERO-IDENTIFICADOR": "5996718345727218"
+   }
+}

@@ -1,0 +1,85 @@
+{
+   "curriculum": {
+      "cabecalho": {
+         "dados-pessoais": {
+            "nome": "Ricardo Solon Zalla",
+            "nacinalidade": "Brasileiro",
+            "estado-civil": "Solteiro",
+            "idade": "22"
+         },
+         "contato": {
+            "endereco": {
+               "logradouro": "Avenida Praia de Botafogo",
+               "bairro": "Botafogo",
+               "cidade": "Rio de Janeiro",
+               "UF": "RJ"
+            },
+            "telefone": [
+               {
+                  "_tipo": "celular",
+                  "_id": "tel1",
+                  "__text": "(21)99790-3620",
+                  "toString": [
+                     null
+                  ]
+               },
+               {
+                  "_tipo": "fixo",
+                  "_id": "tel2",
+                  "__text": "(67)3351-5694",
+                  "toString": [
+                     null
+                  ]
+               }
+            ],
+            "e-mail": "zallaricardo@gmail.com"
+         }
+      },
+      "objetivo": {
+         "_cargo": "estagiario",
+         "__text": "EstÃ¡gio na Ã¡rea de consultoria em computaÃ§Ã£o",
+         "toString": [
+            null
+         ]
+      },
+      "formacao": {
+         "formacao-item": {
+            "curso": "Engenharia de ComputaÃ§Ã£o",
+            "instituicao": "Instituto Militar de Engenharia",
+            "conclusao": "2016",
+            "_tipo": "GraduaÃ§Ã£o"
+         }
+      },
+      "exp-prof": {
+         "exp-prof-item": {
+            "instituicao": {
+               "_contato": "",
+               "__text": "21212 Digital Accelerator",
+               "toString": [
+                  null
+               ]
+            },
+            "cargo": "EstagiÃ¡rio",
+            "atividade": {
+               "atividade-item": "AnÃ¡lise de startups digitais com alto potencial de escalabilidade"
+            },
+            "_inicio": "2013",
+            "_fim": "2013"
+         }
+      },
+      "qualificacao": {
+         "qualificacao-item": {
+            "_tipo": "ligua",
+            "__text": "InglÃªs-IntermediÃ¡rio(Kaplan International College)-2 meses, ConclusÃ£o 2012",
+            "toString": [
+               null
+            ]
+         }
+      },
+      "info-adicional": "",
+      "__text": "/",
+      "toString": [
+         null
+      ]
+   }
+}
