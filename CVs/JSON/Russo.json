@@ -1,0 +1,342 @@
+{
+   "CurriculumVitae": {
+      "header": {
+         "name": [
+            {
+               "firstname": "Raffael",
+               "surname": "Russo"
+            }
+         ],
+         "address": {
+            "building": "Chateau Do'r",
+            "street": {
+               "name": [
+                  "Rua Paula Freitas"
+               ],
+               "number": "95"
+            },
+            "neighborhood": "Copacabana",
+            "municipalty": "Rio de Janeiro",
+            "state": "RJ"
+         },
+         "contact": {
+            "email": "raffaelrusso@gmail.com",
+            "phone": "(21)988766615"
+         }
+      },
+      "objective": "Estagio",
+      "education": {
+         "undergrad": {
+            "course": [
+               "Engenharia de Computacao"
+            ],
+            "name": [
+               "Instituto Militar de Engenharia"
+            ],
+            "conclusion": {
+               "date": {
+                  "month": "dez",
+                  "year": "2016"
+               }
+            },
+            "GPAscore": "7.6",
+            "_id": "0"
+         }
+      },
+      "WorkExperience": {
+         "work": {
+            "label": "Estagiario",
+            "employer": {
+               "name": [
+                  "BBM Investimentos"
+               ],
+               "address": {
+                  "building": "",
+                  "street": {
+                     "name": [
+                        "Praca Pio X"
+                     ],
+                     "number": "98"
+                  },
+                  "neighborhood": "Centro",
+                  "municipalty": "Rio de Janeiro",
+                  "state": "RJ"
+               }
+            },
+            "from": {
+               "date": {
+                  "month": "dez",
+                  "year": "2014"
+               }
+            },
+            "to": {
+               "date": {
+                  "month": "jun",
+                  "year": "2015"
+               }
+            },
+            "area": "Controle de credito",
+            "duties": {
+               "duty": [
+                  {
+                     "description": "UtilizaÃ§ao de VBA para automatizaÃ§Ã£o de rotinas.",
+                     "results": "Mapeamento da carteira de credito do banco",
+                     "_id": "0"
+                  },
+                  {
+                     "description": "GeraÃ§Ã£o de relatÃ³rios para o Banco central.",
+                     "results": "Envio de um consolidado das operaÃ§Ãµes feitas pelo Banco no setor de cessÃ£o de crÃ©dito.",
+                     "_id": "1"
+                  }
+               ]
+            },
+            "_id": "0"
+         }
+      },
+      "research": {
+         "project": {
+            "title": "Projeto de desenvolvimento de Software",
+            "from": {
+               "date": {
+                  "month": "jun",
+                  "year": "2013"
+               }
+            },
+            "to": {
+               "date": {
+                  "month": "jan",
+                  "year": "2014"
+               }
+            },
+            "brief": "Projeto de acoplar uma cÃ¢mera a uma arma para que o usuÃ¡rio pudesse ter uma visÃ£o ampliada do campo de batalha e pudesse detectar e reonhecer faces.",
+            "sponsorship": {
+               "name": [
+                  "CNPq"
+               ]
+            },
+            "_id": "0"
+         }
+      },
+      "awards": {
+         "honor": {
+            "description": "",
+            "_id": "0"
+         }
+      },
+      "courses": {
+         "course": [
+            {
+               "name": [
+                  "Excel Avancado aplicado a Bolsa de Valores"
+               ],
+               "company": {
+                  "name": [
+                     "IEG"
+                  ]
+               },
+               "period": {
+                  "from": {
+                     "date": {
+                        "month": "set",
+                        "year": "2014"
+                     }
+                  },
+                  "to": {
+                     "date": {
+                        "month": "nov",
+                        "year": "2014"
+                     }
+                  }
+               },
+               "topics": {
+                  "topic": [
+                     {
+                        "name": [
+                           "Principais Recursos do Excel"
+                        ],
+                        "_id": "0"
+                     },
+                     {
+                        "name": [
+                           "Teoria Moderna do Portfolio"
+                        ],
+                        "_id": "1"
+                     },
+                     {
+                        "name": [
+                           "Indicadores TÃ©cnicos"
+                        ],
+                        "_id": "2"
+                     },
+                     {
+                        "name": [
+                           "Sistemas de Negociacao"
+                        ],
+                        "_id": "3"
+                     }
+                  ]
+               },
+               "_id": "0"
+            },
+            {
+               "name": [
+                  "Curso de Ingles"
+               ],
+               "company": {
+                  "name": [
+                     "Brasas"
+                  ]
+               },
+               "period": {
+                  "from": {
+                     "date": {
+                        "month": "fev",
+                        "year": "2008"
+                     }
+                  },
+                  "to": {
+                     "date": {
+                        "month": "dez",
+                        "year": "2012"
+                     }
+                  }
+               },
+               "topics": {
+                  "topic": [
+                     {
+                        "name": [
+                           "Gramatica"
+                        ],
+                        "_id": "0"
+                     },
+                     {
+                        "name": [
+                           "Vocabulario"
+                        ],
+                        "_id": "1"
+                     },
+                     {
+                        "name": [
+                           "Conversacao"
+                        ],
+                        "_id": "2"
+                     },
+                     {
+                        "name": [
+                           "Escrita"
+                        ],
+                        "_id": "3"
+                     }
+                  ]
+               },
+               "_id": "1"
+            }
+         ]
+      },
+      "ComplementaryActivities": {
+         "activity": {
+            "name": [
+               "AÃ§Ã£o Social ColÃ©gio Cruzeiro"
+            ],
+            "label": "Cuidador de crianÃ§as",
+            "area": "Voluntario",
+            "period": {
+               "from": {
+                  "date": {
+                     "month": "jan",
+                     "year": "2007"
+                  }
+               },
+               "to": {
+                  "date": {
+                     "month": "dez",
+                     "year": "2007"
+                  }
+               }
+            },
+            "duties": {
+               "duty": [
+                  {
+                     "description": "Coordenar projetos de recreaÃ§Ã£o para crianÃ§as de uma creche.",
+                     "results": "Foi feito um teatro e foram obtidas doaÃ§Ãµes de brinquedos para as crianÃ§as.",
+                     "_id": "0"
+                  }
+               ]
+            },
+            "_id": "0"
+         }
+      },
+      "PersonalSkills": {
+         "skill": [
+            {
+               "name": [
+                  {
+                     "_id": "0",
+                     "__text": "C++",
+                     "toString": [
+                        null
+                     ]
+                  },
+                  {
+                     "_id": "1",
+                     "__text": "Java",
+                     "toString": [
+                        null
+                     ]
+                  },
+                  {
+                     "_id": "2",
+                     "__text": "C",
+                     "toString": [
+                        null
+                     ]
+                  },
+                  {
+                     "_id": "3",
+                     "__text": "SQL",
+                     "toString": [
+                        null
+                     ]
+                  },
+                  {
+                     "_id": "4",
+                     "__text": "VBA",
+                     "toString": [
+                        null
+                     ]
+                  },
+                  {
+                     "_id": "5",
+                     "__text": "R",
+                     "toString": [
+                        null
+                     ]
+                  }
+               ],
+               "_id": "0",
+               "_name": "Linguagens de Programacao"
+            },
+            {
+               "name": [
+                  {
+                     "_id": "0",
+                     "__text": "Ingles",
+                     "toString": [
+                        null
+                     ]
+                  },
+                  {
+                     "_id": "0",
+                     "__text": "AlemÃ£o",
+                     "toString": [
+                        null
+                     ]
+                  }
+               ],
+               "_id": "1",
+               "_name": "Linguas"
+            }
+         ]
+      }
+   }
+}

@@ -1,0 +1,117 @@
+{
+   "CURRICULO-VITAE": {
+      "DADOS-GERAIS": {
+         "RESUMO-CV": {
+            "_TEXTO-RESUMO-CV-RH": "Atualmente é estudante do Instituto Militar de Engenharia.",
+            "_TEXTO-RESUMO-CV-RH-EN": ""
+         },
+         "OUTRAS-INFORMACOES-RELEVANTES": {
+            "_OUTRAS-INFORMACOES-RELEVANTES": ""
+         },
+         "ENDERECO": {
+            "ENDERECO-PROFISSIONAL": {
+               "_CODIGO-INSTITUICAO-EMPRESA": "",
+               "_NOME-INSTITUICAO-EMPRESA": "",
+               "_CODIGO-UNIDADE": "",
+               "_NOME-UNIDADE": "",
+               "_CODIGO-ORGAO": "",
+               "_NOME-ORGAO": "",
+               "_PAIS": "",
+               "_UF": "",
+               "_LOGRADOURO-COMPLEMENTO": "",
+               "_BAIRRO": "",
+               "_CIDADE": "",
+               "_CAIXA-POSTAL": "",
+               "_CEP": "",
+               "_DDD": "",
+               "_TELEFONE": "",
+               "_RAMAL": "",
+               "_FAX": "",
+               "_HOME-PAGE": ""
+            },
+            "_FLAG-DE-PREFERENCIA": "ENDERECO_INSTITUCIONAL"
+         },
+         "FORMACAO-ACADEMICA-TITULACAO": {
+            "ENSINO-MEDIO-SEGUNDO-GRAU": {
+               "_SEQUENCIA-FORMACAO": "1",
+               "_NIVEL": "C",
+               "_CODIGO-INSTITUICAO": "",
+               "_NOME-INSTITUICAO": "Colégio pH",
+               "_STATUS-DO-CURSO": "CONCLUIDO",
+               "_ANO-DE-INICIO": "2007",
+               "_ANO-DE-CONCLUSAO": "2009"
+            }
+         },
+         "ATUACOES-PROFISSIONAIS": {
+            "ATUACAO-PROFISSIONAL": {
+               "VINCULOS": {
+                  "_SEQUENCIA-HISTORICO": "1",
+                  "_TIPO-DE-VINCULO": "OUTRO",
+                  "_ENQUADRAMENTO-FUNCIONAL": "LIVRE",
+                  "_CARGA-HORARIA-SEMANAL": "",
+                  "_FLAG-DEDICACAO-EXCLUSIVA": "NAO",
+                  "_MES-INICIO": "",
+                  "_ANO-INICIO": "2010",
+                  "_MES-FIM": "",
+                  "_ANO-FIM": "",
+                  "_OUTRAS-INFORMACOES": "",
+                  "_FLAG-VINCULO-EMPREGATICIO": "NAO",
+                  "_OUTRO-VINCULO-INFORMADO": "",
+                  "_OUTRO-ENQUADRAMENTO-FUNCIONAL-INFORMADO": "Estudante",
+                  "_OUTRO-ENQUADRAMENTO-FUNCIONAL-INFORMADO-INGLES": "",
+                  "_OUTRAS-INFORMACOES-INGLES": ""
+               },
+               "_CODIGO-INSTITUICAO": "869900000005",
+               "_NOME-INSTITUICAO": "Instituto Militar de Engenharia",
+               "_SEQUENCIA-ATIVIDADE": "1",
+               "_SEQUENCIA-IMPORTANCIA": ""
+            }
+         },
+         "AREAS-DE-ATUACAO": {
+            "AREA-DE-ATUACAO": {
+               "_SEQUENCIA-AREA-DE-ATUACAO": "1",
+               "_NOME-GRANDE-AREA-DO-CONHECIMENTO": "OUTROS",
+               "_NOME-DA-AREA-DO-CONHECIMENTO": "",
+               "_NOME-DA-SUB-AREA-DO-CONHECIMENTO": "",
+               "_NOME-DA-ESPECIALIDADE": ""
+            }
+         },
+         "IDIOMAS": {
+            "IDIOMA": [
+               {
+                  "_IDIOMA": "EN",
+                  "_DESCRICAO-DO-IDIOMA": "Inglês",
+                  "_PROFICIENCIA-DE-LEITURA": "BEM",
+                  "_PROFICIENCIA-DE-FALA": "RAZOAVELMENTE",
+                  "_PROFICIENCIA-DE-ESCRITA": "RAZOAVELMENTE",
+                  "_PROFICIENCIA-DE-COMPREENSAO": "BEM"
+               },
+               {
+                  "_IDIOMA": "ES",
+                  "_DESCRICAO-DO-IDIOMA": "Espanhol",
+                  "_PROFICIENCIA-DE-LEITURA": "RAZOAVELMENTE",
+                  "_PROFICIENCIA-DE-FALA": "POUCO",
+                  "_PROFICIENCIA-DE-ESCRITA": "POUCO",
+                  "_PROFICIENCIA-DE-COMPREENSAO": "RAZOAVELMENTE"
+               }
+            ]
+         },
+         "_NOME-COMPLETO": "Carlos Alberto Villote de Oliveira",
+         "_NOME-EM-CITACOES-BIBLIOGRAFICAS": "OLIVEIRA, C. A. V.",
+         "_NACIONALIDADE": "B",
+         "_PAIS-DE-NASCIMENTO": "Brasil",
+         "_UF-NASCIMENTO": "",
+         "_CIDADE-NASCIMENTO": "",
+         "_PERMISSAO-DE-DIVULGACAO": "NAO",
+         "_DATA-FALECIMENTO": ""
+      },
+      "DADOS-COMPLEMENTARES": {
+         "INFORMACOES-ADICIONAIS-INSTITUICOES": "",
+         "INFORMACOES-ADICIONAIS-CURSOS": ""
+      },
+      "_SISTEMA-ORIGEM-XML": "LATTES_OFFLINE",
+      "_DATA-ATUALIZACAO": "26062012",
+      "_HORA-ATUALIZACAO": "160009",
+      "_NUMERO-IDENTIFICADOR": ""
+   }
+}

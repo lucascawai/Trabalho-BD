@@ -1,0 +1,106 @@
+{
+   "CV": {
+      "Name": "Rafael Farias Cacao",
+      "Body": {
+         "Identificaco": {
+            "Nascimento": "08/04/1992",
+            "Naturalidade": {
+               "Cidade": "Campo Grande",
+               "UF": "MS",
+               "Pais": "Brasil"
+            },
+            "Endereco": {
+               "Logradouro": "Av Portugal",
+               "Numero": "584",
+               "Complemento": "apt 202",
+               "Bairro": "Urca",
+               "Cidade": "Rio de Janeiro",
+               "UF": "RJ",
+               "CEP": "22261-050"
+            },
+            "Telefones": {
+               "Telefone": [
+                  {
+                     "Id": "1",
+                     "Number": "(21) 968995572"
+                  },
+                  {
+                     "Id": "2",
+                     "Number": "(67) 9263-0040"
+                  }
+               ]
+            },
+            "Email": [
+               {
+                  "Id": "1",
+                  "Value": "rafafariasc@hotmail.com"
+               },
+               {
+                  "Id": "2",
+                  "Value": "rafaelfariasc@gmail.com"
+               }
+            ]
+         },
+         "Formacao": {
+            "Graduacao": {
+               "Id": "1",
+               "Instituicao": "Instituto Militar de Engenharia",
+               "Curso": "Engenharia de Computacao",
+               "Inicio": "Janeiro de 2012",
+               "Fim": "Dezembro de 2016"
+            }
+         },
+         "Linguas": {
+            "Lingua": {
+               "Id": "1",
+               "Nome": "Ingles",
+               "Nivel": "Avancado"
+            }
+         },
+         "Experiencias": {
+            "Experiencia": {
+               "Id": "1",
+               "Empresa": "KADIMA Asset Management",
+               "Cargo": "Estagiario",
+               "Inicio": "10/11/2013",
+               "Fim": ""
+            }
+         },
+         "Programacao": {
+            "Linguagem": [
+               {
+                  "Id": "1",
+                  "Nome": "C/C++",
+                  "Nivel": "Intermediario"
+               },
+               {
+                  "Id": "2",
+                  "Nome": "Java",
+                  "Nivel": "Intermediario"
+               },
+               {
+                  "Id": "3",
+                  "Nome": "Objective C",
+                  "Nivel": "Basico"
+               },
+               {
+                  "Id": "4",
+                  "Nome": "C#",
+                  "Nivel": "Basico"
+               }
+            ]
+         },
+         "Meritos": {
+            "Bolsas": {
+               "Bolsa": {
+                  "Id": "1",
+                  "Descricao": "Iniciacao Cientifica no Conselho Nacional de Desenvolvimento Cientifico Tecnologico (CNPq)",
+                  "Inicio": "Julho de 2012",
+                  "Fim": "Dezembro de 2014"
+               }
+            },
+            "Publicacoes": ""
+         }
+      }
+   }
+}

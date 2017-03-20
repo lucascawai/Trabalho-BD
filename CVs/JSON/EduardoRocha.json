@@ -1,0 +1,596 @@
+{
+   "CURRICULO-VITAE": {
+      "DADOS-GERAIS": {
+         "RESUMO-CV": {
+            "_TEXTO-RESUMO-CV-RH": "Formado em Engenharia de Computação no Instituto Militar de Engenharia (IME). Trabalha atualmente no Centro de Desenvolvimento de Sistemas como desenvolvedor na Divisão de Comando e Controle.",
+            "_TEXTO-RESUMO-CV-RH-EN": ""
+         },
+         "ENDERECO": {
+            "ENDERECO-PROFISSIONAL": {
+               "_CODIGO-INSTITUICAO-EMPRESA": "985608320567",
+               "_NOME-INSTITUICAO-EMPRESA": "Centro de Desenvolvimento de Sistemas - Exército Brasileiro",
+               "_CODIGO-ORGAO": "",
+               "_NOME-ORGAO": "",
+               "_CODIGO-UNIDADE": "985608320567",
+               "_NOME-UNIDADE": "Centro de Desenvolvimento de Sistemas - Exército Brasileiro",
+               "_LOGRADOURO-COMPLEMENTO": "Quartel General do Exército",
+               "_PAIS": "Brasil",
+               "_UF": "DF",
+               "_CEP": "70630901",
+               "_CIDADE": "Brasília",
+               "_BAIRRO": "Setor Militar Urbano",
+               "_DDD": "61",
+               "_TELEFONE": "99857921",
+               "_RAMAL": "",
+               "_FAX": "",
+               "_CAIXA-POSTAL": "",
+               "_HOME-PAGE": ""
+            },
+            "_FLAG-DE-PREFERENCIA": "ENDERECO_RESIDENCIAL"
+         },
+         "FORMACAO-ACADEMICA-TITULACAO": {
+            "GRADUACAO": {
+               "_SEQUENCIA-FORMACAO": "1",
+               "_NIVEL": "1",
+               "_TITULO-DO-TRABALHO-DE-CONCLUSAO-DE-CURSO": "Framework para aplicações em plataformas móveis usando panoramas com camadas",
+               "_NOME-DO-ORIENTADOR": "Paulo Fernando Ferreira Rosa",
+               "_CODIGO-INSTITUICAO": "869900000005",
+               "_NOME-INSTITUICAO": "Instituto Militar de Engenharia",
+               "_CODIGO-ORGAO": "",
+               "_NOME-ORGAO": "",
+               "_CODIGO-CURSO": "90000002",
+               "_NOME-CURSO": "Engenharia de Computação",
+               "_CODIGO-AREA-CURSO": "90000002",
+               "_STATUS-DO-CURSO": "CONCLUIDO",
+               "_ANO-DE-INICIO": "2010",
+               "_ANO-DE-CONCLUSAO": "2014",
+               "_FLAG-BOLSA": "NAO",
+               "_CODIGO-AGENCIA-FINANCIADORA": "",
+               "_NOME-AGENCIA": "",
+               "_NUMERO-ID-ORIENTADOR": "",
+               "_CODIGO-CURSO-CAPES": "",
+               "_TITULO-DO-TRABALHO-DE-CONCLUSAO-DE-CURSO-INGLES": "",
+               "_NOME-CURSO-INGLES": "",
+               "_FORMACAO-ACADEMICA-TITULACAO": "",
+               "_TIPO-GRADUACAO": "N",
+               "_CODIGO-INSTITUICAO-GRAD": "",
+               "_NOME-INSTITUICAO-GRAD": "",
+               "_CODIGO-INSTITUICAO-OUTRA-GRAD": "",
+               "_NOME-INSTITUICAO-OUTRA-GRAD": "",
+               "_NOME-ORIENTADOR-GRAD": ""
+            },
+            "ENSINO-MEDIO-SEGUNDO-GRAU": {
+               "_SEQUENCIA-FORMACAO": "2",
+               "_NIVEL": "C",
+               "_CODIGO-INSTITUICAO": "000100000991",
+               "_NOME-INSTITUICAO": "Organização Educacional Farias Brito",
+               "_STATUS-DO-CURSO": "CONCLUIDO",
+               "_ANO-DE-INICIO": "2006",
+               "_ANO-DE-CONCLUSAO": "2008"
+            }
+         },
+         "ATUACOES-PROFISSIONAIS": {
+            "ATUACAO-PROFISSIONAL": [
+               {
+                  "VINCULOS": {
+                     "_SEQUENCIA-HISTORICO": "1",
+                     "_TIPO-DE-VINCULO": "LIVRE",
+                     "_ENQUADRAMENTO-FUNCIONAL": "LIVRE",
+                     "_CARGA-HORARIA-SEMANAL": "30",
+                     "_FLAG-DEDICACAO-EXCLUSIVA": "SIM",
+                     "_MES-INICIO": "02",
+                     "_ANO-INICIO": "2010",
+                     "_MES-FIM": "12",
+                     "_ANO-FIM": "2014",
+                     "_OUTRAS-INFORMACOES": "",
+                     "_FLAG-VINCULO-EMPREGATICIO": "SIM",
+                     "_OUTRO-VINCULO-INFORMADO": "",
+                     "_OUTRO-ENQUADRAMENTO-FUNCIONAL-INFORMADO": "Aluno do Curso de Formação e Graduação",
+                     "_OUTRO-ENQUADRAMENTO-FUNCIONAL-INFORMADO-INGLES": "",
+                     "_OUTRAS-INFORMACOES-INGLES": ""
+                  },
+                  "ATIVIDADES-DE-PARTICIPACAO-EM-PROJETO": {
+                     "PARTICIPACAO-EM-PROJETO": [
+                        {
+                           "PROJETO-DE-PESQUISA": [
+                              {
+                                 "EQUIPE-DO-PROJETO": {
+                                    "INTEGRANTES-DO-PROJETO": [
+                                       {
+                                          "_NOME-COMPLETO": "Carlos Eduardo Pinheiro Rocha",
+                                          "_NOME-PARA-CITACAO": "ROCHA, C. E. P.",
+                                          "_ORDEM-DE-INTEGRACAO": "1",
+                                          "_FLAG-RESPONSAVEL": "NAO",
+                                          "_NRO-ID-CNPQ": "4577615330663358"
+                                       },
+                                       {
+                                          "_NOME-COMPLETO": "Claudia Marcela Justel",
+                                          "_NOME-PARA-CITACAO": "JUSTEL, C. M.",
+                                          "_ORDEM-DE-INTEGRACAO": "2",
+                                          "_FLAG-RESPONSAVEL": "SIM",
+                                          "_NRO-ID-CNPQ": "3165736954373606"
+                                       }
+                                    ]
+                                 },
+                                 "FINANCIADORES-DO-PROJETO": {
+                                    "FINANCIADOR-DO-PROJETO": {
+                                       "_SEQUENCIA-FINANCIADOR": "1",
+                                       "_CODIGO-INSTITUICAO": "002200000000",
+                                       "_NOME-INSTITUICAO": "Conselho Nacional de Desenvolvimento Científico e Tecnológico",
+                                       "_NATUREZA": "BOLSA"
+                                    }
+                                 },
+                                 "_SEQUENCIA-PROJETO": "2",
+                                 "_ANO-INICIO": "2011",
+                                 "_ANO-FIM": "2012",
+                                 "_NOME-DO-PROJETO": "Perturbações da Matriz Laplaciana de um Grafo",
+                                 "_SITUACAO": "CONCLUIDO",
+                                 "_NATUREZA": "PESQUISA",
+                                 "_NUMERO-GRADUACAO": "1",
+                                 "_NUMERO-ESPECIALIZACAO": "",
+                                 "_NUMERO-MESTRADO-ACADEMICO": "",
+                                 "_NUMERO-MESTRADO-PROF": "",
+                                 "_NUMERO-DOUTORADO": "",
+                                 "_DESCRICAO-DO-PROJETO": "Estudo do efeito produzido nos autovalores da matriz Laplaciana de um grafo a partir da inserção de arestas, em particular, o segundo menor autovalor da matriz Laplaciana,\ndenominado conectividade algébrica. O problema NP-Completo denominado\nAumento Máximo da Conectividade Algébrica será abordado, e algoritmos que resolvem esse problema de maneira aproximada serão estudados e implementados.",
+                                 "_IDENTIFICADOR-PROJETO": "",
+                                 "_DESCRICAO-DO-PROJETO-INGLES": "",
+                                 "_NOME-DO-PROJETO-INGLES": "Perturbações da Matriz Laplaciana de um Grafo",
+                                 "_FLAG-POTENCIAL-INOVACAO": "NAO",
+                                 "_NOME-COORDENADOR-CERTIFICACAO": "",
+                                 "_DATA-CERTIFICACAO": "",
+                                 "_NUMERO_TECNICO_NIVEL_MEDIO": ""
+                              },
+                              {
+                                 "EQUIPE-DO-PROJETO": {
+                                    "INTEGRANTES-DO-PROJETO": [
+                                       {
+                                          "_NOME-COMPLETO": "Carlos Eduardo Pinheiro Rocha",
+                                          "_NOME-PARA-CITACAO": "ROCHA, C. E. P.",
+                                          "_ORDEM-DE-INTEGRACAO": "1",
+                                          "_FLAG-RESPONSAVEL": "NAO",
+                                          "_NRO-ID-CNPQ": "4577615330663358"
+                                       },
+                                       {
+                                          "_NOME-COMPLETO": "Claudia Marcela Justel",
+                                          "_NOME-PARA-CITACAO": "JUSTEL, C. M.",
+                                          "_ORDEM-DE-INTEGRACAO": "2",
+                                          "_FLAG-RESPONSAVEL": "SIM",
+                                          "_NRO-ID-CNPQ": "3165736954373606"
+                                       },
+                                       {
+                                          "_NOME-COMPLETO": "Emanuelle Nunes Lira Chaves",
+                                          "_NOME-PARA-CITACAO": "CHAVES, E. N. L.",
+                                          "_ORDEM-DE-INTEGRACAO": "3",
+                                          "_FLAG-RESPONSAVEL": "NAO",
+                                          "_NRO-ID-CNPQ": "9312380238656459"
+                                       }
+                                    ]
+                                 },
+                                 "_SEQUENCIA-PROJETO": "3",
+                                 "_ANO-INICIO": "2012",
+                                 "_ANO-FIM": "2013",
+                                 "_NOME-DO-PROJETO": "Algoritmos para Problemas de Perturbações da Matriz Laplaciana de um Grafo",
+                                 "_SITUACAO": "CONCLUIDO",
+                                 "_NATUREZA": "PESQUISA",
+                                 "_NUMERO-GRADUACAO": "2",
+                                 "_NUMERO-ESPECIALIZACAO": "",
+                                 "_NUMERO-MESTRADO-ACADEMICO": "",
+                                 "_NUMERO-MESTRADO-PROF": "",
+                                 "_NUMERO-DOUTORADO": "",
+                                 "_DESCRICAO-DO-PROJETO": "O objetivo deste trabalho é estudar a teoria espectral de grafos e algoritmos que,\ndado um grafo de entrada e um parâmetro k, determine k arestas que produzem maior\naumento da conectividade algébrica do grafo resultante. Estes algoritmos tentam resolver de maneira aproximada o problema do aumento máximo de conectividade algébrica.",
+                                 "_IDENTIFICADOR-PROJETO": "",
+                                 "_DESCRICAO-DO-PROJETO-INGLES": "",
+                                 "_NOME-DO-PROJETO-INGLES": "Algoritmos para Problemas de Perturbações da Matriz Laplaciana de um Grafo",
+                                 "_FLAG-POTENCIAL-INOVACAO": "NAO",
+                                 "_NOME-COORDENADOR-CERTIFICACAO": "",
+                                 "_DATA-CERTIFICACAO": "",
+                                 "_NUMERO_TECNICO_NIVEL_MEDIO": ""
+                              }
+                           ],
+                           "_SEQUENCIA-FUNCAO-ATIVIDADE": "2",
+                           "_FLAG-PERIODO": "ANTERIOR",
+                           "_MES-INICIO": "",
+                           "_ANO-INICIO": "2011",
+                           "_MES-FIM": "",
+                           "_ANO-FIM": "2012",
+                           "_CODIGO-ORGAO": "869901000998",
+                           "_NOME-ORGAO": "Seção de Engenharia de Computação",
+                           "_CODIGO-UNIDADE": "",
+                           "_NOME-UNIDADE": ""
+                        },
+                        {
+                           "PROJETO-DE-PESQUISA": [
+                              {
+                                 "EQUIPE-DO-PROJETO": {
+                                    "INTEGRANTES-DO-PROJETO": [
+                                       {
+                                          "_NOME-COMPLETO": "Carlos Eduardo Pinheiro Rocha",
+                                          "_NOME-PARA-CITACAO": "ROCHA, C. E. P.",
+                                          "_ORDEM-DE-INTEGRACAO": "1",
+                                          "_FLAG-RESPONSAVEL": "NAO",
+                                          "_NRO-ID-CNPQ": "4577615330663358"
+                                       },
+                                       {
+                                          "_NOME-COMPLETO": "Claudia Marcela Justel",
+                                          "_NOME-PARA-CITACAO": "JUSTEL, C. M.",
+                                          "_ORDEM-DE-INTEGRACAO": "2",
+                                          "_FLAG-RESPONSAVEL": "SIM",
+                                          "_NRO-ID-CNPQ": "3165736954373606"
+                                       },
+                                       {
+                                          "_NOME-COMPLETO": "Ícaro Pontes Azevedo Aguiar",
+                                          "_NOME-PARA-CITACAO": "AGUIAR, I. P. A.",
+                                          "_ORDEM-DE-INTEGRACAO": "3",
+                                          "_FLAG-RESPONSAVEL": "NAO",
+                                          "_NRO-ID-CNPQ": "3309348381166106"
+                                       },
+                                       {
+                                          "_NOME-COMPLETO": "Vinicius Ramos Eduardo",
+                                          "_NOME-PARA-CITACAO": "EDUARDO, V. R.",
+                                          "_ORDEM-DE-INTEGRACAO": "4",
+                                          "_FLAG-RESPONSAVEL": "NAO",
+                                          "_NRO-ID-CNPQ": "0064761233151829"
+                                       }
+                                    ]
+                                 },
+                                 "_SEQUENCIA-PROJETO": "3",
+                                 "_ANO-INICIO": "2011",
+                                 "_ANO-FIM": "2011",
+                                 "_NOME-DO-PROJETO": "Algoritmos para Alinhamento de Sequências em Bioinformática",
+                                 "_SITUACAO": "CONCLUIDO",
+                                 "_NATUREZA": "PESQUISA",
+                                 "_NUMERO-GRADUACAO": "3",
+                                 "_NUMERO-ESPECIALIZACAO": "",
+                                 "_NUMERO-MESTRADO-ACADEMICO": "",
+                                 "_NUMERO-MESTRADO-PROF": "",
+                                 "_NUMERO-DOUTORADO": "",
+                                 "_DESCRICAO-DO-PROJETO": "Neste trabalho foi estudado uma técnica usada na criação de algoritmos conhecida na literatura como Programação Dinâmica. Esta técnica permite resolver, de maneira eficiente, problemas de otimização de diversas áreas de conhecimento. Também será estudado o uso da programação dinâmica em problemas da área de bioinformática. Mais precisamente, o problema de alinhamento de sequências, problema que é abordado no contexto de busca realizado em bancos de dados de sequências biológicas, como, por exemplo, sequências de proteínas, de DNA e de RNA.",
+                                 "_IDENTIFICADOR-PROJETO": "",
+                                 "_DESCRICAO-DO-PROJETO-INGLES": "",
+                                 "_NOME-DO-PROJETO-INGLES": "Algoritmos para Alinhamento de Sequências em Bioinformática",
+                                 "_FLAG-POTENCIAL-INOVACAO": "NAO",
+                                 "_NOME-COORDENADOR-CERTIFICACAO": "",
+                                 "_DATA-CERTIFICACAO": "",
+                                 "_NUMERO_TECNICO_NIVEL_MEDIO": ""
+                              }
+                           ],
+                           "_SEQUENCIA-FUNCAO-ATIVIDADE": "3",
+                           "_FLAG-PERIODO": "ANTERIOR",
+                           "_MES-INICIO": "",
+                           "_ANO-INICIO": "2011",
+                           "_MES-FIM": "",
+                           "_ANO-FIM": "2011",
+                           "_CODIGO-ORGAO": "869901000998",
+                           "_NOME-ORGAO": "Seção de Engenharia de Computação",
+                           "_CODIGO-UNIDADE": "",
+                           "_NOME-UNIDADE": ""
+                        },
+                        {
+                           "PROJETO-DE-PESQUISA": [
+                              {
+                                 "EQUIPE-DO-PROJETO": {
+                                    "INTEGRANTES-DO-PROJETO": [
+                                       {
+                                          "_NOME-COMPLETO": "Carlos Eduardo Pinheiro Rocha",
+                                          "_NOME-PARA-CITACAO": "ROCHA, C. E. P.",
+                                          "_ORDEM-DE-INTEGRACAO": "1",
+                                          "_FLAG-RESPONSAVEL": "NAO",
+                                          "_NRO-ID-CNPQ": "4577615330663358"
+                                       },
+                                       {
+                                          "_NOME-COMPLETO": "Paulo Fernando Ferreira Rosa",
+                                          "_NOME-PARA-CITACAO": "ROSA, P. F. F.",
+                                          "_ORDEM-DE-INTEGRACAO": "2",
+                                          "_FLAG-RESPONSAVEL": "SIM",
+                                          "_NRO-ID-CNPQ": "1512717941866097"
+                                       },
+                                       {
+                                          "_NOME-COMPLETO": "Luiz Carlos Pacheco Rodrigues Velho",
+                                          "_NOME-PARA-CITACAO": "VELHO, L. C. P. R.",
+                                          "_ORDEM-DE-INTEGRACAO": "3",
+                                          "_FLAG-RESPONSAVEL": "NAO",
+                                          "_NRO-ID-CNPQ": "9500245604678806"
+                                       },
+                                       {
+                                          "_NOME-COMPLETO": "Diego Bretas de Alvarenga Carvalho",
+                                          "_NOME-PARA-CITACAO": "CARVALHO, D. B. A.",
+                                          "_ORDEM-DE-INTEGRACAO": "4",
+                                          "_FLAG-RESPONSAVEL": "NAO",
+                                          "_NRO-ID-CNPQ": "5053505445459200"
+                                       },
+                                       {
+                                          "_NOME-COMPLETO": "Hallison Oliveira da Paz",
+                                          "_NOME-PARA-CITACAO": "PAZ, H. O.",
+                                          "_ORDEM-DE-INTEGRACAO": "5",
+                                          "_FLAG-RESPONSAVEL": "NAO",
+                                          "_NRO-ID-CNPQ": "2903347562349249"
+                                       }
+                                    ]
+                                 },
+                                 "_SEQUENCIA-PROJETO": "4",
+                                 "_ANO-INICIO": "2013",
+                                 "_ANO-FIM": "2014",
+                                 "_NOME-DO-PROJETO": "Framework para aplicações em plataformas móveis usando panoramas com camadas",
+                                 "_SITUACAO": "CONCLUIDO",
+                                 "_NATUREZA": "PESQUISA",
+                                 "_NUMERO-GRADUACAO": "3",
+                                 "_NUMERO-ESPECIALIZACAO": "",
+                                 "_NUMERO-MESTRADO-ACADEMICO": "",
+                                 "_NUMERO-MESTRADO-PROF": "",
+                                 "_NUMERO-DOUTORADO": "",
+                                 "_DESCRICAO-DO-PROJETO": "Este trabalho tem por &#64257;nalidade descrever o desenvolvimento de um framework voltado para aplicações em plataformas móveis utilizando uma representação de imagens panorâmicas com cama-das. Este framework deve apoiar o desenvolvimento de aplicações baseadas em imagens interativas, que utilizem os recursos disponíveis em dispositivos móveis atuais, tais como os sensores de atitude, câmeras, GPS e o padrão de comunicação sem &#64257;o bluetooth.",
+                                 "_IDENTIFICADOR-PROJETO": "",
+                                 "_DESCRICAO-DO-PROJETO-INGLES": "",
+                                 "_NOME-DO-PROJETO-INGLES": "Framework para aplicações em plataformas móveis usando panoramas com camadas",
+                                 "_FLAG-POTENCIAL-INOVACAO": "SIM",
+                                 "_NOME-COORDENADOR-CERTIFICACAO": "",
+                                 "_DATA-CERTIFICACAO": "",
+                                 "_NUMERO_TECNICO_NIVEL_MEDIO": ""
+                              }
+                           ],
+                           "_SEQUENCIA-FUNCAO-ATIVIDADE": "4",
+                           "_FLAG-PERIODO": "ANTERIOR",
+                           "_MES-INICIO": "",
+                           "_ANO-INICIO": "2013",
+                           "_MES-FIM": "",
+                           "_ANO-FIM": "2014",
+                           "_CODIGO-ORGAO": "869901000998",
+                           "_NOME-ORGAO": "Seção de Engenharia de Computação",
+                           "_CODIGO-UNIDADE": "",
+                           "_NOME-UNIDADE": ""
+                        }
+                     ]
+                  },
+                  "_CODIGO-INSTITUICAO": "869900000005",
+                  "_NOME-INSTITUICAO": "Instituto Militar de Engenharia",
+                  "_SEQUENCIA-ATIVIDADE": "1",
+                  "_SEQUENCIA-IMPORTANCIA": "2"
+               },
+               {
+                  "VINCULOS": {
+                     "_SEQUENCIA-HISTORICO": "1",
+                     "_TIPO-DE-VINCULO": "LIVRE",
+                     "_ENQUADRAMENTO-FUNCIONAL": "LIVRE",
+                     "_CARGA-HORARIA-SEMANAL": "20",
+                     "_FLAG-DEDICACAO-EXCLUSIVA": "NAO",
+                     "_MES-INICIO": "01",
+                     "_ANO-INICIO": "2013",
+                     "_MES-FIM": "01",
+                     "_ANO-FIM": "2013",
+                     "_OUTRAS-INFORMACOES": "",
+                     "_FLAG-VINCULO-EMPREGATICIO": "SIM",
+                     "_OUTRO-VINCULO-INFORMADO": "Estagiário",
+                     "_OUTRO-ENQUADRAMENTO-FUNCIONAL-INFORMADO": "Estagiário",
+                     "_OUTRO-ENQUADRAMENTO-FUNCIONAL-INFORMADO-INGLES": "",
+                     "_OUTRAS-INFORMACOES-INGLES": ""
+                  },
+                  "_CODIGO-INSTITUICAO": "000200000993",
+                  "_NOME-INSTITUICAO": "52º Centro de Telemática",
+                  "_SEQUENCIA-ATIVIDADE": "2",
+                  "_SEQUENCIA-IMPORTANCIA": "4"
+               },
+               {
+                  "VINCULOS": {
+                     "_SEQUENCIA-HISTORICO": "1",
+                     "_TIPO-DE-VINCULO": "LIVRE",
+                     "_ENQUADRAMENTO-FUNCIONAL": "LIVRE",
+                     "_CARGA-HORARIA-SEMANAL": "20",
+                     "_FLAG-DEDICACAO-EXCLUSIVA": "SIM",
+                     "_MES-INICIO": "08",
+                     "_ANO-INICIO": "2013",
+                     "_MES-FIM": "12",
+                     "_ANO-FIM": "2013",
+                     "_OUTRAS-INFORMACOES": "",
+                     "_FLAG-VINCULO-EMPREGATICIO": "SIM",
+                     "_OUTRO-VINCULO-INFORMADO": "Estudante de Intercâmbio",
+                     "_OUTRO-ENQUADRAMENTO-FUNCIONAL-INFORMADO": "Estagiário no Laboratório de Robótica",
+                     "_OUTRO-ENQUADRAMENTO-FUNCIONAL-INFORMADO-INGLES": "",
+                     "_OUTRAS-INFORMACOES-INGLES": ""
+                  },
+                  "_CODIGO-INSTITUICAO": "265700000000",
+                  "_NOME-INSTITUICAO": "University of Ottawa",
+                  "_SEQUENCIA-ATIVIDADE": "3",
+                  "_SEQUENCIA-IMPORTANCIA": "3"
+               },
+               {
+                  "VINCULOS": {
+                     "_SEQUENCIA-HISTORICO": "1",
+                     "_TIPO-DE-VINCULO": "SERVIDOR_PUBLICO",
+                     "_ENQUADRAMENTO-FUNCIONAL": "LIVRE",
+                     "_CARGA-HORARIA-SEMANAL": "36",
+                     "_FLAG-DEDICACAO-EXCLUSIVA": "SIM",
+                     "_MES-INICIO": "01",
+                     "_ANO-INICIO": "2015",
+                     "_MES-FIM": "",
+                     "_ANO-FIM": "",
+                     "_OUTRAS-INFORMACOES": "",
+                     "_FLAG-VINCULO-EMPREGATICIO": "NAO",
+                     "_OUTRO-VINCULO-INFORMADO": "",
+                     "_OUTRO-ENQUADRAMENTO-FUNCIONAL-INFORMADO": "Adjunto de Operações de C4I",
+                     "_OUTRO-ENQUADRAMENTO-FUNCIONAL-INFORMADO-INGLES": "",
+                     "_OUTRAS-INFORMACOES-INGLES": ""
+                  },
+                  "_CODIGO-INSTITUICAO": "985600205726",
+                  "_NOME-INSTITUICAO": "Departamento de Ciência e Tecnologia - Exército Brasileiro",
+                  "_SEQUENCIA-ATIVIDADE": "4",
+                  "_SEQUENCIA-IMPORTANCIA": "1"
+               }
+            ]
+         },
+         "IDIOMAS": {
+            "IDIOMA": [
+               {
+                  "_IDIOMA": "EN",
+                  "_DESCRICAO-DO-IDIOMA": "Inglês",
+                  "_PROFICIENCIA-DE-LEITURA": "BEM",
+                  "_PROFICIENCIA-DE-FALA": "BEM",
+                  "_PROFICIENCIA-DE-ESCRITA": "BEM",
+                  "_PROFICIENCIA-DE-COMPREENSAO": "BEM"
+               },
+               {
+                  "_IDIOMA": "PT",
+                  "_DESCRICAO-DO-IDIOMA": "Português",
+                  "_PROFICIENCIA-DE-LEITURA": "BEM",
+                  "_PROFICIENCIA-DE-FALA": "BEM",
+                  "_PROFICIENCIA-DE-ESCRITA": "BEM",
+                  "_PROFICIENCIA-DE-COMPREENSAO": "BEM"
+               }
+            ]
+         },
+         "PREMIOS-TITULOS": {
+            "PREMIO-TITULO": [
+               {
+                  "_NOME-DO-PREMIO-OU-TITULO": "Medalha de Bronze",
+                  "_NOME-DA-ENTIDADE-PROMOTORA": "Olimpíada Brasileira de Física",
+                  "_ANO-DA-PREMIACAO": "2008",
+                  "_NOME-DO-PREMIO-OU-TITULO-INGLES": ""
+               },
+               {
+                  "_NOME-DO-PREMIO-OU-TITULO": "Medalha de Bronze",
+                  "_NOME-DA-ENTIDADE-PROMOTORA": "Olimpíada Cearense de Matemática",
+                  "_ANO-DA-PREMIACAO": "2008",
+                  "_NOME-DO-PREMIO-OU-TITULO-INGLES": ""
+               },
+               {
+                  "_NOME-DO-PREMIO-OU-TITULO": "Menção Honrosa",
+                  "_NOME-DA-ENTIDADE-PROMOTORA": "Olimpíada Cearense de Química",
+                  "_ANO-DA-PREMIACAO": "2008",
+                  "_NOME-DO-PREMIO-OU-TITULO-INGLES": ""
+               },
+               {
+                  "_NOME-DO-PREMIO-OU-TITULO": "Menção Honrosa",
+                  "_NOME-DA-ENTIDADE-PROMOTORA": "Olimpíada Brasileira de Matemática das Escolas Públicas",
+                  "_ANO-DA-PREMIACAO": "2005",
+                  "_NOME-DO-PREMIO-OU-TITULO-INGLES": ""
+               }
+            ]
+         },
+         "_NOME-COMPLETO": "Carlos Eduardo Pinheiro Rocha",
+         "_NOME-EM-CITACOES-BIBLIOGRAFICAS": "ROCHA, C. E. P.",
+         "_NACIONALIDADE": "B",
+         "_PAIS-DE-NASCIMENTO": "Brasil",
+         "_UF-NASCIMENTO": "CE",
+         "_CIDADE-NASCIMENTO": "FORTALEZA",
+         "_PERMISSAO-DE-DIVULGACAO": "NAO",
+         "_DATA-FALECIMENTO": "",
+         "_SIGLA-PAIS-NACIONALIDADE": "BRA",
+         "_PAIS-DE-NACIONALIDADE": "Brasil"
+      },
+      "PRODUCAO-BIBLIOGRAFICA": "",
+      "PRODUCAO-TECNICA": "",
+      "OUTRA-PRODUCAO": "",
+      "DADOS-COMPLEMENTARES": {
+         "INFORMACOES-ADICIONAIS-INSTITUICOES": {
+            "INFORMACAO-ADICIONAL-INSTITUICAO": [
+               {
+                  "_CODIGO-INSTITUICAO": "000100000991",
+                  "_SIGLA-INSTITUICAO": "FB",
+                  "_SIGLA-UF-INSTITUICAO": "CE",
+                  "_SIGLA-PAIS-INSTITUICAO": "BRA",
+                  "_NOME-PAIS-INSTITUICAO": "Brasil",
+                  "_FLAG-AGENCIA-FOMENTO": "NAO",
+                  "_FLAG-INSTITUICAO-DE-ENSINO": "NAO"
+               },
+               {
+                  "_CODIGO-INSTITUICAO": "000200000993",
+                  "_SIGLA-INSTITUICAO": "52º CT",
+                  "_SIGLA-UF-INSTITUICAO": "CE",
+                  "_SIGLA-PAIS-INSTITUICAO": "BRA",
+                  "_NOME-PAIS-INSTITUICAO": "Brasil",
+                  "_FLAG-AGENCIA-FOMENTO": "NAO",
+                  "_FLAG-INSTITUICAO-DE-ENSINO": "NAO"
+               },
+               {
+                  "_CODIGO-INSTITUICAO": "000400000997",
+                  "_SIGLA-INSTITUICAO": "IMPA",
+                  "_SIGLA-UF-INSTITUICAO": "RJ",
+                  "_SIGLA-PAIS-INSTITUICAO": "BRA",
+                  "_NOME-PAIS-INSTITUICAO": "Brasil",
+                  "_FLAG-AGENCIA-FOMENTO": "NAO",
+                  "_FLAG-INSTITUICAO-DE-ENSINO": "NAO"
+               },
+               {
+                  "_CODIGO-INSTITUICAO": "265700000000",
+                  "_SIGLA-INSTITUICAO": "U.OTTAWA",
+                  "_SIGLA-UF-INSTITUICAO": "",
+                  "_SIGLA-PAIS-INSTITUICAO": "CAN",
+                  "_NOME-PAIS-INSTITUICAO": "Canadá",
+                  "_FLAG-AGENCIA-FOMENTO": "NAO",
+                  "_FLAG-INSTITUICAO-DE-ENSINO": "NAO"
+               },
+               {
+                  "_CODIGO-INSTITUICAO": "869900000005",
+                  "_SIGLA-INSTITUICAO": "IME",
+                  "_SIGLA-UF-INSTITUICAO": "RJ",
+                  "_SIGLA-PAIS-INSTITUICAO": "BRA",
+                  "_NOME-PAIS-INSTITUICAO": "Brasil",
+                  "_FLAG-AGENCIA-FOMENTO": "NAO",
+                  "_FLAG-INSTITUICAO-DE-ENSINO": "SIM"
+               },
+               {
+                  "_CODIGO-INSTITUICAO": "869901000998",
+                  "_SIGLA-INSTITUICAO": "",
+                  "_SIGLA-UF-INSTITUICAO": "RJ",
+                  "_SIGLA-PAIS-INSTITUICAO": "BRA",
+                  "_NOME-PAIS-INSTITUICAO": "Brasil",
+                  "_FLAG-AGENCIA-FOMENTO": "NAO",
+                  "_FLAG-INSTITUICAO-DE-ENSINO": "NAO"
+               },
+               {
+                  "_CODIGO-INSTITUICAO": "985600205726",
+                  "_SIGLA-INSTITUICAO": "DCT/EB",
+                  "_SIGLA-UF-INSTITUICAO": "DF",
+                  "_SIGLA-PAIS-INSTITUICAO": "BRA",
+                  "_NOME-PAIS-INSTITUICAO": "Brasil",
+                  "_FLAG-AGENCIA-FOMENTO": "NAO",
+                  "_FLAG-INSTITUICAO-DE-ENSINO": "NAO"
+               }
+            ]
+         },
+         "INFORMACOES-ADICIONAIS-CURSOS": {
+            "INFORMACAO-ADICIONAL-CURSO": [
+               {
+                  "_CODIGO-CURSO": "90000000",
+                  "_CODIGO-ORGAO": "",
+                  "_NOME-ORGAO": "",
+                  "_CODIGO-INSTITUICAO": "869900000005",
+                  "_NOME-INSTITUICAO": "Instituto Militar de Engenharia",
+                  "_NOME-GRANDE-AREA-DO-CONHECIMENTO": "OUTROS",
+                  "_NOME-DA-AREA-DO-CONHECIMENTO": "",
+                  "_NOME-DA-SUB-AREA-DO-CONHECIMENTO": "",
+                  "_NOME-DA-ESPECIALIDADE": "",
+                  "_NIVEL-CURSO": "GRADUACAO"
+               },
+               {
+                  "_CODIGO-CURSO": "90000001",
+                  "_CODIGO-ORGAO": "",
+                  "_NOME-ORGAO": "",
+                  "_CODIGO-INSTITUICAO": "869900000005",
+                  "_NOME-INSTITUICAO": "Instituto Militar de Engenharia",
+                  "_NOME-GRANDE-AREA-DO-CONHECIMENTO": "OUTROS",
+                  "_NOME-DA-AREA-DO-CONHECIMENTO": "Multidisciplinar",
+                  "_NOME-DA-SUB-AREA-DO-CONHECIMENTO": "",
+                  "_NOME-DA-ESPECIALIDADE": "",
+                  "_NIVEL-CURSO": "GRADUACAO"
+               },
+               {
+                  "_CODIGO-CURSO": "90000002",
+                  "_CODIGO-ORGAO": "",
+                  "_NOME-ORGAO": "",
+                  "_CODIGO-INSTITUICAO": "869900000005",
+                  "_NOME-INSTITUICAO": "Instituto Militar de Engenharia",
+                  "_NOME-GRANDE-AREA-DO-CONHECIMENTO": "OUTROS",
+                  "_NOME-DA-AREA-DO-CONHECIMENTO": "",
+                  "_NOME-DA-SUB-AREA-DO-CONHECIMENTO": "",
+                  "_NOME-DA-ESPECIALIDADE": "",
+                  "_NIVEL-CURSO": "GRADUACAO"
+               }
+            ]
+         }
+      },
+      "_SISTEMA-ORIGEM-XML": "LATTES_OFFLINE",
+      "_NUMERO-IDENTIFICADOR": "4577615330663358",
+      "_DATA-ATUALIZACAO": "08032016",
+      "_HORA-ATUALIZACAO": "030014"
+   }
+}

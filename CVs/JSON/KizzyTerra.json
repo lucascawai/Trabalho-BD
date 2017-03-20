@@ -1,0 +1,261 @@
+{
+   "CURRICULO-VITAE": {
+      "DADOS-GERAIS": {
+         "RESUMO-CV": {
+            "_TEXTO-RESUMO-CV-RH": "Formada em Engenharia da Computação pelo Instituto Militar de Engenharia (2014), atualmente é aluna do Mestrado em Modelagem Matemática da Informação na Escola da Matemática Aplicada (EMAp) na FGV-RJ.",
+            "_TEXTO-RESUMO-CV-RH-EN": ""
+         },
+         "OUTRAS-INFORMACOES-RELEVANTES": {
+            "_OUTRAS-INFORMACOES-RELEVANTES": ""
+         },
+         "ENDERECO": {
+            "ENDERECO-PROFISSIONAL": {
+               "_CODIGO-INSTITUICAO-EMPRESA": "",
+               "_NOME-INSTITUICAO-EMPRESA": "",
+               "_CODIGO-UNIDADE": "",
+               "_NOME-UNIDADE": "",
+               "_CODIGO-ORGAO": "",
+               "_NOME-ORGAO": "",
+               "_PAIS": "",
+               "_UF": "",
+               "_LOGRADOURO-COMPLEMENTO": "",
+               "_BAIRRO": "",
+               "_CIDADE": "",
+               "_CAIXA-POSTAL": "",
+               "_CEP": "",
+               "_DDD": "",
+               "_TELEFONE": "",
+               "_RAMAL": "",
+               "_FAX": "",
+               "_HOME-PAGE": ""
+            },
+            "_FLAG-DE-PREFERENCIA": "ENDERECO_RESIDENCIAL"
+         },
+         "FORMACAO-ACADEMICA-TITULACAO": {
+            "GRADUACAO": {
+               "_SEQUENCIA-FORMACAO": "2",
+               "_NIVEL": "1",
+               "_TITULO-DO-TRABALHO-DE-CONCLUSAO-DE-CURSO": "SISTEMA DE NAVEGAÇÃO ASSISTIDA PARA PLATAFORMA MÓVEL",
+               "_NOME-DO-ORIENTADOR": "RICARDO CHOREN NOYA",
+               "_CODIGO-INSTITUICAO": "869900000005",
+               "_NOME-INSTITUICAO": "Instituto Militar de Engenharia",
+               "_CODIGO-CURSO": "60171219",
+               "_NOME-CURSO": "Engenharia da Computação",
+               "_CODIGO-AREA-CURSO": "",
+               "_STATUS-DO-CURSO": "CONCLUIDO",
+               "_ANO-DE-INICIO": "2010",
+               "_ANO-DE-CONCLUSAO": "2014",
+               "_FLAG-BOLSA": "NAO",
+               "_TIPO-GRADUACAO": "N",
+               "_CODIGO-INSTITUICAO-GRAD": "",
+               "_NOME-INSTITUICAO-GRAD": "",
+               "_CODIGO-INSTITUICAO-OUTRA-GRAD": "",
+               "_NOME-INSTITUICAO-OUTRA-GRAD": "",
+               "_NOME-ORIENTADOR-GRAD": "",
+               "_CODIGO-AGENCIA-FINANCIADORA": "",
+               "_NOME-AGENCIA": "",
+               "_NUMERO-ID-ORIENTADOR": "",
+               "_CODIGO-CURSO-CAPES": "50621",
+               "_TITULO-DO-TRABALHO-DE-CONCLUSAO-DE-CURSO-INGLES": "",
+               "_NOME-CURSO-INGLES": ""
+            },
+            "MESTRADO": {
+               "AREAS-DO-CONHECIMENTO": {
+                  "AREA-DO-CONHECIMENTO-1": {
+                     "_NOME-GRANDE-AREA-DO-CONHECIMENTO": "CIENCIAS_EXATAS_E_DA_TERRA",
+                     "_NOME-DA-AREA-DO-CONHECIMENTO": "Matemática",
+                     "_NOME-DA-SUB-AREA-DO-CONHECIMENTO": "Matemática Aplicada",
+                     "_NOME-DA-ESPECIALIDADE": ""
+                  },
+                  "AREA-DO-CONHECIMENTO-2": {
+                     "_NOME-GRANDE-AREA-DO-CONHECIMENTO": "CIENCIAS_EXATAS_E_DA_TERRA",
+                     "_NOME-DA-AREA-DO-CONHECIMENTO": "Ciência da Computação",
+                     "_NOME-DA-SUB-AREA-DO-CONHECIMENTO": "Mineração de Dados",
+                     "_NOME-DA-ESPECIALIDADE": ""
+                  }
+               },
+               "_SEQUENCIA-FORMACAO": "6",
+               "_NIVEL": "3",
+               "_CODIGO-INSTITUICAO": "000400000008",
+               "_NOME-INSTITUICAO": "Fundação Getúlio Vargas",
+               "_CODIGO-CURSO": "60062290",
+               "_NOME-CURSO": "Modelagem Matemática da Informação",
+               "_CODIGO-AREA-CURSO": "10104003",
+               "_STATUS-DO-CURSO": "EM_ANDAMENTO",
+               "_ANO-DE-INICIO": "2015",
+               "_ANO-DE-CONCLUSAO": "",
+               "_FLAG-BOLSA": "NAO",
+               "_TIPO-MESTRADO": "N",
+               "_CODIGO-INSTITUICAO-DOUT": "",
+               "_NOME-INSTITUICAO-DOUT": "",
+               "_CODIGO-INSTITUICAO-OUTRA-DOUT": "",
+               "_NOME-INSTITUICAO-OUTRA-DOUT": "",
+               "_NOME-ORIENTADOR-DOUT": "",
+               "_CODIGO-AGENCIA-FINANCIADORA": "",
+               "_NOME-AGENCIA": "",
+               "_ANO-DE-OBTENCAO-DO-TITULO": "",
+               "_TITULO-DA-DISSERTACAO-TESE": "",
+               "_NOME-COMPLETO-DO-ORIENTADOR": "Renato Rocha Souza",
+               "_NUMERO-ID-ORIENTADOR": "",
+               "_CODIGO-CURSO-CAPES": "31011012013P4",
+               "_TITULO-DA-DISSERTACAO-TESE-INGLES": "",
+               "_NOME-CURSO-INGLES": "",
+               "_NOME-DO-CO-ORIENTADOR": ""
+            },
+            "ENSINO-MEDIO-SEGUNDO-GRAU": {
+               "_SEQUENCIA-FORMACAO": "1",
+               "_NIVEL": "C",
+               "_CODIGO-INSTITUICAO": "",
+               "_NOME-INSTITUICAO": "Colégio Militar de Porto Alegre",
+               "_STATUS-DO-CURSO": "CONCLUIDO",
+               "_ANO-DE-INICIO": "2007",
+               "_ANO-DE-CONCLUSAO": "2009"
+            }
+         },
+         "AREAS-DE-ATUACAO": {
+            "AREA-DE-ATUACAO": {
+               "_SEQUENCIA-AREA-DE-ATUACAO": "1",
+               "_NOME-GRANDE-AREA-DO-CONHECIMENTO": "OUTROS",
+               "_NOME-DA-AREA-DO-CONHECIMENTO": "",
+               "_NOME-DA-SUB-AREA-DO-CONHECIMENTO": "",
+               "_NOME-DA-ESPECIALIDADE": ""
+            }
+         },
+         "IDIOMAS": {
+            "IDIOMA": {
+               "_IDIOMA": "EN",
+               "_DESCRICAO-DO-IDIOMA": "Inglês",
+               "_PROFICIENCIA-DE-LEITURA": "BEM",
+               "_PROFICIENCIA-DE-FALA": "BEM",
+               "_PROFICIENCIA-DE-ESCRITA": "BEM",
+               "_PROFICIENCIA-DE-COMPREENSAO": "BEM"
+            }
+         },
+         "PREMIOS-TITULOS": {
+            "PREMIO-TITULO": [
+               {
+                  "_NOME-DO-PREMIO-OU-TITULO": "MEDALHA CIDADE DE PORTO ALEGRE",
+                  "_NOME-DA-ENTIDADE-PROMOTORA": "PREFEITURA DE PORTO ALEGRE",
+                  "_ANO-DA-PREMIACAO": "2015",
+                  "_NOME-DO-PREMIO-OU-TITULO-INGLES": ""
+               },
+               {
+                  "_NOME-DO-PREMIO-OU-TITULO": "Best in Course IT382 Award",
+                  "_NOME-DA-ENTIDADE-PROMOTORA": "U.S. Military Academy - Department of Eectrical Engineering & Computer Science",
+                  "_ANO-DA-PREMIACAO": "2013",
+                  "_NOME-DO-PREMIO-OU-TITULO-INGLES": ""
+               }
+            ]
+         },
+         "_NOME-COMPLETO": "Kizzy Fernanda Terra Ferreira dos Reis",
+         "_NOME-EM-CITACOES-BIBLIOGRAFICAS": "REIS, K. F. T. F.",
+         "_NACIONALIDADE": "B",
+         "_PAIS-DE-NASCIMENTO": "Brasil",
+         "_UF-NASCIMENTO": "RS",
+         "_CIDADE-NASCIMENTO": "Porto Alegre",
+         "_PERMISSAO-DE-DIVULGACAO": "NAO",
+         "_DATA-FALECIMENTO": "",
+         "_SIGLA-PAIS-NACIONALIDADE": "BRA",
+         "_PAIS-DE-NACIONALIDADE": "Brasil"
+      },
+      "DADOS-COMPLEMENTARES": {
+         "FORMACAO-COMPLEMENTAR": {
+            "FORMACAO-COMPLEMENTAR-DE-EXTENSAO-UNIVERSITARIA": [
+               {
+                  "_SEQUENCIA-FORMACAO": "3",
+                  "_NIVEL": "8",
+                  "_CARGA-HORARIA": "",
+                  "_CODIGO-INSTITUICAO": "271600000003",
+                  "_NOME-INSTITUICAO": "U.S. Military Academy",
+                  "_CODIGO-CURSO": "90000004",
+                  "_NOME-CURSO": "Programming Languages",
+                  "_STATUS-DO-CURSO": "CONCLUIDO",
+                  "_ANO-DE-INICIO": "2013",
+                  "_ANO-DE-CONCLUSAO": "2013",
+                  "_NOME-CURSO-INGLES": ""
+               },
+               {
+                  "_SEQUENCIA-FORMACAO": "4",
+                  "_NIVEL": "8",
+                  "_CARGA-HORARIA": "",
+                  "_CODIGO-INSTITUICAO": "271600000003",
+                  "_NOME-INSTITUICAO": "U.S. Military Academy",
+                  "_CODIGO-CURSO": "90000005",
+                  "_NOME-CURSO": "Network Infrastructure",
+                  "_STATUS-DO-CURSO": "CONCLUIDO",
+                  "_ANO-DE-INICIO": "2013",
+                  "_ANO-DE-CONCLUSAO": "2013",
+                  "_NOME-CURSO-INGLES": ""
+               },
+               {
+                  "_SEQUENCIA-FORMACAO": "5",
+                  "_NIVEL": "8",
+                  "_CARGA-HORARIA": "",
+                  "_CODIGO-INSTITUICAO": "271600000003",
+                  "_NOME-INSTITUICAO": "U.S. Military Academy",
+                  "_CODIGO-CURSO": "90000006",
+                  "_NOME-CURSO": "Database Design and Analysis",
+                  "_STATUS-DO-CURSO": "CONCLUIDO",
+                  "_ANO-DE-INICIO": "2013",
+                  "_ANO-DE-CONCLUSAO": "2013",
+                  "_NOME-CURSO-INGLES": ""
+               }
+            ]
+         },
+         "INFORMACOES-ADICIONAIS-INSTITUICOES": {
+            "INFORMACAO-ADICIONAL-INSTITUICAO": [
+               {
+                  "_CODIGO-INSTITUICAO": "000400000008",
+                  "_SIGLA-INSTITUICAO": "FGV",
+                  "_SIGLA-UF-INSTITUICAO": "RJ",
+                  "_SIGLA-PAIS-INSTITUICAO": "BRA",
+                  "_NOME-PAIS-INSTITUICAO": "Brasil",
+                  "_FLAG-AGENCIA-FOMENTO": "NAO",
+                  "_FLAG-INSTITUICAO-DE-ENSINO": "SIM"
+               },
+               {
+                  "_CODIGO-INSTITUICAO": "869900000005",
+                  "_SIGLA-INSTITUICAO": "IME",
+                  "_SIGLA-UF-INSTITUICAO": "RJ",
+                  "_SIGLA-PAIS-INSTITUICAO": "BRA",
+                  "_NOME-PAIS-INSTITUICAO": "Brasil",
+                  "_FLAG-AGENCIA-FOMENTO": "NAO",
+                  "_FLAG-INSTITUICAO-DE-ENSINO": "SIM"
+               }
+            ]
+         },
+         "INFORMACOES-ADICIONAIS-CURSOS": {
+            "INFORMACAO-ADICIONAL-CURSO": [
+               {
+                  "_CODIGO-CURSO": "60062290",
+                  "_CODIGO-ORGAO": "",
+                  "_NOME-ORGAO": "",
+                  "_CODIGO-INSTITUICAO": "000400000008",
+                  "_NOME-INSTITUICAO": "Fundação Getúlio Vargas",
+                  "_NOME-GRANDE-AREA-DO-CONHECIMENTO": "CIENCIAS_EXATAS_E_DA_TERRA",
+                  "_NOME-DA-AREA-DO-CONHECIMENTO": "Matemática",
+                  "_NOME-DA-SUB-AREA-DO-CONHECIMENTO": "Matemática Aplicada",
+                  "_NOME-DA-ESPECIALIDADE": "",
+                  "_NIVEL-CURSO": "MESTRADO"
+               },
+               {
+                  "_CODIGO-CURSO": "60171219",
+                  "_CODIGO-ORGAO": "",
+                  "_NOME-ORGAO": "",
+                  "_CODIGO-INSTITUICAO": "869900000005",
+                  "_NOME-INSTITUICAO": "Instituto Militar de Engenharia",
+                  "_NOME-GRANDE-AREA-DO-CONHECIMENTO": "OUTROS",
+                  "_NOME-DA-AREA-DO-CONHECIMENTO": "",
+                  "_NOME-DA-SUB-AREA-DO-CONHECIMENTO": "",
+                  "_NOME-DA-ESPECIALIDADE": "",
+                  "_NIVEL-CURSO": "GRADUACAO"
+               }
+            ]
+         }
+      },
+      "_SISTEMA-ORIGEM-XML": "LATTES_OFFLINE",
+      "_DATA-ATUALIZACAO": "10042015",
+      "_HORA-ATUALIZACAO": "205043",
+      "_NUMERO-IDENTIFICADOR": "7906158644378949"
+   }
+}

@@ -1,0 +1,258 @@
+{
+   "CURRICULO-VITAE": {
+      "DADOS-GERAIS": {
+         "RESUMO-CV": {
+            "_TEXTO-RESUMO-CV-RH": "",
+            "_TEXTO-RESUMO-CV-RH-EN": ""
+         },
+         "OUTRAS-INFORMACOES-RELEVANTES": {
+            "_OUTRAS-INFORMACOES-RELEVANTES": ""
+         },
+         "ENDERECO": {
+            "ENDERECO-PROFISSIONAL": {
+               "_CODIGO-INSTITUICAO-EMPRESA": "869900000005",
+               "_NOME-INSTITUICAO-EMPRESA": "Instituto Militar de Engenharia",
+               "_CODIGO-UNIDADE": "",
+               "_NOME-UNIDADE": "",
+               "_CODIGO-ORGAO": "",
+               "_NOME-ORGAO": "",
+               "_PAIS": "Brasil",
+               "_UF": "RJ",
+               "_LOGRADOURO-COMPLEMENTO": "Praça General Tibúrcio 80",
+               "_BAIRRO": "Urca",
+               "_CIDADE": "Rio de Janeiro",
+               "_CAIXA-POSTAL": "",
+               "_CEP": "22290270",
+               "_DDD": "21",
+               "_TELEFONE": "81107831",
+               "_RAMAL": "",
+               "_FAX": "",
+               "_HOME-PAGE": ""
+            },
+            "_FLAG-DE-PREFERENCIA": "ENDERECO_RESIDENCIAL"
+         },
+         "FORMACAO-ACADEMICA-TITULACAO": {
+            "GRADUACAO": {
+               "_SEQUENCIA-FORMACAO": "1",
+               "_NIVEL": "1",
+               "_TITULO-DO-TRABALHO-DE-CONCLUSAO-DE-CURSO": "",
+               "_NOME-DO-ORIENTADOR": "",
+               "_CODIGO-INSTITUICAO": "869900000005",
+               "_NOME-INSTITUICAO": "Instituto Militar de Engenharia",
+               "_CODIGO-CURSO": "60171219",
+               "_NOME-CURSO": "Engenharia da Computação",
+               "_CODIGO-AREA-CURSO": "",
+               "_STATUS-DO-CURSO": "EM_ANDAMENTO",
+               "_ANO-DE-INICIO": "2010",
+               "_ANO-DE-CONCLUSAO": "",
+               "_FLAG-BOLSA": "NAO",
+               "_TIPO-GRADUACAO": "",
+               "_CODIGO-INSTITUICAO-GRAD": "",
+               "_NOME-INSTITUICAO-GRAD": "",
+               "_CODIGO-INSTITUICAO-OUTRA-GRAD": "",
+               "_NOME-INSTITUICAO-OUTRA-GRAD": "",
+               "_NOME-ORIENTADOR-GRAD": "",
+               "_CODIGO-AGENCIA-FINANCIADORA": "",
+               "_NOME-AGENCIA": "",
+               "_NUMERO-ID-ORIENTADOR": "",
+               "_CODIGO-CURSO-CAPES": "50621",
+               "_TITULO-DO-TRABALHO-DE-CONCLUSAO-DE-CURSO-INGLES": "",
+               "_NOME-CURSO-INGLES": ""
+            }
+         },
+         "ATUACOES-PROFISSIONAIS": {
+            "ATUACAO-PROFISSIONAL": {
+               "VINCULOS": [
+                  {
+                     "_SEQUENCIA-HISTORICO": "1",
+                     "_TIPO-DE-VINCULO": "LIVRE",
+                     "_ENQUADRAMENTO-FUNCIONAL": "LIVRE",
+                     "_CARGA-HORARIA-SEMANAL": "",
+                     "_FLAG-DEDICACAO-EXCLUSIVA": "NAO",
+                     "_MES-INICIO": "",
+                     "_ANO-INICIO": "2010",
+                     "_MES-FIM": "",
+                     "_ANO-FIM": "2012",
+                     "_OUTRAS-INFORMACOES": "Projeto de Pesquisa: Assinaturas Digitais. Bolsa de Iniciação Científica.",
+                     "_FLAG-VINCULO-EMPREGATICIO": "SIM",
+                     "_OUTRO-VINCULO-INFORMADO": "Bolsista",
+                     "_OUTRO-ENQUADRAMENTO-FUNCIONAL-INFORMADO": "Aluno Bolsista de Iniciação Científica",
+                     "_OUTRO-ENQUADRAMENTO-FUNCIONAL-INFORMADO-INGLES": "",
+                     "_OUTRAS-INFORMACOES-INGLES": ""
+                  },
+                  {
+                     "_SEQUENCIA-HISTORICO": "2",
+                     "_TIPO-DE-VINCULO": "LIVRE",
+                     "_ENQUADRAMENTO-FUNCIONAL": "LIVRE",
+                     "_CARGA-HORARIA-SEMANAL": "",
+                     "_FLAG-DEDICACAO-EXCLUSIVA": "NAO",
+                     "_MES-INICIO": "08",
+                     "_ANO-INICIO": "2012",
+                     "_MES-FIM": "",
+                     "_ANO-FIM": "",
+                     "_OUTRAS-INFORMACOES": "Projeto de Pesquisa: Análise de Malware. Bolsa de Iniciação Científica",
+                     "_FLAG-VINCULO-EMPREGATICIO": "SIM",
+                     "_OUTRO-VINCULO-INFORMADO": "Bolsista",
+                     "_OUTRO-ENQUADRAMENTO-FUNCIONAL-INFORMADO": "Aluno Bolsista de Iniciação Científica",
+                     "_OUTRO-ENQUADRAMENTO-FUNCIONAL-INFORMADO-INGLES": "",
+                     "_OUTRAS-INFORMACOES-INGLES": ""
+                  }
+               ],
+               "ATIVIDADES-DE-PARTICIPACAO-EM-PROJETO": {
+                  "PARTICIPACAO-EM-PROJETO": [
+                     {
+                        "PROJETO-DE-PESQUISA": {
+                           "EQUIPE-DO-PROJETO": {
+                              "INTEGRANTES-DO-PROJETO": [
+                                 {
+                                    "_NOME-COMPLETO": "Nelson Borges",
+                                    "_NOME-PARA-CITACAO": "BORGES, N.",
+                                    "_ORDEM-DE-INTEGRACAO": "1",
+                                    "_FLAG-RESPONSAVEL": "NAO",
+                                    "_NRO-ID-CNPQ": ""
+                                 }
+                              ]
+                           },
+                           "_SEQUENCIA-PROJETO": "1",
+                           "_ANO-INICIO": "2010",
+                           "_ANO-FIM": "2012",
+                           "_NOME-DO-PROJETO": "Assinaturas Digitais",
+                           "_SITUACAO": "CONCLUIDO",
+                           "_NATUREZA": "PESQUISA",
+                           "_NUMERO-GRADUACAO": "",
+                           "_NUMERO-ESPECIALIZACAO": "",
+                           "_NUMERO-MESTRADO-ACADEMICO": "",
+                           "_NUMERO-MESTRADO-PROF": "",
+                           "_NUMERO-DOUTORADO": "",
+                           "_DESCRICAO-DO-PROJETO": "Consiste em uma Iniciação Científica na área de Criptografia com ênfase em Assinaturas Digitais. Vários tipo de criptografias foram analisadas, porém, este projeto focou na criptografia ElGamal.",
+                           "_DESCRICAO-DO-PROJETO-INGLES": "",
+                           "_NOME-DO-PROJETO-INGLES": "",
+                           "_FLAG-POTENCIAL-INOVACAO": "NAO"
+                        },
+                        "_SEQUENCIA-FUNCAO-ATIVIDADE": "1",
+                        "_FLAG-PERIODO": "ANTERIOR",
+                        "_MES-INICIO": "",
+                        "_ANO-INICIO": "2010",
+                        "_MES-FIM": "",
+                        "_ANO-FIM": "2012",
+                        "_CODIGO-ORGAO": "869901000998",
+                        "_NOME-ORGAO": "Seção de Engenharia de Computação",
+                        "_CODIGO-UNIDADE": "",
+                        "_NOME-UNIDADE": ""
+                     },
+                     {
+                        "PROJETO-DE-PESQUISA": {
+                           "EQUIPE-DO-PROJETO": {
+                              "INTEGRANTES-DO-PROJETO": [
+                                 {
+                                    "_NOME-COMPLETO": "Julio Cesar Duarte",
+                                    "_NOME-PARA-CITACAO": "DUARTE, J. C.",
+                                    "_ORDEM-DE-INTEGRACAO": "1",
+                                    "_FLAG-RESPONSAVEL": "NAO",
+                                    "_NRO-ID-CNPQ": ""
+                                 },
+                                 {
+                                    "_NOME-COMPLETO": "Kizzy Fernanda Terra Ferreira dos Reis",
+                                    "_NOME-PARA-CITACAO": "REIS, K. F. T. F.",
+                                    "_ORDEM-DE-INTEGRACAO": "2",
+                                    "_FLAG-RESPONSAVEL": "NAO",
+                                    "_NRO-ID-CNPQ": ""
+                                 }
+                              ]
+                           },
+                           "_SEQUENCIA-PROJETO": "2",
+                           "_ANO-INICIO": "2012",
+                           "_ANO-FIM": "",
+                           "_NOME-DO-PROJETO": "Análise de Malware",
+                           "_SITUACAO": "EM_ANDAMENTO",
+                           "_NATUREZA": "PESQUISA",
+                           "_NUMERO-GRADUACAO": "",
+                           "_NUMERO-ESPECIALIZACAO": "",
+                           "_NUMERO-MESTRADO-ACADEMICO": "",
+                           "_NUMERO-MESTRADO-PROF": "",
+                           "_NUMERO-DOUTORADO": "",
+                           "_DESCRICAO-DO-PROJETO": "",
+                           "_DESCRICAO-DO-PROJETO-INGLES": "",
+                           "_NOME-DO-PROJETO-INGLES": "Análise de Malware",
+                           "_FLAG-POTENCIAL-INOVACAO": "NAO"
+                        },
+                        "_SEQUENCIA-FUNCAO-ATIVIDADE": "2",
+                        "_FLAG-PERIODO": "ATUAL",
+                        "_MES-INICIO": "",
+                        "_ANO-INICIO": "2012",
+                        "_MES-FIM": "",
+                        "_ANO-FIM": "",
+                        "_CODIGO-ORGAO": "869901000998",
+                        "_NOME-ORGAO": "Seção de Engenharia de Computação",
+                        "_CODIGO-UNIDADE": "",
+                        "_NOME-UNIDADE": ""
+                     }
+                  ]
+               },
+               "_CODIGO-INSTITUICAO": "869900000005",
+               "_NOME-INSTITUICAO": "Instituto Militar de Engenharia",
+               "_SEQUENCIA-ATIVIDADE": "1",
+               "_SEQUENCIA-IMPORTANCIA": "1"
+            }
+         },
+         "AREAS-DE-ATUACAO": "",
+         "IDIOMAS": {
+            "IDIOMA": {
+               "_IDIOMA": "EN",
+               "_DESCRICAO-DO-IDIOMA": "Inglês",
+               "_PROFICIENCIA-DE-LEITURA": "BEM",
+               "_PROFICIENCIA-DE-FALA": "BEM",
+               "_PROFICIENCIA-DE-ESCRITA": "BEM",
+               "_PROFICIENCIA-DE-COMPREENSAO": "BEM"
+            }
+         },
+         "PREMIOS-TITULOS": {
+            "PREMIO-TITULO": {
+               "_NOME-DO-PREMIO-OU-TITULO": "Medalha de Bronze Na Olimpíada Brasileira de Física",
+               "_NOME-DA-ENTIDADE-PROMOTORA": "",
+               "_ANO-DA-PREMIACAO": "2009",
+               "_NOME-DO-PREMIO-OU-TITULO-INGLES": ""
+            }
+         },
+         "_NOME-COMPLETO": "Letícia Cremasco",
+         "_NOME-EM-CITACOES-BIBLIOGRAFICAS": "CREMASCO, L.",
+         "_NACIONALIDADE": "B",
+         "_PAIS-DE-NASCIMENTO": "Brasil",
+         "_UF-NASCIMENTO": "CE",
+         "_CIDADE-NASCIMENTO": "Fortaleza",
+         "_PERMISSAO-DE-DIVULGACAO": "NAO",
+         "_DATA-FALECIMENTO": ""
+      },
+      "DADOS-COMPLEMENTARES": {
+         "INFORMACOES-ADICIONAIS-INSTITUICOES": {
+            "INFORMACAO-ADICIONAL-INSTITUICAO": {
+               "_CODIGO-INSTITUICAO": "869900000005",
+               "_SIGLA-INSTITUICAO": "IME",
+               "_SIGLA-UF-INSTITUICAO": "RJ",
+               "_SIGLA-PAIS-INSTITUICAO": "BRA",
+               "_NOME-PAIS-INSTITUICAO": "Brasil",
+               "_FLAG-AGENCIA-FOMENTO": "NAO",
+               "_FLAG-INSTITUICAO-DE-ENSINO": "SIM"
+            }
+         },
+         "INFORMACOES-ADICIONAIS-CURSOS": {
+            "INFORMACAO-ADICIONAL-CURSO": {
+               "_CODIGO-CURSO": "60171219",
+               "_CODIGO-ORGAO": "",
+               "_NOME-ORGAO": "",
+               "_CODIGO-INSTITUICAO": "869900000005",
+               "_NOME-INSTITUICAO": "Instituto Militar de Engenharia",
+               "_NOME-GRANDE-AREA-DO-CONHECIMENTO": "OUTROS",
+               "_NOME-DA-AREA-DO-CONHECIMENTO": "",
+               "_NOME-DA-SUB-AREA-DO-CONHECIMENTO": "",
+               "_NOME-DA-ESPECIALIDADE": "",
+               "_NIVEL-CURSO": "GRADUACAO"
+            }
+         }
+      },
+      "_SISTEMA-ORIGEM-XML": "LATTES_OFFLINE",
+      "_DATA-ATUALIZACAO": "11072013",
+      "_HORA-ATUALIZACAO": "174631",
+      "_NUMERO-IDENTIFICADOR": ""
+   }
+}

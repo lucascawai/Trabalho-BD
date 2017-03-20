@@ -1,0 +1,355 @@
+{
+   "CURRICULO-VITAE": {
+      "DADOS-GERAIS": {
+         "RESUMO-CV": {
+            "_TEXTO-RESUMO-CV-RH": "",
+            "_TEXTO-RESUMO-CV-RH-EN": ""
+         },
+         "OUTRAS-INFORMACOES-RELEVANTES": {
+            "_OUTRAS-INFORMACOES-RELEVANTES": "Diretor do Grêmio estudantil Do Instituto Militar de Engenharia\nMembro Da Integração IME, iniciativa desenvolvida dentro do Instituto Militar de Engenharia"
+         },
+         "ENDERECO": {
+            "ENDERECO-PROFISSIONAL": {
+               "_CODIGO-INSTITUICAO-EMPRESA": "869900000005",
+               "_NOME-INSTITUICAO-EMPRESA": "Instituto Militar de Engenharia",
+               "_CODIGO-UNIDADE": "",
+               "_NOME-UNIDADE": "",
+               "_CODIGO-ORGAO": "869904000000",
+               "_NOME-ORGAO": "Secao de Matematica e Engenharia de Sistemas",
+               "_PAIS": "Brasil",
+               "_UF": "RJ",
+               "_LOGRADOURO-COMPLEMENTO": "PRAÇA GENERAL TIBÚRCIO 80",
+               "_BAIRRO": "Urca",
+               "_CIDADE": "Rio de Janeiro",
+               "_CAIXA-POSTAL": "",
+               "_CEP": "22290270",
+               "_DDD": "21",
+               "_TELEFONE": "",
+               "_RAMAL": "",
+               "_FAX": "",
+               "_HOME-PAGE": ""
+            },
+            "_FLAG-DE-PREFERENCIA": "ENDERECO_RESIDENCIAL"
+         },
+         "FORMACAO-ACADEMICA-TITULACAO": {
+            "GRADUACAO": {
+               "_SEQUENCIA-FORMACAO": "1",
+               "_NIVEL": "1",
+               "_TITULO-DO-TRABALHO-DE-CONCLUSAO-DE-CURSO": "MODELAGEM E SIMULAÇÃO DE UMA BOTNET PARA GERAÇÃO DE TRACES DE BOT NA ARQUITETURA ZEUS P2P",
+               "_NOME-DO-ORIENTADOR": "Ronaldo Moreira Salles",
+               "_CODIGO-INSTITUICAO": "869900000005",
+               "_NOME-INSTITUICAO": "Instituto Militar de Engenharia",
+               "_CODIGO-CURSO": "60171219",
+               "_NOME-CURSO": "Engenharia da Computação",
+               "_CODIGO-AREA-CURSO": "",
+               "_STATUS-DO-CURSO": "CONCLUIDO",
+               "_ANO-DE-INICIO": "2010",
+               "_ANO-DE-CONCLUSAO": "2014",
+               "_FLAG-BOLSA": "NAO",
+               "_TIPO-GRADUACAO": "N",
+               "_CODIGO-INSTITUICAO-GRAD": "",
+               "_NOME-INSTITUICAO-GRAD": "",
+               "_CODIGO-INSTITUICAO-OUTRA-GRAD": "",
+               "_NOME-INSTITUICAO-OUTRA-GRAD": "",
+               "_NOME-ORIENTADOR-GRAD": "",
+               "_CODIGO-AGENCIA-FINANCIADORA": "",
+               "_NOME-AGENCIA": "",
+               "_NUMERO-ID-ORIENTADOR": "",
+               "_CODIGO-CURSO-CAPES": "50621",
+               "_TITULO-DO-TRABALHO-DE-CONCLUSAO-DE-CURSO-INGLES": "",
+               "_NOME-CURSO-INGLES": ""
+            }
+         },
+         "ATUACOES-PROFISSIONAIS": {
+            "ATUACAO-PROFISSIONAL": [
+               {
+                  "VINCULOS": {
+                     "_SEQUENCIA-HISTORICO": "1",
+                     "_TIPO-DE-VINCULO": "LIVRE",
+                     "_ENQUADRAMENTO-FUNCIONAL": "LIVRE",
+                     "_CARGA-HORARIA-SEMANAL": "",
+                     "_FLAG-DEDICACAO-EXCLUSIVA": "NAO",
+                     "_MES-INICIO": "",
+                     "_ANO-INICIO": "2012",
+                     "_MES-FIM": "",
+                     "_ANO-FIM": "",
+                     "_OUTRAS-INFORMACOES": "",
+                     "_FLAG-VINCULO-EMPREGATICIO": "NAO",
+                     "_OUTRO-VINCULO-INFORMADO": "",
+                     "_OUTRO-ENQUADRAMENTO-FUNCIONAL-INFORMADO": "",
+                     "_OUTRO-ENQUADRAMENTO-FUNCIONAL-INFORMADO-INGLES": "",
+                     "_OUTRAS-INFORMACOES-INGLES": ""
+                  },
+                  "ATIVIDADES-DE-PARTICIPACAO-EM-PROJETO": {
+                     "PARTICIPACAO-EM-PROJETO": [
+                        {
+                           "PROJETO-DE-PESQUISA": {
+                              "EQUIPE-DO-PROJETO": {
+                                 "INTEGRANTES-DO-PROJETO": [
+                                    {
+                                       "_NOME-COMPLETO": "Lucas Souza Sampaio Nunes",
+                                       "_NOME-PARA-CITACAO": "NUNES, L. S. S.",
+                                       "_ORDEM-DE-INTEGRACAO": "2",
+                                       "_FLAG-RESPONSAVEL": "SIM"
+                                    },
+                                    {
+                                       "_NOME-COMPLETO": "Ronaldo Moreira Salles",
+                                       "_NOME-PARA-CITACAO": "Ronaldo Moreira Salles",
+                                       "_ORDEM-DE-INTEGRACAO": "1",
+                                       "_FLAG-RESPONSAVEL": "NAO",
+                                       "_NRO-ID-CNPQ": ""
+                                    }
+                                 ]
+                              },
+                              "_SEQUENCIA-PROJETO": "1",
+                              "_ANO-INICIO": "2012",
+                              "_ANO-FIM": "",
+                              "_NOME-DO-PROJETO": "Aplicações do Problema Inverso do Caminho Mais Curto na Área de Redes de Computadores",
+                              "_SITUACAO": "EM_ANDAMENTO",
+                              "_NATUREZA": "PESQUISA",
+                              "_NUMERO_TECNICO_NIVEL_MEDIO": "",
+                              "_NUMERO-GRADUACAO": "1",
+                              "_NUMERO-ESPECIALIZACAO": "",
+                              "_NUMERO-MESTRADO-ACADEMICO": "",
+                              "_NUMERO-MESTRADO-PROF": "",
+                              "_NUMERO-DOUTORADO": "1",
+                              "_DESCRICAO-DO-PROJETO": "O presente estudo tem como objetivo a determinação de soluções\npara o problema inverso do caminho mais curto, através da análise de\nalgoritmos e bibliotecas conhecidas, e, além disso, estudar as possíveis\naplicações na área de redes de computadores",
+                              "_DESCRICAO-DO-PROJETO-INGLES": "",
+                              "_NOME-DO-PROJETO-INGLES": "",
+                              "_FLAG-POTENCIAL-INOVACAO": "NAO"
+                           },
+                           "_SEQUENCIA-FUNCAO-ATIVIDADE": "1",
+                           "_FLAG-PERIODO": "ATUAL",
+                           "_MES-INICIO": "",
+                           "_ANO-INICIO": "2012",
+                           "_MES-FIM": "",
+                           "_ANO-FIM": "",
+                           "_CODIGO-ORGAO": "869902000991",
+                           "_NOME-ORGAO": "Seção Engenharia de Computação",
+                           "_CODIGO-UNIDADE": "",
+                           "_NOME-UNIDADE": ""
+                        },
+                        {
+                           "PROJETO-DE-PESQUISA": {
+                              "EQUIPE-DO-PROJETO": {
+                                 "INTEGRANTES-DO-PROJETO": [
+                                    {
+                                       "_NOME-COMPLETO": "Lucas Souza Sampaio Nunes",
+                                       "_NOME-PARA-CITACAO": "NUNES, L. S. S.",
+                                       "_ORDEM-DE-INTEGRACAO": "3",
+                                       "_FLAG-RESPONSAVEL": "SIM"
+                                    },
+                                    {
+                                       "_NOME-COMPLETO": "RENAN ARRAES TELES HENRIQUE",
+                                       "_NOME-PARA-CITACAO": "HENRIQUE, R. A. T.",
+                                       "_ORDEM-DE-INTEGRACAO": "1",
+                                       "_FLAG-RESPONSAVEL": "NAO",
+                                       "_NRO-ID-CNPQ": ""
+                                    },
+                                    {
+                                       "_NOME-COMPLETO": "MARCELO HENRIQUE PRADO DA SILVA",
+                                       "_NOME-PARA-CITACAO": "SILVA, M. H. P.",
+                                       "_ORDEM-DE-INTEGRACAO": "2",
+                                       "_FLAG-RESPONSAVEL": "NAO",
+                                       "_NRO-ID-CNPQ": ""
+                                    }
+                                 ]
+                              },
+                              "_SEQUENCIA-PROJETO": "2",
+                              "_ANO-INICIO": "2011",
+                              "_ANO-FIM": "2012",
+                              "_NOME-DO-PROJETO": "PRODUÇÃO DE ARCABOUÇOS POROSOS PARA REGENERAÇÃO ÓSSEA",
+                              "_SITUACAO": "CONCLUIDO",
+                              "_NATUREZA": "PESQUISA",
+                              "_NUMERO_TECNICO_NIVEL_MEDIO": "",
+                              "_NUMERO-GRADUACAO": "2",
+                              "_NUMERO-ESPECIALIZACAO": "1",
+                              "_NUMERO-MESTRADO-ACADEMICO": "2",
+                              "_NUMERO-MESTRADO-PROF": "1",
+                              "_NUMERO-DOUTORADO": "2",
+                              "_DESCRICAO-DO-PROJETO": "Este trabalho teve por objetivo produzir arcabouços porosos formados por hidroxiapatita Ca_10 &#12310;(PO_4)&#12311;_6 &#12310;(OH)&#12311;_2, a partir da monetita, que sejam parecidos com os ossos. Sinterizou-se material biocerâmico reforçado com biovidro rico em fósforo e cálcio a fim de caracterizar o comportamento mecânico da amostra. Tal projeto foi justificado pela necessidade de encontrar um substituto ósseo para casos hospitalares de traumatismo.",
+                              "_DESCRICAO-DO-PROJETO-INGLES": "",
+                              "_NOME-DO-PROJETO-INGLES": "",
+                              "_FLAG-POTENCIAL-INOVACAO": "SIM"
+                           },
+                           "_SEQUENCIA-FUNCAO-ATIVIDADE": "2",
+                           "_FLAG-PERIODO": "ANTERIOR",
+                           "_MES-INICIO": "",
+                           "_ANO-INICIO": "2011",
+                           "_MES-FIM": "",
+                           "_ANO-FIM": "2012",
+                           "_CODIGO-ORGAO": "869901000009",
+                           "_NOME-ORGAO": "Secao de Engenharia Mecanica e de Materiais",
+                           "_CODIGO-UNIDADE": "",
+                           "_NOME-UNIDADE": ""
+                        }
+                     ]
+                  },
+                  "_CODIGO-INSTITUICAO": "869900000005",
+                  "_NOME-INSTITUICAO": "Instituto Militar de Engenharia",
+                  "_SEQUENCIA-ATIVIDADE": "1",
+                  "_SEQUENCIA-IMPORTANCIA": ""
+               },
+               {
+                  "VINCULOS": {
+                     "_SEQUENCIA-HISTORICO": "1",
+                     "_TIPO-DE-VINCULO": "SERVIDOR_PUBLICO",
+                     "_ENQUADRAMENTO-FUNCIONAL": "LIVRE",
+                     "_CARGA-HORARIA-SEMANAL": "40",
+                     "_FLAG-DEDICACAO-EXCLUSIVA": "SIM",
+                     "_MES-INICIO": "01",
+                     "_ANO-INICIO": "2015",
+                     "_MES-FIM": "",
+                     "_ANO-FIM": "",
+                     "_OUTRAS-INFORMACOES": "",
+                     "_FLAG-VINCULO-EMPREGATICIO": "NAO",
+                     "_OUTRO-VINCULO-INFORMADO": "",
+                     "_OUTRO-ENQUADRAMENTO-FUNCIONAL-INFORMADO": "Analisa de Business Intelligence",
+                     "_OUTRO-ENQUADRAMENTO-FUNCIONAL-INFORMADO-INGLES": "",
+                     "_OUTRAS-INFORMACOES-INGLES": ""
+                  },
+                  "_CODIGO-INSTITUICAO": "000300000995",
+                  "_NOME-INSTITUICAO": "Centro de Desenvolvimento de Sistemas",
+                  "_SEQUENCIA-ATIVIDADE": "2",
+                  "_SEQUENCIA-IMPORTANCIA": "2"
+               },
+               {
+                  "VINCULOS": {
+                     "_SEQUENCIA-HISTORICO": "1",
+                     "_TIPO-DE-VINCULO": "LIVRE",
+                     "_ENQUADRAMENTO-FUNCIONAL": "LIVRE",
+                     "_CARGA-HORARIA-SEMANAL": "30",
+                     "_FLAG-DEDICACAO-EXCLUSIVA": "NAO",
+                     "_MES-INICIO": "02",
+                     "_ANO-INICIO": "2014",
+                     "_MES-FIM": "07",
+                     "_ANO-FIM": "2014",
+                     "_OUTRAS-INFORMACOES": "",
+                     "_FLAG-VINCULO-EMPREGATICIO": "SIM",
+                     "_OUTRO-VINCULO-INFORMADO": "Estagiário",
+                     "_OUTRO-ENQUADRAMENTO-FUNCIONAL-INFORMADO": "Responsável Informática",
+                     "_OUTRO-ENQUADRAMENTO-FUNCIONAL-INFORMADO-INGLES": "",
+                     "_OUTRAS-INFORMACOES-INGLES": ""
+                  },
+                  "_CODIGO-INSTITUICAO": "J68300000002",
+                  "_NOME-INSTITUICAO": "Hidromec Indústria e Comércio",
+                  "_SEQUENCIA-ATIVIDADE": "3",
+                  "_SEQUENCIA-IMPORTANCIA": "3"
+               }
+            ]
+         },
+         "AREAS-DE-ATUACAO": "",
+         "IDIOMAS": {
+            "IDIOMA": [
+               {
+                  "_IDIOMA": "PT",
+                  "_DESCRICAO-DO-IDIOMA": "Português",
+                  "_PROFICIENCIA-DE-LEITURA": "BEM",
+                  "_PROFICIENCIA-DE-FALA": "BEM",
+                  "_PROFICIENCIA-DE-ESCRITA": "BEM",
+                  "_PROFICIENCIA-DE-COMPREENSAO": "BEM"
+               },
+               {
+                  "_IDIOMA": "EN",
+                  "_DESCRICAO-DO-IDIOMA": "Inglês",
+                  "_PROFICIENCIA-DE-LEITURA": "BEM",
+                  "_PROFICIENCIA-DE-FALA": "BEM",
+                  "_PROFICIENCIA-DE-ESCRITA": "BEM",
+                  "_PROFICIENCIA-DE-COMPREENSAO": "BEM"
+               }
+            ]
+         },
+         "_NOME-COMPLETO": "Lucas Souza Sampaio Nunes",
+         "_NOME-EM-CITACOES-BIBLIOGRAFICAS": "NUNES, L. S. S.",
+         "_NACIONALIDADE": "B",
+         "_PAIS-DE-NASCIMENTO": "Brasil",
+         "_UF-NASCIMENTO": "CE",
+         "_CIDADE-NASCIMENTO": "Fortaleza",
+         "_PERMISSAO-DE-DIVULGACAO": "NAO",
+         "_DATA-FALECIMENTO": "",
+         "_SIGLA-PAIS-NACIONALIDADE": "BRA",
+         "_PAIS-DE-NACIONALIDADE": "Brasil"
+      },
+      "DADOS-COMPLEMENTARES": {
+         "FORMACAO-COMPLEMENTAR": {
+            "FORMACAO-COMPLEMENTAR-CURSO-DE-CURTA-DURACAO": [
+               {
+                  "_SEQUENCIA-FORMACAO": "2",
+                  "_NIVEL": "F",
+                  "_CARGA-HORARIA": "24",
+                  "_CODIGO-INSTITUICAO": "",
+                  "_NOME-INSTITUICAO": "Instituto de Engenharia de Gestão",
+                  "_CODIGO-CURSO": "90000001",
+                  "_NOME-CURSO": "Excel Aplicado a Negócios",
+                  "_STATUS-DO-CURSO": "CONCLUIDO",
+                  "_ANO-DE-INICIO": "2012",
+                  "_ANO-DE-CONCLUSAO": "2012",
+                  "_NOME-CURSO-INGLES": ""
+               },
+               {
+                  "_SEQUENCIA-FORMACAO": "3",
+                  "_NIVEL": "F",
+                  "_CARGA-HORARIA": "12",
+                  "_CODIGO-INSTITUICAO": "",
+                  "_NOME-INSTITUICAO": "XP Investimentos",
+                  "_CODIGO-CURSO": "90000002",
+                  "_NOME-CURSO": "Aprenda a Investir na Bolsa de Valores",
+                  "_STATUS-DO-CURSO": "CONCLUIDO",
+                  "_ANO-DE-INICIO": "2012",
+                  "_ANO-DE-CONCLUSAO": "2012",
+                  "_NOME-CURSO-INGLES": ""
+               }
+            ]
+         },
+         "INFORMACOES-ADICIONAIS-INSTITUICOES": {
+            "INFORMACAO-ADICIONAL-INSTITUICAO": [
+               {
+                  "_CODIGO-INSTITUICAO": "000300000995",
+                  "_SIGLA-INSTITUICAO": "CDS",
+                  "_SIGLA-UF-INSTITUICAO": "DF",
+                  "_SIGLA-PAIS-INSTITUICAO": "BRA",
+                  "_NOME-PAIS-INSTITUICAO": "Brasil",
+                  "_FLAG-AGENCIA-FOMENTO": "NAO",
+                  "_FLAG-INSTITUICAO-DE-ENSINO": "NAO"
+               },
+               {
+                  "_CODIGO-INSTITUICAO": "869900000005",
+                  "_SIGLA-INSTITUICAO": "IME",
+                  "_SIGLA-UF-INSTITUICAO": "RJ",
+                  "_SIGLA-PAIS-INSTITUICAO": "BRA",
+                  "_NOME-PAIS-INSTITUICAO": "Brasil",
+                  "_FLAG-AGENCIA-FOMENTO": "NAO",
+                  "_FLAG-INSTITUICAO-DE-ENSINO": "SIM"
+               },
+               {
+                  "_CODIGO-INSTITUICAO": "J68300000002",
+                  "_SIGLA-INSTITUICAO": "HIDROMEC",
+                  "_SIGLA-UF-INSTITUICAO": "RJ",
+                  "_SIGLA-PAIS-INSTITUICAO": "BRA",
+                  "_NOME-PAIS-INSTITUICAO": "Brasil",
+                  "_FLAG-AGENCIA-FOMENTO": "NAO",
+                  "_FLAG-INSTITUICAO-DE-ENSINO": "NAO"
+               }
+            ]
+         },
+         "INFORMACOES-ADICIONAIS-CURSOS": {
+            "INFORMACAO-ADICIONAL-CURSO": {
+               "_CODIGO-CURSO": "60171219",
+               "_CODIGO-ORGAO": "",
+               "_NOME-ORGAO": "",
+               "_CODIGO-INSTITUICAO": "869900000005",
+               "_NOME-INSTITUICAO": "Instituto Militar de Engenharia",
+               "_NOME-GRANDE-AREA-DO-CONHECIMENTO": "OUTROS",
+               "_NOME-DA-AREA-DO-CONHECIMENTO": "",
+               "_NOME-DA-SUB-AREA-DO-CONHECIMENTO": "",
+               "_NOME-DA-ESPECIALIDADE": "",
+               "_NIVEL-CURSO": "GRADUACAO"
+            }
+         }
+      },
+      "_SISTEMA-ORIGEM-XML": "LATTES_OFFLINE",
+      "_DATA-ATUALIZACAO": "18052015",
+      "_HORA-ATUALIZACAO": "231000",
+      "_NUMERO-IDENTIFICADOR": "4868459643922967"
+   }
+}
