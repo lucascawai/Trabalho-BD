@@ -2,15 +2,18 @@
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
   <xs:element name="CURRICULO-VITAE">
     <xs:complexType>
-      <xs:sequence>
+      <xs:all>
         <xs:element ref="DADOS-GERAIS"/>
         <xs:element ref="DADOS-COMPLEMENTARES"/>
-      </xs:sequence>
+        <xs:element ref="PRODUCAO-BIBLIOGRAFICA"/>
+      </xs:all>
       <xs:attribute name="DATA-ATUALIZACAO" use="required" type="xs:integer"/>
       <xs:attribute name="HORA-ATUALIZACAO" use="required" type="xs:integer"/>
       <xs:attribute name="NUMERO-IDENTIFICADOR" use="required"/>
       <xs:attribute name="SISTEMA-ORIGEM-XML" use="required" type="xs:NCName"/>
     </xs:complexType>
+  </xs:element>
+  <xs:element name="PRODUCAO-BIBLIOGRAFICA">
   </xs:element>
   <xs:element name="DADOS-GERAIS">
     <xs:complexType>
@@ -80,9 +83,14 @@
   <xs:element name="FORMACAO-ACADEMICA-TITULACAO">
     <xs:complexType>
       <xs:all>
+<<<<<<< HEAD
         <xs:element ref="GRADUACAO"/>
         <xs:element ref="MESTRADO" minOccurs="0"/>
         <xs:element ref="ENSINO-MEDIO-SEGUNDO-GRAU"/>
+=======
+        <xs:element minOccurs="0" ref="GRADUACAO"/>
+        <xs:element minOccurs="0" ref="ENSINO-MEDIO-SEGUNDO-GRAU"/>
+>>>>>>> 70ea34b164ddc65f14a488768cb0f41fbfc58aac
       </xs:all>
     </xs:complexType>
   </xs:element>
