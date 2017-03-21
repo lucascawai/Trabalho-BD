@@ -323,5 +323,4 @@
       <xs:attribute name="NOME-ORGAO" use="required"/>
     </xs:complexType>
   </xs:element>
->>>>>>> bfb7b0b2683617f3f70e1123d6c722bfa7ca4991
 </xs:schema>
