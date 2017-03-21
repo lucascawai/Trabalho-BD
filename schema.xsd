@@ -83,14 +83,10 @@
   <xs:element name="FORMACAO-ACADEMICA-TITULACAO">
     <xs:complexType>
       <xs:all>
-<<<<<<< HEAD
-        <xs:element ref="GRADUACAO"/>
-        <xs:element ref="MESTRADO" minOccurs="0"/>
-        <xs:element ref="ENSINO-MEDIO-SEGUNDO-GRAU"/>
-=======
+
         <xs:element minOccurs="0" ref="GRADUACAO"/>
+        <xs:element minOccurs="0" ref="MESTRADO"/>
         <xs:element minOccurs="0" ref="ENSINO-MEDIO-SEGUNDO-GRAU"/>
->>>>>>> 70ea34b164ddc65f14a488768cb0f41fbfc58aac
       </xs:all>
     </xs:complexType>
   </xs:element>
