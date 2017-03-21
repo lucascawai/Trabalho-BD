@@ -3,9 +3,11 @@
   <xs:element name="CURRICULO-VITAE">
     <xs:complexType>
       <xs:all>
-        <xs:element ref="DADOS-GERAIS"/>
-        <xs:element ref="DADOS-COMPLEMENTARES"/>
-        <xs:element ref="PRODUCAO-BIBLIOGRAFICA"/>
+        <xs:element minOccurs="0" ref="DADOS-GERAIS"/>
+        <xs:element minOccurs="0" name="PRODUCAO-TECNICA"/>
+        <xs:element minOccurs="0" name="OUTRA-PRODUCAO"/>
+        <xs:element minOccurs="0" ref="DADOS-COMPLEMENTARES"/>
+        <xs:element minOccurs="0" ref="PRODUCAO-BIBLIOGRAFICA"/>
       </xs:all>
       <xs:attribute name="DATA-ATUALIZACAO" use="required" type="xs:integer"/>
       <xs:attribute name="HORA-ATUALIZACAO" use="required" type="xs:integer"/>
@@ -14,19 +16,20 @@
     </xs:complexType>
   </xs:element>
   <xs:element name="PRODUCAO-BIBLIOGRAFICA">
+    <xs:complexType/>
   </xs:element>
   <xs:element name="DADOS-GERAIS">
     <xs:complexType>
-      <xs:sequence>
-        <xs:element ref="RESUMO-CV"/>
-        <xs:element ref="OUTRAS-INFORMACOES-RELEVANTES"/>
-        <xs:element ref="ENDERECO"/>
-        <xs:element ref="FORMACAO-ACADEMICA-TITULACAO"/>
-        <xs:element ref="ATUACOES-PROFISSIONAIS"/>
-        <xs:element ref="AREAS-DE-ATUACAO"/>
-        <xs:element ref="IDIOMAS"/>
-        <xs:element ref="PREMIOS-TITULOS"/>
-      </xs:sequence>
+      <xs:all>
+        <xs:element minOccurs="0" ref="RESUMO-CV"/>
+        <xs:element minOccurs="0" ref="OUTRAS-INFORMACOES-RELEVANTES"/>
+        <xs:element minOccurs="0" ref="ENDERECO"/>
+        <xs:element minOccurs="0" ref="FORMACAO-ACADEMICA-TITULACAO"/>
+        <xs:element minOccurs="0" ref="ATUACOES-PROFISSIONAIS"/>
+        <xs:element minOccurs="0" ref="AREAS-DE-ATUACAO"/>
+        <xs:element minOccurs="0" ref="IDIOMAS"/>
+        <xs:element minOccurs="0" ref="PREMIOS-TITULOS"/>
+      </xs:all>
       <xs:attribute name="SIGLA-PAIS-NACIONALIDADE" use="optional"/>
       <xs:attribute name="PAIS-DE-NACIONALIDADE" use="optional"/>
       <xs:attribute name="CIDADE-NASCIMENTO" use="required"/>
@@ -84,12 +87,16 @@
     <xs:complexType>
       <xs:all>
         <xs:element minOccurs="0" ref="GRADUACAO"/>
+        <xs:element minOccurs="0" name="ENSINO-FUNDAMENTAL-PRIMEIRO-GRAU"/>
         <xs:element minOccurs="0" ref="ENSINO-MEDIO-SEGUNDO-GRAU"/>
       </xs:all>
     </xs:complexType>
   </xs:element>
   <xs:element name="GRADUACAO">
     <xs:complexType>
+      <xs:attribute name="FORMACAO-ACADEMICA-TITULACAO" use="optional" type="xs:string"/>
+      <xs:attribute name="CODIGO-ORGAO" use="optional" type="xs:string"/>
+      <xs:attribute name="NOME-ORGAO" use="optional" type="xs:string"/>
       <xs:attribute name="TIPO-GRADUACAO" use="optional" type="xs:string"/>
       <xs:attribute name="CODIGO-INSTITUICAO-GRAD" use="optional" type="xs:string"/>
       <xs:attribute name="NOME-INSTITUICAO-GRAD" use="optional" type="xs:string"/>
@@ -281,10 +288,10 @@
   </xs:element>
   <xs:element name="DADOS-COMPLEMENTARES">
     <xs:complexType>
-      <xs:sequence>
-        <xs:element ref="INFORMACOES-ADICIONAIS-INSTITUICOES"/>
-        <xs:element ref="INFORMACOES-ADICIONAIS-CURSOS"/>
-      </xs:sequence>
+      <xs:all>
+        <xs:element minOccurs="0" ref="INFORMACOES-ADICIONAIS-INSTITUICOES"/>
+        <xs:element minOccurs="0" name="INFORMACOES-ADICIONAIS-CURSOS"/>
+      </xs:all>
     </xs:complexType>
   </xs:element>
   <xs:element name="INFORMACOES-ADICIONAIS-INSTITUICOES">
@@ -303,13 +310,6 @@
       <xs:attribute name="SIGLA-INSTITUICAO" use="required"/>
       <xs:attribute name="SIGLA-PAIS-INSTITUICAO" use="required" type="xs:NCName"/>
       <xs:attribute name="SIGLA-UF-INSTITUICAO" use="required"/>
-    </xs:complexType>
-  </xs:element>
-  <xs:element name="INFORMACOES-ADICIONAIS-CURSOS">
-    <xs:complexType>
-      <xs:sequence>
-        <xs:element ref="INFORMACAO-ADICIONAL-CURSO"/>
-      </xs:sequence>
     </xs:complexType>
   </xs:element>
   <xs:element name="INFORMACAO-ADICIONAL-CURSO">
