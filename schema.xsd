@@ -24,8 +24,8 @@
         <xs:element ref="IDIOMAS"/>
         <xs:element ref="PREMIOS-TITULOS"/>
       </xs:sequence>
-      <xs:attribute name="SIGLA-PAIS-NACIONALIDADE" use="required"/>
-      <xs:attribute name="PAIS-DE-NACIONALIDADE" use="required"/>
+      <xs:attribute name="SIGLA-PAIS-NACIONALIDADE" use="optional"/>
+      <xs:attribute name="PAIS-DE-NACIONALIDADE" use="optional"/>
       <xs:attribute name="CIDADE-NASCIMENTO" use="required"/>
       <xs:attribute name="DATA-FALECIMENTO" use="required"/>
       <xs:attribute name="NACIONALIDADE" use="required" type="xs:NCName"/>
@@ -79,10 +79,11 @@
   </xs:element>
   <xs:element name="FORMACAO-ACADEMICA-TITULACAO">
     <xs:complexType>
-      <xs:sequence>
+      <xs:all>
         <xs:element ref="GRADUACAO"/>
+        <xs:element ref="MESTRADO" minOccurs="0"/>
         <xs:element ref="ENSINO-MEDIO-SEGUNDO-GRAU"/>
-      </xs:sequence>
+      </xs:all>
     </xs:complexType>
   </xs:element>
   <xs:element name="GRADUACAO">
@@ -97,7 +98,7 @@
       <xs:attribute name="FLAG-BOLSA" use="required" type="xs:NCName"/>
       <xs:attribute name="NIVEL" use="required" type="xs:integer"/>
       <xs:attribute name="NOME-AGENCIA" use="required"/>
-      <xs:attribute name="NOME-CURSO" use="required" type="xs:NCName"/>
+      <xs:attribute name="NOME-CURSO" use="required"/>
       <xs:attribute name="NOME-CURSO-INGLES" use="required"/>
       <xs:attribute name="NOME-DO-ORIENTADOR" use="required"/>
       <xs:attribute name="NOME-INSTITUICAO" use="required"/>
@@ -106,6 +107,46 @@
       <xs:attribute name="STATUS-DO-CURSO" use="required" type="xs:NCName"/>
       <xs:attribute name="TITULO-DO-TRABALHO-DE-CONCLUSAO-DE-CURSO" use="required"/>
       <xs:attribute name="TITULO-DO-TRABALHO-DE-CONCLUSAO-DE-CURSO-INGLES" use="required"/>
+      <xs:attribute name="TIPO-GRADUACAO" use="optional"/>
+      <xs:attribute name="NOME-INSTITUICAO-GRAD" use="optional"/>
+      <xs:attribute name="CODIGO-INSTITUICAO-GRAD" use="optional"/>
+      <xs:attribute name="CODIGO-INSTITUICAO-OUTRA-GRAD" use="optional"/>
+      <xs:attribute name="NOME-INSTITUICAO-OUTRA-GRAD" use="optional"/>
+      <xs:attribute name="NOME-ORIENTADOR-GRAD" use="optional"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="MESTRADO">
+    <xs:complexType>
+      <xs:attribute name="ANO-DE-CONCLUSAO" use="required"/>
+      <xs:attribute name="ANO-DE-INICIO" use="required" type="xs:integer"/>
+      <xs:attribute name="CODIGO-AGENCIA-FINANCIADORA" use="required"/>
+      <xs:attribute name="CODIGO-AREA-CURSO" use="required"/>
+      <xs:attribute name="CODIGO-CURSO" use="required"/>
+      <xs:attribute name="CODIGO-CURSO-CAPES" use="required"/>
+      <xs:attribute name="CODIGO-INSTITUICAO" use="required" type="xs:integer"/>
+      <xs:attribute name="FLAG-BOLSA" use="required" type="xs:NCName"/>
+      <xs:attribute name="NIVEL" use="required" type="xs:integer"/>
+      <xs:attribute name="NOME-AGENCIA" use="required"/>
+      <xs:attribute name="NOME-CURSO" use="required"/>
+      <xs:attribute name="NOME-CURSO-INGLES" use="required"/>
+      <xs:attribute name="NOME-DO-ORIENTADOR" use="optional"/>
+      <xs:attribute name="NOME-INSTITUICAO" use="required"/>
+      <xs:attribute name="NUMERO-ID-ORIENTADOR" use="required"/>
+      <xs:attribute name="SEQUENCIA-FORMACAO" use="required" type="xs:integer"/>
+      <xs:attribute name="STATUS-DO-CURSO" use="required" type="xs:NCName"/>
+      <xs:attribute name="TITULO-DO-TRABALHO-DE-CONCLUSAO-DE-CURSO" use="optional"/>
+      <xs:attribute name="TITULO-DO-TRABALHO-DE-CONCLUSAO-DE-CURSO-INGLES" use="optional"/>
+      <xs:attribute name="TIPO-MESTRADO" use="optional"/>
+      <xs:attribute name="CODIGO-INSTITUICAO-DOUT" use="optional"/>
+      <xs:attribute name="NOME-INSTITUICAO-DOUT" use="optional"/>
+      <xs:attribute name="CODIGO-INSTITUICAO-OUTRA-DOUT" use="optional"/>
+      <xs:attribute name="NOME-INSTITUICAO-OUTRA-DOUT" use="optional"/>
+      <xs:attribute name="NOME-ORIENTADOR-DOUT" use="optional"/>
+      <xs:attribute name="ANO-DE-OBTENCAO-DO-TITULO" use="optional"/>
+      <xs:attribute name="TITULO-DA-DISSERTACAO-TESE" use="optional"/>
+      <xs:attribute name="TITULO-DA-DISSERTACAO-TESE-INGLES" use="optional"/>
+      <xs:attribute name="NOME-COMPLETO-DO-ORIENTADOR" use="optional"/>
+      <xs:attribute name="NOME-DO-CO-ORIENTADOR" use="optional"/>
     </xs:complexType>
   </xs:element>
   <xs:element name="ENSINO-MEDIO-SEGUNDO-GRAU">
