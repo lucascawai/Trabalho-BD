@@ -127,6 +127,10 @@
   </xs:element>
   <xs:element name="MESTRADO">
     <xs:complexType>
+			<xs:sequence>
+				<xs:element name="AREAS-DO-CONHECIMENTO"/>
+				<xs:any minOccurs="0"/>
+			</xs:sequence>
       <xs:attribute name="ANO-DE-CONCLUSAO" use="required"/>
       <xs:attribute name="ANO-DE-INICIO" use="required" type="xs:integer"/>
       <xs:attribute name="CODIGO-AGENCIA-FINANCIADORA" use="required"/>
@@ -179,10 +183,10 @@
   </xs:element>
   <xs:element name="ATUACAO-PROFISSIONAL">
     <xs:complexType>
-      <xs:sequence>
+      <xs:choice maxOccurs="unbounded">
         <xs:element ref="VINCULOS"/>
         <xs:element minOccurs="0" ref="ATIVIDADES-DE-PARTICIPACAO-EM-PROJETO"/>
-      </xs:sequence>
+      </xs:choice>
       <xs:attribute name="CODIGO-INSTITUICAO" use="required" type="xs:integer"/>
       <xs:attribute name="NOME-INSTITUICAO" use="required"/>
       <xs:attribute name="SEQUENCIA-ATIVIDADE" use="required" type="xs:integer"/>
@@ -234,11 +238,11 @@
   </xs:element>
   <xs:element name="PROJETO-DE-PESQUISA">
     <xs:complexType>
-      <xs:sequence>
-        <xs:element ref="EQUIPE-DO-PROJETO"/>
-        <xs:element ref="FINANCIADORES-DO-PROJETO"/>
-      </xs:sequence>
-      <xs:attribute name="ANO-FIM" use="required" type="xs:integer"/>
+      <xs:all>
+        <xs:element minOccurs="0" ref="EQUIPE-DO-PROJETO"/>
+        <xs:element minOccurs="0" ref="FINANCIADORES-DO-PROJETO"/>
+      </xs:all>
+      <xs:attribute name="ANO-FIM" use="required" type="xs:string"/>
       <xs:attribute name="ANO-INICIO" use="required" type="xs:integer"/>
       <xs:attribute name="DESCRICAO-DO-PROJETO" use="required"/>
       <xs:attribute name="DESCRICAO-DO-PROJETO-INGLES" use="required"/>
@@ -287,7 +291,11 @@
     </xs:complexType>
   </xs:element>
   <xs:element name="AREAS-DE-ATUACAO">
-    <xs:complexType/>
+    <xs:complexType>
+			<xs:all>
+				<xs:element minOccurs="0" name="AREA-DE-ATUACAO"/>
+			</xs:all>
+		</xs:complexType>
   </xs:element>
   <xs:element name="IDIOMAS">
     <xs:complexType>
@@ -316,7 +324,7 @@
   <xs:element name="PREMIO-TITULO">
     <xs:complexType>
       <xs:attribute name="ANO-DA-PREMIACAO" use="required" type="xs:integer"/>
-      <xs:attribute name="NOME-DA-ENTIDADE-PROMOTORA" use="required" type="xs:NCName"/>
+      <xs:attribute name="NOME-DA-ENTIDADE-PROMOTORA" use="required" type="xs:string"/>
       <xs:attribute name="NOME-DO-PREMIO-OU-TITULO" use="required"/>
       <xs:attribute name="NOME-DO-PREMIO-OU-TITULO-INGLES" use="required"/>
     </xs:complexType>
@@ -326,6 +334,7 @@
       <xs:all>
         <xs:element minOccurs="0" ref="INFORMACOES-ADICIONAIS-INSTITUICOES"/>
         <xs:element minOccurs="0" name="INFORMACOES-ADICIONAIS-CURSOS"/>
+        <xs:element minOccurs="0" name="FORMACAO-COMPLEMENTAR"/>
       </xs:all>
     </xs:complexType>
   </xs:element>
