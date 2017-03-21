@@ -123,12 +123,6 @@
       <xs:attribute name="STATUS-DO-CURSO" use="required" type="xs:NCName"/>
       <xs:attribute name="TITULO-DO-TRABALHO-DE-CONCLUSAO-DE-CURSO" use="required"/>
       <xs:attribute name="TITULO-DO-TRABALHO-DE-CONCLUSAO-DE-CURSO-INGLES" use="required"/>
-      <xs:attribute name="TIPO-GRADUACAO" use="optional"/>
-      <xs:attribute name="NOME-INSTITUICAO-GRAD" use="optional"/>
-      <xs:attribute name="CODIGO-INSTITUICAO-GRAD" use="optional"/>
-      <xs:attribute name="CODIGO-INSTITUICAO-OUTRA-GRAD" use="optional"/>
-      <xs:attribute name="NOME-INSTITUICAO-OUTRA-GRAD" use="optional"/>
-      <xs:attribute name="NOME-ORIENTADOR-GRAD" use="optional"/>
     </xs:complexType>
   </xs:element>
   <xs:element name="MESTRADO">
