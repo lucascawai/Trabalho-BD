@@ -1,320 +1,320 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
-  <xs:element name="CURRICULO-VITAE">
-    <xs:complexType>
-      <xs:sequence>
-        <xs:element ref="DADOS-GERAIS"/>
-        <xs:element ref="DADOS-COMPLEMENTARES"/>
-      </xs:sequence>
-      <xs:attribute name="DATA-ATUALIZACAO" use="required" type="xs:integer"/>
-      <xs:attribute name="HORA-ATUALIZACAO" use="required" type="xs:integer"/>
-      <xs:attribute name="NUMERO-IDENTIFICADOR" use="required"/>
-      <xs:attribute name="SISTEMA-ORIGEM-XML" use="required" type="xs:NCName"/>
-    </xs:complexType>
-  </xs:element>
-  <xs:element name="DADOS-GERAIS">
-    <xs:complexType>
-      <xs:sequence>
-        <xs:element ref="RESUMO-CV"/>
-        <xs:element ref="OUTRAS-INFORMACOES-RELEVANTES"/>
-        <xs:element ref="ENDERECO"/>
-        <xs:element ref="FORMACAO-ACADEMICA-TITULACAO"/>
-        <xs:element ref="ATUACOES-PROFISSIONAIS"/>
-        <xs:element ref="AREAS-DE-ATUACAO"/>
-        <xs:element ref="IDIOMAS"/>
-        <xs:element ref="PREMIOS-TITULOS"/>
-      </xs:sequence>
-      <xs:attribute name="SIGLA-PAIS-NACIONALIDADE" use="required"/>
-      <xs:attribute name="PAIS-DE-NACIONALIDADE" use="required"/>
-      <xs:attribute name="CIDADE-NASCIMENTO" use="required"/>
-      <xs:attribute name="DATA-FALECIMENTO" use="required"/>
-      <xs:attribute name="NACIONALIDADE" use="required" type="xs:NCName"/>
-      <xs:attribute name="NOME-COMPLETO" use="required"/>
-      <xs:attribute name="NOME-EM-CITACOES-BIBLIOGRAFICAS" use="required"/>
-      <xs:attribute name="PAIS-DE-NASCIMENTO" use="required" type="xs:NCName"/>
-      <xs:attribute name="PERMISSAO-DE-DIVULGACAO" use="required" type="xs:NCName"/>
-      <xs:attribute name="UF-NASCIMENTO" use="required" type="xs:NCName"/>
-    </xs:complexType>
-  </xs:element>
-  <xs:element name="RESUMO-CV">
-    <xs:complexType>
-      <xs:attribute name="TEXTO-RESUMO-CV-RH" use="required"/>
-      <xs:attribute name="TEXTO-RESUMO-CV-RH-EN" use="required"/>
-    </xs:complexType>
-  </xs:element>
-  <xs:element name="OUTRAS-INFORMACOES-RELEVANTES">
-    <xs:complexType>
-      <xs:attribute name="OUTRAS-INFORMACOES-RELEVANTES" use="required"/>
-    </xs:complexType>
-  </xs:element>
-  <xs:element name="ENDERECO">
-    <xs:complexType>
-      <xs:sequence>
-        <xs:element ref="ENDERECO-PROFISSIONAL"/>
-      </xs:sequence>
-      <xs:attribute name="FLAG-DE-PREFERENCIA" use="required" type="xs:NCName"/>
-    </xs:complexType>
-  </xs:element>
-  <xs:element name="ENDERECO-PROFISSIONAL">
-    <xs:complexType>
-      <xs:attribute name="BAIRRO" use="required"/>
-      <xs:attribute name="CAIXA-POSTAL" use="required"/>
-      <xs:attribute name="CEP" use="required"/>
-      <xs:attribute name="CIDADE" use="required"/>
-      <xs:attribute name="CODIGO-INSTITUICAO-EMPRESA" use="required"/>
-      <xs:attribute name="CODIGO-ORGAO" use="required"/>
-      <xs:attribute name="CODIGO-UNIDADE" use="required"/>
-      <xs:attribute name="DDD" use="required"/>
-      <xs:attribute name="FAX" use="required"/>
-      <xs:attribute name="HOME-PAGE" use="required"/>
-      <xs:attribute name="LOGRADOURO-COMPLEMENTO" use="required"/>
-      <xs:attribute name="NOME-INSTITUICAO-EMPRESA" use="required"/>
-      <xs:attribute name="NOME-ORGAO" use="required"/>
-      <xs:attribute name="NOME-UNIDADE" use="required"/>
-      <xs:attribute name="PAIS" use="required"/>
-      <xs:attribute name="RAMAL" use="required"/>
-      <xs:attribute name="TELEFONE" use="required"/>
-      <xs:attribute name="UF" use="required"/>
-    </xs:complexType>
-  </xs:element>
-  <xs:element name="FORMACAO-ACADEMICA-TITULACAO">
-    <xs:complexType>
-      <xs:sequence>
-        <xs:element ref="GRADUACAO"/>
-        <xs:element ref="ENSINO-MEDIO-SEGUNDO-GRAU"/>
-      </xs:sequence>
-    </xs:complexType>
-  </xs:element>
-  <xs:element name="GRADUACAO">
-    <xs:complexType>
-      <xs:attribute name="ANO-DE-CONCLUSAO" use="required"/>
-      <xs:attribute name="ANO-DE-INICIO" use="required" type="xs:integer"/>
-      <xs:attribute name="CODIGO-AGENCIA-FINANCIADORA" use="required"/>
-      <xs:attribute name="CODIGO-AREA-CURSO" use="required"/>
-      <xs:attribute name="CODIGO-CURSO" use="required"/>
-      <xs:attribute name="CODIGO-CURSO-CAPES" use="required"/>
-      <xs:attribute name="CODIGO-INSTITUICAO" use="required" type="xs:integer"/>
-      <xs:attribute name="FLAG-BOLSA" use="required" type="xs:NCName"/>
-      <xs:attribute name="NIVEL" use="required" type="xs:integer"/>
-      <xs:attribute name="NOME-AGENCIA" use="required"/>
-      <xs:attribute name="NOME-CURSO" use="required" type="xs:NCName"/>
-      <xs:attribute name="NOME-CURSO-INGLES" use="required"/>
-      <xs:attribute name="NOME-DO-ORIENTADOR" use="required"/>
-      <xs:attribute name="NOME-INSTITUICAO" use="required"/>
-      <xs:attribute name="NUMERO-ID-ORIENTADOR" use="required"/>
-      <xs:attribute name="SEQUENCIA-FORMACAO" use="required" type="xs:integer"/>
-      <xs:attribute name="STATUS-DO-CURSO" use="required" type="xs:NCName"/>
-      <xs:attribute name="TITULO-DO-TRABALHO-DE-CONCLUSAO-DE-CURSO" use="required"/>
-      <xs:attribute name="TITULO-DO-TRABALHO-DE-CONCLUSAO-DE-CURSO-INGLES" use="required"/>
-    </xs:complexType>
-  </xs:element>
-  <xs:element name="ENSINO-MEDIO-SEGUNDO-GRAU">
-    <xs:complexType>
-      <xs:attribute name="ANO-DE-CONCLUSAO" use="required" type="xs:integer"/>
-      <xs:attribute name="ANO-DE-INICIO" use="required" type="xs:integer"/>
-      <xs:attribute name="CODIGO-INSTITUICAO" use="required"/>
-      <xs:attribute name="NIVEL" use="required" type="xs:NCName"/>
-      <xs:attribute name="NOME-INSTITUICAO" use="required"/>
-      <xs:attribute name="SEQUENCIA-FORMACAO" use="required" type="xs:integer"/>
-      <xs:attribute name="STATUS-DO-CURSO" use="required" type="xs:NCName"/>
-    </xs:complexType>
-  </xs:element>
-  <xs:element name="ATUACOES-PROFISSIONAIS">
-    <xs:complexType>
-      <xs:sequence>
-        <xs:element maxOccurs="unbounded" ref="ATUACAO-PROFISSIONAL"/>
-      </xs:sequence>
-    </xs:complexType>
-  </xs:element>
-  <xs:element name="ATUACAO-PROFISSIONAL">
-    <xs:complexType>
-      <xs:sequence>
-        <xs:element ref="VINCULOS"/>
-        <xs:element minOccurs="0" ref="ATIVIDADES-DE-PARTICIPACAO-EM-PROJETO"/>
-      </xs:sequence>
-      <xs:attribute name="CODIGO-INSTITUICAO" use="required" type="xs:integer"/>
-      <xs:attribute name="NOME-INSTITUICAO" use="required"/>
-      <xs:attribute name="SEQUENCIA-ATIVIDADE" use="required" type="xs:integer"/>
-      <xs:attribute name="SEQUENCIA-IMPORTANCIA" use="required"/>
-    </xs:complexType>
-  </xs:element>
-  <xs:element name="VINCULOS">
-    <xs:complexType>
-      <xs:attribute name="ANO-FIM" use="required"/>
-      <xs:attribute name="ANO-INICIO" use="required" type="xs:integer"/>
-      <xs:attribute name="CARGA-HORARIA-SEMANAL" use="required"/>
-      <xs:attribute name="ENQUADRAMENTO-FUNCIONAL" use="required" type="xs:NCName"/>
-      <xs:attribute name="FLAG-DEDICACAO-EXCLUSIVA" use="required" type="xs:NCName"/>
-      <xs:attribute name="FLAG-VINCULO-EMPREGATICIO" use="required" type="xs:NCName"/>
-      <xs:attribute name="MES-FIM" use="required"/>
-      <xs:attribute name="MES-INICIO" use="required"/>
-      <xs:attribute name="OUTRAS-INFORMACOES" use="required"/>
-      <xs:attribute name="OUTRAS-INFORMACOES-INGLES" use="required"/>
-      <xs:attribute name="OUTRO-ENQUADRAMENTO-FUNCIONAL-INFORMADO" use="required"/>
-      <xs:attribute name="OUTRO-ENQUADRAMENTO-FUNCIONAL-INFORMADO-INGLES" use="required"/>
-      <xs:attribute name="OUTRO-VINCULO-INFORMADO" use="required"/>
-      <xs:attribute name="SEQUENCIA-HISTORICO" use="required" type="xs:integer"/>
-      <xs:attribute name="TIPO-DE-VINCULO" use="required" type="xs:NCName"/>
-    </xs:complexType>
-  </xs:element>
-  <xs:element name="ATIVIDADES-DE-PARTICIPACAO-EM-PROJETO">
-    <xs:complexType>
-      <xs:sequence>
-        <xs:element maxOccurs="unbounded" ref="PARTICIPACAO-EM-PROJETO"/>
-      </xs:sequence>
-    </xs:complexType>
-  </xs:element>
-  <xs:element name="PARTICIPACAO-EM-PROJETO">
-    <xs:complexType>
-      <xs:sequence>
-        <xs:element ref="PROJETO-DE-PESQUISA"/>
-      </xs:sequence>
-      <xs:attribute name="ANO-FIM" use="required"/>
-      <xs:attribute name="ANO-INICIO" use="required" type="xs:integer"/>
-      <xs:attribute name="CODIGO-ORGAO" use="required" type="xs:integer"/>
-      <xs:attribute name="CODIGO-UNIDADE" use="required"/>
-      <xs:attribute name="FLAG-PERIODO" use="required" type="xs:NCName"/>
-      <xs:attribute name="MES-FIM" use="required"/>
-      <xs:attribute name="MES-INICIO" use="required"/>
-      <xs:attribute name="NOME-ORGAO" use="required"/>
-      <xs:attribute name="NOME-UNIDADE" use="required"/>
-      <xs:attribute name="SEQUENCIA-FUNCAO-ATIVIDADE" use="required" type="xs:integer"/>
-    </xs:complexType>
-  </xs:element>
-  <xs:element name="PROJETO-DE-PESQUISA">
-    <xs:complexType>
-      <xs:sequence>
-        <xs:element ref="EQUIPE-DO-PROJETO"/>
-        <xs:element ref="FINANCIADORES-DO-PROJETO"/>
-      </xs:sequence>
-      <xs:attribute name="ANO-FIM" use="required" type="xs:integer"/>
-      <xs:attribute name="ANO-INICIO" use="required" type="xs:integer"/>
-      <xs:attribute name="DESCRICAO-DO-PROJETO" use="required"/>
-      <xs:attribute name="DESCRICAO-DO-PROJETO-INGLES" use="required"/>
-      <xs:attribute name="FLAG-POTENCIAL-INOVACAO" use="required" type="xs:NCName"/>
-      <xs:attribute name="NATUREZA" use="required" type="xs:NCName"/>
-      <xs:attribute name="NOME-DO-PROJETO" use="required"/>
-      <xs:attribute name="NOME-DO-PROJETO-INGLES" use="required"/>
-      <xs:attribute name="NUMERO-DOUTORADO" use="required"/>
-      <xs:attribute name="NUMERO-ESPECIALIZACAO" use="required"/>
-      <xs:attribute name="NUMERO-GRADUACAO" use="required"/>
-      <xs:attribute name="NUMERO-MESTRADO-ACADEMICO" use="required"/>
-      <xs:attribute name="NUMERO-MESTRADO-PROF" use="required"/>
-      <xs:attribute name="SEQUENCIA-PROJETO" use="required" type="xs:integer"/>
-      <xs:attribute name="SITUACAO" use="required" type="xs:NCName"/>
-    </xs:complexType>
-  </xs:element>
-  <xs:element name="EQUIPE-DO-PROJETO">
-    <xs:complexType>
-      <xs:sequence>
-        <xs:element maxOccurs="unbounded" ref="INTEGRANTES-DO-PROJETO"/>
-      </xs:sequence>
-    </xs:complexType>
-  </xs:element>
-  <xs:element name="INTEGRANTES-DO-PROJETO">
-    <xs:complexType>
-      <xs:attribute name="FLAG-RESPONSAVEL" use="required" type="xs:NCName"/>
-      <xs:attribute name="NOME-COMPLETO" use="required"/>
-      <xs:attribute name="NOME-PARA-CITACAO" use="required"/>
-      <xs:attribute name="NRO-ID-CNPQ" use="required"/>
-      <xs:attribute name="ORDEM-DE-INTEGRACAO" use="required" type="xs:integer"/>
-    </xs:complexType>
-  </xs:element>
-  <xs:element name="FINANCIADORES-DO-PROJETO">
-    <xs:complexType>
-      <xs:sequence>
-        <xs:element maxOccurs="unbounded" ref="FINANCIADOR-DO-PROJETO"/>
-      </xs:sequence>
-    </xs:complexType>
-  </xs:element>
-  <xs:element name="FINANCIADOR-DO-PROJETO">
-    <xs:complexType>
-      <xs:attribute name="CODIGO-INSTITUICAO" use="required" type="xs:integer"/>
-      <xs:attribute name="NATUREZA" use="required" type="xs:NCName"/>
-      <xs:attribute name="NOME-INSTITUICAO" use="required"/>
-      <xs:attribute name="SEQUENCIA-FINANCIADOR" use="required" type="xs:integer"/>
-    </xs:complexType>
-  </xs:element>
-  <xs:element name="AREAS-DE-ATUACAO">
-    <xs:complexType/>
-  </xs:element>
-  <xs:element name="IDIOMAS">
-    <xs:complexType>
-      <xs:sequence>
-        <xs:element maxOccurs="unbounded" ref="IDIOMA"/>
-      </xs:sequence>
-    </xs:complexType>
-  </xs:element>
-  <xs:element name="IDIOMA">
-    <xs:complexType>
-      <xs:attribute name="DESCRICAO-DO-IDIOMA" use="required" type="xs:NCName"/>
-      <xs:attribute name="IDIOMA" use="required" type="xs:NCName"/>
-      <xs:attribute name="PROFICIENCIA-DE-COMPREENSAO" use="required" type="xs:NCName"/>
-      <xs:attribute name="PROFICIENCIA-DE-ESCRITA" use="required" type="xs:NCName"/>
-      <xs:attribute name="PROFICIENCIA-DE-FALA" use="required" type="xs:NCName"/>
-      <xs:attribute name="PROFICIENCIA-DE-LEITURA" use="required" type="xs:NCName"/>
-    </xs:complexType>
-  </xs:element>
-  <xs:element name="PREMIOS-TITULOS">
-    <xs:complexType>
-      <xs:sequence>
-        <xs:element maxOccurs="unbounded" ref="PREMIO-TITULO"/>
-      </xs:sequence>
-    </xs:complexType>
-  </xs:element>
-  <xs:element name="PREMIO-TITULO">
-    <xs:complexType>
-      <xs:attribute name="ANO-DA-PREMIACAO" use="required" type="xs:integer"/>
-      <xs:attribute name="NOME-DA-ENTIDADE-PROMOTORA" use="required" type="xs:NCName"/>
-      <xs:attribute name="NOME-DO-PREMIO-OU-TITULO" use="required"/>
-      <xs:attribute name="NOME-DO-PREMIO-OU-TITULO-INGLES" use="required"/>
-    </xs:complexType>
-  </xs:element>
-  <xs:element name="DADOS-COMPLEMENTARES">
-    <xs:complexType>
-      <xs:sequence>
-        <xs:element ref="INFORMACOES-ADICIONAIS-INSTITUICOES"/>
-        <xs:element ref="INFORMACOES-ADICIONAIS-CURSOS"/>
-      </xs:sequence>
-    </xs:complexType>
-  </xs:element>
-  <xs:element name="INFORMACOES-ADICIONAIS-INSTITUICOES">
-    <xs:complexType>
-      <xs:sequence>
-        <xs:element maxOccurs="unbounded" ref="INFORMACAO-ADICIONAL-INSTITUICAO"/>
-      </xs:sequence>
-    </xs:complexType>
-  </xs:element>
-  <xs:element name="INFORMACAO-ADICIONAL-INSTITUICAO">
-    <xs:complexType>
-      <xs:attribute name="CODIGO-INSTITUICAO" use="required" type="xs:integer"/>
-      <xs:attribute name="FLAG-AGENCIA-FOMENTO" use="required" type="xs:NCName"/>
-      <xs:attribute name="FLAG-INSTITUICAO-DE-ENSINO" use="required" type="xs:NCName"/>
-      <xs:attribute name="NOME-PAIS-INSTITUICAO" use="required" type="xs:NCName"/>
-      <xs:attribute name="SIGLA-INSTITUICAO" use="required"/>
-      <xs:attribute name="SIGLA-PAIS-INSTITUICAO" use="required" type="xs:NCName"/>
-      <xs:attribute name="SIGLA-UF-INSTITUICAO" use="required"/>
-    </xs:complexType>
-  </xs:element>
-  <xs:element name="INFORMACOES-ADICIONAIS-CURSOS">
-    <xs:complexType>
-      <xs:sequence>
-        <xs:element ref="INFORMACAO-ADICIONAL-CURSO"/>
-      </xs:sequence>
-    </xs:complexType>
-  </xs:element>
-  <xs:element name="INFORMACAO-ADICIONAL-CURSO">
-    <xs:complexType>
-      <xs:attribute name="CODIGO-CURSO" use="required" type="xs:integer"/>
-      <xs:attribute name="CODIGO-INSTITUICAO" use="required" type="xs:integer"/>
-      <xs:attribute name="CODIGO-ORGAO" use="required"/>
-      <xs:attribute name="NIVEL-CURSO" use="required" type="xs:NCName"/>
-      <xs:attribute name="NOME-DA-AREA-DO-CONHECIMENTO" use="required"/>
-      <xs:attribute name="NOME-DA-ESPECIALIDADE" use="required"/>
-      <xs:attribute name="NOME-DA-SUB-AREA-DO-CONHECIMENTO" use="required"/>
-      <xs:attribute name="NOME-GRANDE-AREA-DO-CONHECIMENTO" use="required" type="xs:NCName"/>
-      <xs:attribute name="NOME-INSTITUICAO" use="required"/>
-      <xs:attribute name="NOME-ORGAO" use="required"/>
-    </xs:complexType>
-  </xs:element>
+	<xs:element name="CURRICULO-VITAE">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="DADOS-GERAIS"/>
+				<xs:element ref="DADOS-COMPLEMENTARES"/>
+			</xs:sequence>
+			<xs:attribute name="DATA-ATUALIZACAO" use="required" type="xs:integer"/>
+			<xs:attribute name="HORA-ATUALIZACAO" use="required" type="xs:integer"/>
+			<xs:attribute name="NUMERO-IDENTIFICADOR" use="required"/>
+			<xs:attribute name="SISTEMA-ORIGEM-XML" use="required" type="xs:NCName"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="DADOS-GERAIS">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="RESUMO-CV"/>
+				<xs:element ref="OUTRAS-INFORMACOES-RELEVANTES"/>
+				<xs:element ref="ENDERECO"/>
+				<xs:element ref="FORMACAO-ACADEMICA-TITULACAO"/>
+				<xs:element ref="ATUACOES-PROFISSIONAIS"/>
+				<xs:element ref="AREAS-DE-ATUACAO"/>
+				<xs:element ref="IDIOMAS"/>
+				<xs:element ref="PREMIOS-TITULOS"/>
+			</xs:sequence>
+			<xs:attribute name="SIGLA-PAIS-NACIONALIDADE" use="optional"/>
+			<xs:attribute name="PAIS-DE-NACIONALIDADE" use="optional"/>
+			<xs:attribute name="CIDADE-NASCIMENTO" use="required"/>
+			<xs:attribute name="DATA-FALECIMENTO" use="required"/>
+			<xs:attribute name="NACIONALIDADE" use="required" type="xs:NCName"/>
+			<xs:attribute name="NOME-COMPLETO" use="required"/>
+			<xs:attribute name="NOME-EM-CITACOES-BIBLIOGRAFICAS" use="required"/>
+			<xs:attribute name="PAIS-DE-NASCIMENTO" use="required" type="xs:NCName"/>
+			<xs:attribute name="PERMISSAO-DE-DIVULGACAO" use="required" type="xs:NCName"/>
+			<xs:attribute name="UF-NASCIMENTO" use="required" type="xs:NCName"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="RESUMO-CV">
+		<xs:complexType>
+			<xs:attribute name="TEXTO-RESUMO-CV-RH" use="required"/>
+			<xs:attribute name="TEXTO-RESUMO-CV-RH-EN" use="required"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="OUTRAS-INFORMACOES-RELEVANTES">
+		<xs:complexType>
+			<xs:attribute name="OUTRAS-INFORMACOES-RELEVANTES" use="required"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="ENDERECO">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="ENDERECO-PROFISSIONAL"/>
+			</xs:sequence>
+			<xs:attribute name="FLAG-DE-PREFERENCIA" use="required" type="xs:NCName"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="ENDERECO-PROFISSIONAL">
+		<xs:complexType>
+			<xs:attribute name="BAIRRO" use="required"/>
+			<xs:attribute name="CAIXA-POSTAL" use="required"/>
+			<xs:attribute name="CEP" use="required"/>
+			<xs:attribute name="CIDADE" use="required"/>
+			<xs:attribute name="CODIGO-INSTITUICAO-EMPRESA" use="required"/>
+			<xs:attribute name="CODIGO-ORGAO" use="required"/>
+			<xs:attribute name="CODIGO-UNIDADE" use="required"/>
+			<xs:attribute name="DDD" use="required"/>
+			<xs:attribute name="FAX" use="required"/>
+			<xs:attribute name="HOME-PAGE" use="required"/>
+			<xs:attribute name="LOGRADOURO-COMPLEMENTO" use="required"/>
+			<xs:attribute name="NOME-INSTITUICAO-EMPRESA" use="required"/>
+			<xs:attribute name="NOME-ORGAO" use="required"/>
+			<xs:attribute name="NOME-UNIDADE" use="required"/>
+			<xs:attribute name="PAIS" use="required"/>
+			<xs:attribute name="RAMAL" use="required"/>
+			<xs:attribute name="TELEFONE" use="required"/>
+			<xs:attribute name="UF" use="required"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="FORMACAO-ACADEMICA-TITULACAO">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="GRADUACAO"/>
+				<xs:element ref="ENSINO-MEDIO-SEGUNDO-GRAU"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="GRADUACAO">
+		<xs:complexType>
+			<xs:attribute name="ANO-DE-CONCLUSAO" use="required"/>
+			<xs:attribute name="ANO-DE-INICIO" use="required" type="xs:integer"/>
+			<xs:attribute name="CODIGO-AGENCIA-FINANCIADORA" use="required"/>
+			<xs:attribute name="CODIGO-AREA-CURSO" use="required"/>
+			<xs:attribute name="CODIGO-CURSO" use="required"/>
+			<xs:attribute name="CODIGO-CURSO-CAPES" use="required"/>
+			<xs:attribute name="CODIGO-INSTITUICAO" use="required" type="xs:integer"/>
+			<xs:attribute name="FLAG-BOLSA" use="required" type="xs:NCName"/>
+			<xs:attribute name="NIVEL" use="required" type="xs:integer"/>
+			<xs:attribute name="NOME-AGENCIA" use="required"/>
+			<xs:attribute name="NOME-CURSO" use="required" type="xs:NCName"/>
+			<xs:attribute name="NOME-CURSO-INGLES" use="required"/>
+			<xs:attribute name="NOME-DO-ORIENTADOR" use="required"/>
+			<xs:attribute name="NOME-INSTITUICAO" use="required"/>
+			<xs:attribute name="NUMERO-ID-ORIENTADOR" use="required"/>
+			<xs:attribute name="SEQUENCIA-FORMACAO" use="required" type="xs:integer"/>
+			<xs:attribute name="STATUS-DO-CURSO" use="required" type="xs:NCName"/>
+			<xs:attribute name="TITULO-DO-TRABALHO-DE-CONCLUSAO-DE-CURSO" use="required"/>
+			<xs:attribute name="TITULO-DO-TRABALHO-DE-CONCLUSAO-DE-CURSO-INGLES" use="required"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="ENSINO-MEDIO-SEGUNDO-GRAU">
+		<xs:complexType>
+			<xs:attribute name="ANO-DE-CONCLUSAO" use="required" type="xs:integer"/>
+			<xs:attribute name="ANO-DE-INICIO" use="required" type="xs:integer"/>
+			<xs:attribute name="CODIGO-INSTITUICAO" use="required"/>
+			<xs:attribute name="NIVEL" use="required" type="xs:NCName"/>
+			<xs:attribute name="NOME-INSTITUICAO" use="required"/>
+			<xs:attribute name="SEQUENCIA-FORMACAO" use="required" type="xs:integer"/>
+			<xs:attribute name="STATUS-DO-CURSO" use="required" type="xs:NCName"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="ATUACOES-PROFISSIONAIS">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element maxOccurs="unbounded" ref="ATUACAO-PROFISSIONAL"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="ATUACAO-PROFISSIONAL">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="VINCULOS"/>
+				<xs:element minOccurs="0" ref="ATIVIDADES-DE-PARTICIPACAO-EM-PROJETO"/>
+			</xs:sequence>
+			<xs:attribute name="CODIGO-INSTITUICAO" use="required" type="xs:integer"/>
+			<xs:attribute name="NOME-INSTITUICAO" use="required"/>
+			<xs:attribute name="SEQUENCIA-ATIVIDADE" use="required" type="xs:integer"/>
+			<xs:attribute name="SEQUENCIA-IMPORTANCIA" use="required"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="VINCULOS">
+		<xs:complexType>
+			<xs:attribute name="ANO-FIM" use="required"/>
+			<xs:attribute name="ANO-INICIO" use="required" type="xs:integer"/>
+			<xs:attribute name="CARGA-HORARIA-SEMANAL" use="required"/>
+			<xs:attribute name="ENQUADRAMENTO-FUNCIONAL" use="required" type="xs:NCName"/>
+			<xs:attribute name="FLAG-DEDICACAO-EXCLUSIVA" use="required" type="xs:NCName"/>
+			<xs:attribute name="FLAG-VINCULO-EMPREGATICIO" use="required" type="xs:NCName"/>
+			<xs:attribute name="MES-FIM" use="required"/>
+			<xs:attribute name="MES-INICIO" use="required"/>
+			<xs:attribute name="OUTRAS-INFORMACOES" use="required"/>
+			<xs:attribute name="OUTRAS-INFORMACOES-INGLES" use="required"/>
+			<xs:attribute name="OUTRO-ENQUADRAMENTO-FUNCIONAL-INFORMADO" use="required"/>
+			<xs:attribute name="OUTRO-ENQUADRAMENTO-FUNCIONAL-INFORMADO-INGLES" use="required"/>
+			<xs:attribute name="OUTRO-VINCULO-INFORMADO" use="required"/>
+			<xs:attribute name="SEQUENCIA-HISTORICO" use="required" type="xs:integer"/>
+			<xs:attribute name="TIPO-DE-VINCULO" use="required" type="xs:NCName"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="ATIVIDADES-DE-PARTICIPACAO-EM-PROJETO">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element maxOccurs="unbounded" ref="PARTICIPACAO-EM-PROJETO"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="PARTICIPACAO-EM-PROJETO">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="PROJETO-DE-PESQUISA"/>
+			</xs:sequence>
+			<xs:attribute name="ANO-FIM" use="required"/>
+			<xs:attribute name="ANO-INICIO" use="required" type="xs:integer"/>
+			<xs:attribute name="CODIGO-ORGAO" use="required" type="xs:integer"/>
+			<xs:attribute name="CODIGO-UNIDADE" use="required"/>
+			<xs:attribute name="FLAG-PERIODO" use="required" type="xs:NCName"/>
+			<xs:attribute name="MES-FIM" use="required"/>
+			<xs:attribute name="MES-INICIO" use="required"/>
+			<xs:attribute name="NOME-ORGAO" use="required"/>
+			<xs:attribute name="NOME-UNIDADE" use="required"/>
+			<xs:attribute name="SEQUENCIA-FUNCAO-ATIVIDADE" use="required" type="xs:integer"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="PROJETO-DE-PESQUISA">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="EQUIPE-DO-PROJETO"/>
+				<xs:element ref="FINANCIADORES-DO-PROJETO"/>
+			</xs:sequence>
+			<xs:attribute name="ANO-FIM" use="required" type="xs:integer"/>
+			<xs:attribute name="ANO-INICIO" use="required" type="xs:integer"/>
+			<xs:attribute name="DESCRICAO-DO-PROJETO" use="required"/>
+			<xs:attribute name="DESCRICAO-DO-PROJETO-INGLES" use="required"/>
+			<xs:attribute name="FLAG-POTENCIAL-INOVACAO" use="required" type="xs:NCName"/>
+			<xs:attribute name="NATUREZA" use="required" type="xs:NCName"/>
+			<xs:attribute name="NOME-DO-PROJETO" use="required"/>
+			<xs:attribute name="NOME-DO-PROJETO-INGLES" use="required"/>
+			<xs:attribute name="NUMERO-DOUTORADO" use="required"/>
+			<xs:attribute name="NUMERO-ESPECIALIZACAO" use="required"/>
+			<xs:attribute name="NUMERO-GRADUACAO" use="required"/>
+			<xs:attribute name="NUMERO-MESTRADO-ACADEMICO" use="required"/>
+			<xs:attribute name="NUMERO-MESTRADO-PROF" use="required"/>
+			<xs:attribute name="SEQUENCIA-PROJETO" use="required" type="xs:integer"/>
+			<xs:attribute name="SITUACAO" use="required" type="xs:NCName"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="EQUIPE-DO-PROJETO">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element maxOccurs="unbounded" ref="INTEGRANTES-DO-PROJETO"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="INTEGRANTES-DO-PROJETO">
+		<xs:complexType>
+			<xs:attribute name="FLAG-RESPONSAVEL" use="required" type="xs:NCName"/>
+			<xs:attribute name="NOME-COMPLETO" use="required"/>
+			<xs:attribute name="NOME-PARA-CITACAO" use="required"/>
+			<xs:attribute name="NRO-ID-CNPQ" use="required"/>
+			<xs:attribute name="ORDEM-DE-INTEGRACAO" use="required" type="xs:integer"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="FINANCIADORES-DO-PROJETO">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element maxOccurs="unbounded" ref="FINANCIADOR-DO-PROJETO"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="FINANCIADOR-DO-PROJETO">
+		<xs:complexType>
+			<xs:attribute name="CODIGO-INSTITUICAO" use="required" type="xs:integer"/>
+			<xs:attribute name="NATUREZA" use="required" type="xs:NCName"/>
+			<xs:attribute name="NOME-INSTITUICAO" use="required"/>
+			<xs:attribute name="SEQUENCIA-FINANCIADOR" use="required" type="xs:integer"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="AREAS-DE-ATUACAO">
+		<xs:complexType/>
+	</xs:element>
+	<xs:element name="IDIOMAS">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element maxOccurs="unbounded" ref="IDIOMA"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="IDIOMA">
+		<xs:complexType>
+			<xs:attribute name="DESCRICAO-DO-IDIOMA" use="required" type="xs:NCName"/>
+			<xs:attribute name="IDIOMA" use="required" type="xs:NCName"/>
+			<xs:attribute name="PROFICIENCIA-DE-COMPREENSAO" use="required" type="xs:NCName"/>
+			<xs:attribute name="PROFICIENCIA-DE-ESCRITA" use="required" type="xs:NCName"/>
+			<xs:attribute name="PROFICIENCIA-DE-FALA" use="required" type="xs:NCName"/>
+			<xs:attribute name="PROFICIENCIA-DE-LEITURA" use="required" type="xs:NCName"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="PREMIOS-TITULOS">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element maxOccurs="unbounded" ref="PREMIO-TITULO"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="PREMIO-TITULO">
+		<xs:complexType>
+			<xs:attribute name="ANO-DA-PREMIACAO" use="required" type="xs:integer"/>
+			<xs:attribute name="NOME-DA-ENTIDADE-PROMOTORA" use="required" type="xs:NCName"/>
+			<xs:attribute name="NOME-DO-PREMIO-OU-TITULO" use="required"/>
+			<xs:attribute name="NOME-DO-PREMIO-OU-TITULO-INGLES" use="required"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="DADOS-COMPLEMENTARES">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="INFORMACOES-ADICIONAIS-INSTITUICOES"/>
+				<xs:element ref="INFORMACOES-ADICIONAIS-CURSOS"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="INFORMACOES-ADICIONAIS-INSTITUICOES">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element maxOccurs="unbounded" ref="INFORMACAO-ADICIONAL-INSTITUICAO"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="INFORMACAO-ADICIONAL-INSTITUICAO">
+		<xs:complexType>
+			<xs:attribute name="CODIGO-INSTITUICAO" use="required" type="xs:integer"/>
+			<xs:attribute name="FLAG-AGENCIA-FOMENTO" use="required" type="xs:NCName"/>
+			<xs:attribute name="FLAG-INSTITUICAO-DE-ENSINO" use="required" type="xs:NCName"/>
+			<xs:attribute name="NOME-PAIS-INSTITUICAO" use="required" type="xs:NCName"/>
+			<xs:attribute name="SIGLA-INSTITUICAO" use="required"/>
+			<xs:attribute name="SIGLA-PAIS-INSTITUICAO" use="required" type="xs:NCName"/>
+			<xs:attribute name="SIGLA-UF-INSTITUICAO" use="required"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="INFORMACOES-ADICIONAIS-CURSOS">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="INFORMACAO-ADICIONAL-CURSO"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="INFORMACAO-ADICIONAL-CURSO">
+		<xs:complexType>
+			<xs:attribute name="CODIGO-CURSO" use="required" type="xs:integer"/>
+			<xs:attribute name="CODIGO-INSTITUICAO" use="required" type="xs:integer"/>
+			<xs:attribute name="CODIGO-ORGAO" use="required"/>
+			<xs:attribute name="NIVEL-CURSO" use="required" type="xs:NCName"/>
+			<xs:attribute name="NOME-DA-AREA-DO-CONHECIMENTO" use="required"/>
+			<xs:attribute name="NOME-DA-ESPECIALIDADE" use="required"/>
+			<xs:attribute name="NOME-DA-SUB-AREA-DO-CONHECIMENTO" use="required"/>
+			<xs:attribute name="NOME-GRANDE-AREA-DO-CONHECIMENTO" use="required" type="xs:NCName"/>
+			<xs:attribute name="NOME-INSTITUICAO" use="required"/>
+			<xs:attribute name="NOME-ORGAO" use="required"/>
+		</xs:complexType>
+	</xs:element>
 </xs:schema>
