@@ -347,7 +347,7 @@
   </xs:element>
   <xs:element name="INFORMACAO-ADICIONAL-INSTITUICAO">
     <xs:complexType>
-      <xs:attribute name="CODIGO-INSTITUICAO" use="optional" type="xs:integer"/>
+      <xs:attribute name="CODIGO-INSTITUICAO" use="optional" type="xs:string"/>
       <xs:attribute name="FLAG-AGENCIA-FOMENTO" use="optional" type="xs:string"/>
       <xs:attribute name="FLAG-INSTITUICAO-DE-ENSINO" use="optional" type="xs:string"/>
       <xs:attribute name="NOME-PAIS-INSTITUICAO" use="optional" type="xs:string"/>
