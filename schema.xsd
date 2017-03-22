@@ -187,7 +187,7 @@
         <xs:element ref="VINCULOS"/>
         <xs:element minOccurs="0" ref="ATIVIDADES-DE-PARTICIPACAO-EM-PROJETO"/>
       </xs:choice>
-      <xs:attribute name="CODIGO-INSTITUICAO" use="optional" type="xs:integer"/>
+      <xs:attribute name="CODIGO-INSTITUICAO" use="optional" type="xs:string"/>
       <xs:attribute name="NOME-INSTITUICAO" use="optional"/>
       <xs:attribute name="SEQUENCIA-ATIVIDADE" use="optional" type="xs:integer"/>
       <xs:attribute name="SEQUENCIA-IMPORTANCIA" use="optional"/>
