@@ -110,7 +110,7 @@
       <xs:attribute name="CODIGO-AREA-CURSO" use="optional"/>
       <xs:attribute name="CODIGO-CURSO" use="optional"/>
       <xs:attribute name="CODIGO-CURSO-CAPES" use="optional"/>
-      <xs:attribute name="CODIGO-INSTITUICAO" use="optional" type="xs:integer"/>
+      <xs:attribute name="CODIGO-INSTITUICAO" use="optional" type="xs:string"/>
       <xs:attribute name="FLAG-BOLSA" use="optional" type="xs:string"/>
       <xs:attribute name="NIVEL" use="optional" type="xs:integer"/>
       <xs:attribute name="NOME-AGENCIA" use="optional"/>
