@@ -242,7 +242,11 @@
         <xs:element minOccurs="0" ref="EQUIPE-DO-PROJETO"/>
         <xs:element minOccurs="0" ref="FINANCIADORES-DO-PROJETO"/>
       </xs:all>
-      <xs:attribute name="ANO-FIM" use="optional" type="xs:string"/>
+	  <xs:attribute name="NUMERO_TECNICO_NIVEL_MEDIO" use="optional" type="xs:string"/>
+	  <xs:attribute name="DATA-CERTIFICACAO" use="optional" type="xs:string"/>
+	  <xs:attribute name="NOME-COORDENADOR-CERTIFICACAO" use="optional" type="xs:string"/>
+	  <xs:attribute name="IDENTIFICADOR-PROJETO" use="optional" type="xs:string"/>
+	  <xs:attribute name="ANO-FIM" use="optional" type="xs:string"/>
       <xs:attribute name="ANO-INICIO" use="optional" type="xs:integer"/>
       <xs:attribute name="DESCRICAO-DO-PROJETO" use="optional"/>
       <xs:attribute name="DESCRICAO-DO-PROJETO-INGLES" use="optional"/>
