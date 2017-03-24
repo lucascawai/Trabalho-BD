@@ -36,3 +36,6 @@ Os alunos devem apresentar o trabalho em aula nada data combinada relatando, com
 - [Bruno V. Costa](https://github.com/brunovcosta)
 - [Lucas J. Cawai](https://github.com/lucascawai)
 - [Lucas Ricarte](https://github.com/lucasrrt)
+
+
+![banner](.readme_files/spoderman.jpg)
