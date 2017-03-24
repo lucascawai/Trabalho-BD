@@ -32,7 +32,7 @@ Os alunos devem apresentar o trabalho em aula nada data combinada relatando, com
 
 ## Equipe
 
-- Bruno V. Costa
-- Bruno B. Lerner
-- Lucas J. Cawai
-- Lucas Ricarte
+- [Bruno B. Lerner](https://github.com/BrunoLerner)
+- [Bruno V. Costa](https://github.com/brunovcosta)
+- [Lucas J. Cawai](https://github.com/lucascawai)
+- [Lucas Ricarte](https://github.com/lucasrrt)
