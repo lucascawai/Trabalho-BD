@@ -1,6 +1,9 @@
-#Trabalho-BD
+Trabalho-BD
+===========
+Trabalho da disciplina de **banco de dados 2** do 4º ano do Instituto Militar de Engenharia, utilizando bancos de dados baseados em documentos *XML* e *JSON*.
 ![banner](.readme_files/vs.jpg)
-##Descrição
+
+## Enunciado
 O trabalho deve ser feito em etapas, descritas a seguir:
 
 1. Preparar um conjunto de Documentos XML para representar os CVs dos alunos do grupo atual, e de uma turma de alunos já formados da COMP do IME. A base deve ter em torno de 25 CVs, com estruturas variadas. 
@@ -20,3 +23,16 @@ O trabalho deve ser feito em etapas, descritas a seguir:
 - As consultas sobre a base JSON, descritas em português e na linguagem de consulta do MONGODB. 
 
 Os alunos devem apresentar o trabalho em aula nada data combinada relatando, como foi feita cada etapa. Nas primeiras etapas, as dificuldades com a heterogeneidade e construção do esquema flexível devem ser destacadas. As consultas no **BASEX** e no **MONGODB** devem ser executadas durante a apresentação. 
+
+## Requisitos
+
+- basex
+- mongodb
+- node e npm (apenas para a conversão de xml para json)
+
+## Equipe
+
+- Bruno V. Costa
+- Bruno B. Lerner
+- Lucas J. Cawai
+- Lucas Ricarte
