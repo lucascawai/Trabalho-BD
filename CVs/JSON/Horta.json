@@ -1,404 +1,63 @@
-{
-   "CURRICULO-VITAE": {
-      "DADOS-GERAIS": {
-         "RESUMO-CV": {
-            "_TEXTO-RESUMO-CV-RH": "Possui graduação em Ciências Militares pela Academia Militar das Agulhas Negras (2008).",
-            "_TEXTO-RESUMO-CV-RH-EN": "bachelor's at Ciências Militares from Academia Militar das Agulhas Negras (2008)."
-         },
-         "OUTRAS-INFORMACOES-RELEVANTES": {
-            "_OUTRAS-INFORMACOES-RELEVANTES": ""
-         },
-         "ENDERECO": {
-            "ENDERECO-PROFISSIONAL": {
-               "_CODIGO-INSTITUICAO-EMPRESA": "",
-               "_NOME-INSTITUICAO-EMPRESA": "",
-               "_CODIGO-UNIDADE": "",
-               "_NOME-UNIDADE": "",
-               "_CODIGO-ORGAO": "",
-               "_NOME-ORGAO": "",
-               "_PAIS": "",
-               "_UF": "",
-               "_LOGRADOURO-COMPLEMENTO": "",
-               "_BAIRRO": "",
-               "_CIDADE": "",
-               "_CAIXA-POSTAL": "",
-               "_CEP": "",
-               "_DDD": "",
-               "_TELEFONE": "",
-               "_RAMAL": "",
-               "_FAX": "",
-               "_HOME-PAGE": ""
-            },
-            "_FLAG-DE-PREFERENCIA": "ENDERECO_RESIDENCIAL"
-         },
-         "FORMACAO-ACADEMICA-TITULACAO": {
-            "GRADUACAO": [
-               {
-                  "_SEQUENCIA-FORMACAO": "1",
-                  "_NIVEL": "1",
-                  "_TITULO-DO-TRABALHO-DE-CONCLUSAO-DE-CURSO": "A Participação do Exército Brasileiro na Terceira Missão de Verificação das Nações Unidas em Angola",
-                  "_NOME-DO-ORIENTADOR": "Flávio Henrique Pinheiro da Costa",
-                  "_CODIGO-INSTITUICAO": "J3KQ00000000",
-                  "_NOME-INSTITUICAO": "Academia Militar das Agulhas Negras",
-                  "_CODIGO-CURSO": "",
-                  "_NOME-CURSO": "Ciências Militares",
-                  "_CODIGO-AREA-CURSO": "",
-                  "_STATUS-DO-CURSO": "CONCLUIDO",
-                  "_ANO-DE-INICIO": "2005",
-                  "_ANO-DE-CONCLUSAO": "2008",
-                  "_FLAG-BOLSA": "NAO",
-                  "_TIPO-GRADUACAO": "N",
-                  "_CODIGO-INSTITUICAO-GRAD": "",
-                  "_NOME-INSTITUICAO-GRAD": "",
-                  "_CODIGO-INSTITUICAO-OUTRA-GRAD": "",
-                  "_NOME-INSTITUICAO-OUTRA-GRAD": "",
-                  "_NOME-ORIENTADOR-GRAD": "",
-                  "_CODIGO-AGENCIA-FINANCIADORA": "",
-                  "_NOME-AGENCIA": "",
-                  "_NUMERO-ID-ORIENTADOR": "",
-                  "_CODIGO-CURSO-CAPES": "",
-                  "_TITULO-DO-TRABALHO-DE-CONCLUSAO-DE-CURSO-INGLES": "",
-                  "_NOME-CURSO-INGLES": ""
-               },
-               {
-                  "_SEQUENCIA-FORMACAO": "2",
-                  "_NIVEL": "1",
-                  "_TITULO-DO-TRABALHO-DE-CONCLUSAO-DE-CURSO": "",
-                  "_NOME-DO-ORIENTADOR": "",
-                  "_CODIGO-INSTITUICAO": "869900000005",
-                  "_NOME-INSTITUICAO": "Instituto Militar de Engenharia",
-                  "_CODIGO-CURSO": "60171219",
-                  "_NOME-CURSO": "Engenharia da Computação",
-                  "_CODIGO-AREA-CURSO": "",
-                  "_STATUS-DO-CURSO": "EM_ANDAMENTO",
-                  "_ANO-DE-INICIO": "2011",
-                  "_ANO-DE-CONCLUSAO": "",
-                  "_FLAG-BOLSA": "NAO",
-                  "_TIPO-GRADUACAO": "N",
-                  "_CODIGO-INSTITUICAO-GRAD": "",
-                  "_NOME-INSTITUICAO-GRAD": "",
-                  "_CODIGO-INSTITUICAO-OUTRA-GRAD": "",
-                  "_NOME-INSTITUICAO-OUTRA-GRAD": "",
-                  "_NOME-ORIENTADOR-GRAD": "",
-                  "_CODIGO-AGENCIA-FINANCIADORA": "",
-                  "_NOME-AGENCIA": "",
-                  "_NUMERO-ID-ORIENTADOR": "",
-                  "_CODIGO-CURSO-CAPES": "50621",
-                  "_TITULO-DO-TRABALHO-DE-CONCLUSAO-DE-CURSO-INGLES": "",
-                  "_NOME-CURSO-INGLES": ""
-               }
-            ]
-         },
-         "ATUACOES-PROFISSIONAIS": {
-            "ATUACAO-PROFISSIONAL": [
-               {
-                  "VINCULOS": {
-                     "_SEQUENCIA-HISTORICO": "1",
-                     "_TIPO-DE-VINCULO": "SERVIDOR_PUBLICO",
-                     "_ENQUADRAMENTO-FUNCIONAL": "LIVRE",
-                     "_CARGA-HORARIA-SEMANAL": "25",
-                     "_FLAG-DEDICACAO-EXCLUSIVA": "NAO",
-                     "_MES-INICIO": "01",
-                     "_ANO-INICIO": "2013",
-                     "_MES-FIM": "02",
-                     "_ANO-FIM": "2013",
-                     "_OUTRAS-INFORMACOES": "Estágio de verão realizado no Centro de Desenvolvimento de Sistemas, Organização Militar subordinada ao Departamento de Ciência e Tecnologia do Exército.",
-                     "_FLAG-VINCULO-EMPREGATICIO": "NAO",
-                     "_OUTRO-VINCULO-INFORMADO": "",
-                     "_OUTRO-ENQUADRAMENTO-FUNCIONAL-INFORMADO": "Estagiário",
-                     "_OUTRO-ENQUADRAMENTO-FUNCIONAL-INFORMADO-INGLES": "",
-                     "_OUTRAS-INFORMACOES-INGLES": ""
-                  },
-                  "_CODIGO-INSTITUICAO": "985600205726",
-                  "_NOME-INSTITUICAO": "Departamento de Ciência e Tecnologia - Exército Brasileiro",
-                  "_SEQUENCIA-ATIVIDADE": "1",
-                  "_SEQUENCIA-IMPORTANCIA": ""
-               },
-               {
-                  "VINCULOS": {
-                     "_SEQUENCIA-HISTORICO": "2",
-                     "_TIPO-DE-VINCULO": "LIVRE",
-                     "_ENQUADRAMENTO-FUNCIONAL": "LIVRE",
-                     "_CARGA-HORARIA-SEMANAL": "",
-                     "_FLAG-DEDICACAO-EXCLUSIVA": "NAO",
-                     "_MES-INICIO": "",
-                     "_ANO-INICIO": "2012",
-                     "_MES-FIM": "",
-                     "_ANO-FIM": "",
-                     "_OUTRAS-INFORMACOES": "",
-                     "_FLAG-VINCULO-EMPREGATICIO": "NAO",
-                     "_OUTRO-VINCULO-INFORMADO": "",
-                     "_OUTRO-ENQUADRAMENTO-FUNCIONAL-INFORMADO": "",
-                     "_OUTRO-ENQUADRAMENTO-FUNCIONAL-INFORMADO-INGLES": "",
-                     "_OUTRAS-INFORMACOES-INGLES": ""
-                  },
-                  "ATIVIDADES-DE-PARTICIPACAO-EM-PROJETO": {
-                     "PARTICIPACAO-EM-PROJETO": {
-                        "PROJETO-DE-PESQUISA": {
-                           "EQUIPE-DO-PROJETO": {
-                              "INTEGRANTES-DO-PROJETO": [
-                                 {
-                                    "_NOME-COMPLETO": "Bruno Nardi de Carvalho Dantas",
-                                    "_NOME-PARA-CITACAO": "DANTAS, B. N. C.",
-                                    "_ORDEM-DE-INTEGRACAO": "1",
-                                    "_FLAG-RESPONSAVEL": "NAO",
-                                    "_NRO-ID-CNPQ": ""
-                                 },
-                                 {
-                                    "_NOME-COMPLETO": "Amarildo Teodoro da Costa",
-                                    "_NOME-PARA-CITACAO": "COSTA, A. T.",
-                                    "_ORDEM-DE-INTEGRACAO": "2",
-                                    "_FLAG-RESPONSAVEL": "SIM",
-                                    "_NRO-ID-CNPQ": ""
-                                 },
-                                 {
-                                    "_NOME-COMPLETO": "Jefferson Costa de Matos",
-                                    "_NOME-PARA-CITACAO": "MATOS, J. C.",
-                                    "_ORDEM-DE-INTEGRACAO": "3",
-                                    "_FLAG-RESPONSAVEL": "NAO",
-                                    "_NRO-ID-CNPQ": ""
-                                 }
-                              ]
-                           },
-                           "_SEQUENCIA-PROJETO": "1",
-                           "_ANO-INICIO": "2012",
-                           "_ANO-FIM": "",
-                           "_NOME-DO-PROJETO": "Estudo de dispositivos utilizados para Automação Residencial - Domótica",
-                           "_SITUACAO": "EM_ANDAMENTO",
-                           "_NATUREZA": "PESQUISA",
-                           "_NUMERO-GRADUACAO": "3",
-                           "_NUMERO-ESPECIALIZACAO": "",
-                           "_NUMERO-MESTRADO-ACADEMICO": "",
-                           "_NUMERO-MESTRADO-PROF": "",
-                           "_NUMERO-DOUTORADO": "",
-                           "_DESCRICAO-DO-PROJETO": "Pesquisa das principais tecnologias existentes na área de automação residencial. Análise das principais vantages e desvantagens do protocolo CAN (\"CAN-BUS\") para sistemas de automação residencial. Desenvolvimento de protótipo de nós e atuadores com sistema CAN e interfaceamento via dispositivo Android.",
-                           "_DESCRICAO-DO-PROJETO-INGLES": "",
-                           "_NOME-DO-PROJETO-INGLES": "Estudo de dispositivos utilizados para Automação Residencial - Domótica",
-                           "_FLAG-POTENCIAL-INOVACAO": "SIM"
-                        },
-                        "_SEQUENCIA-FUNCAO-ATIVIDADE": "1",
-                        "_FLAG-PERIODO": "ATUAL",
-                        "_MES-INICIO": "",
-                        "_ANO-INICIO": "2012",
-                        "_MES-FIM": "",
-                        "_ANO-FIM": "",
-                        "_CODIGO-ORGAO": "869901000998",
-                        "_NOME-ORGAO": "Seção de Engenharia Elétrica",
-                        "_CODIGO-UNIDADE": "",
-                        "_NOME-UNIDADE": ""
-                     }
-                  },
-                  "_CODIGO-INSTITUICAO": "869900000005",
-                  "_NOME-INSTITUICAO": "Instituto Militar de Engenharia",
-                  "_SEQUENCIA-ATIVIDADE": "2",
-                  "_SEQUENCIA-IMPORTANCIA": ""
-               }
-            ]
-         },
-         "AREAS-DE-ATUACAO": {
-            "AREA-DE-ATUACAO": {
-               "_SEQUENCIA-AREA-DE-ATUACAO": "1",
-               "_NOME-GRANDE-AREA-DO-CONHECIMENTO": "OUTROS",
-               "_NOME-DA-AREA-DO-CONHECIMENTO": "",
-               "_NOME-DA-SUB-AREA-DO-CONHECIMENTO": "",
-               "_NOME-DA-ESPECIALIDADE": ""
-            }
-         },
-         "IDIOMAS": {
-            "IDIOMA": [
-               {
-                  "_IDIOMA": "PT",
-                  "_DESCRICAO-DO-IDIOMA": "Português",
-                  "_PROFICIENCIA-DE-LEITURA": "BEM",
-                  "_PROFICIENCIA-DE-FALA": "BEM",
-                  "_PROFICIENCIA-DE-ESCRITA": "BEM",
-                  "_PROFICIENCIA-DE-COMPREENSAO": "BEM"
-               },
-               {
-                  "_IDIOMA": "EN",
-                  "_DESCRICAO-DO-IDIOMA": "Inglês",
-                  "_PROFICIENCIA-DE-LEITURA": "BEM",
-                  "_PROFICIENCIA-DE-FALA": "BEM",
-                  "_PROFICIENCIA-DE-ESCRITA": "BEM",
-                  "_PROFICIENCIA-DE-COMPREENSAO": "BEM"
-               }
-            ]
-         },
-         "_NOME-COMPLETO": "Victor Laurindo Horta Ferreira",
-         "_NOME-EM-CITACOES-BIBLIOGRAFICAS": "FERREIRA, V. L. H.",
-         "_NACIONALIDADE": "B",
-         "_PAIS-DE-NASCIMENTO": "Brasil",
-         "_UF-NASCIMENTO": "RJ",
-         "_CIDADE-NASCIMENTO": "Cabo Frio",
-         "_PERMISSAO-DE-DIVULGACAO": "NAO",
-         "_DATA-FALECIMENTO": ""
-      },
-      "DADOS-COMPLEMENTARES": {
-         "FORMACAO-COMPLEMENTAR": {
-            "FORMACAO-COMPLEMENTAR-CURSO-DE-CURTA-DURACAO": [
-               {
-                  "_SEQUENCIA-FORMACAO": "3",
-                  "_NIVEL": "F",
-                  "_CARGA-HORARIA": "24",
-                  "_CODIGO-INSTITUICAO": "",
-                  "_NOME-INSTITUICAO": "Instituto de Engenharia de Gestão",
-                  "_CODIGO-CURSO": "",
-                  "_NOME-CURSO": "VBA aplicado a Negócios",
-                  "_STATUS-DO-CURSO": "CONCLUIDO",
-                  "_ANO-DE-INICIO": "2012",
-                  "_ANO-DE-CONCLUSAO": "2012",
-                  "_NOME-CURSO-INGLES": ""
-               },
-               {
-                  "_SEQUENCIA-FORMACAO": "4",
-                  "_NIVEL": "F",
-                  "_CARGA-HORARIA": "200",
-                  "_CODIGO-INSTITUICAO": "",
-                  "_NOME-INSTITUICAO": "Centro de Instrução de Blindados",
-                  "_CODIGO-CURSO": "",
-                  "_NOME-CURSO": "Operação de Viaturas Blindadas M108 e M109A3",
-                  "_STATUS-DO-CURSO": "CONCLUIDO",
-                  "_ANO-DE-INICIO": "2010",
-                  "_ANO-DE-CONCLUSAO": "2010",
-                  "_NOME-CURSO-INGLES": ""
-               }
-            ]
-         },
-         "PARTICIPACAO-EM-EVENTOS-CONGRESSOS": {
-            "PARTICIPACAO-EM-CONGRESSO": {
-               "DADOS-BASICOS-DA-PARTICIPACAO-EM-CONGRESSO": {
-                  "_NATUREZA": "Congresso",
-                  "_TITULO": "",
-                  "_ANO": "2008",
-                  "_PAIS": "Brasil",
-                  "_IDIOMA": "",
-                  "_MEIO-DE-DIVULGACAO": "NAO_INFORMADO",
-                  "_HOME-PAGE-DO-TRABALHO": "http://www.defesa.gov.br/projetosweb/cadn/",
-                  "_FLAG-RELEVANCIA": "NAO",
-                  "_TIPO-PARTICIPACAO": "",
-                  "_FORMA-PARTICIPACAO": "Ouvinte",
-                  "_DOI": "",
-                  "_TITULO-INGLES": "",
-                  "_FLAG-DIVULGACAO-CIENTIFICA": "NAO"
-               },
-               "DETALHAMENTO-DA-PARTICIPACAO-EM-CONGRESSO": {
-                  "_NOME-DO-EVENTO": "V Congresso Acadêmico sobre Defesa Nacional",
-                  "_NOME-INSTITUICAO": "",
-                  "_LOCAL-DO-EVENTO": "",
-                  "_CIDADE-DO-EVENTO": "Resende - RJ",
-                  "_NOME-DO-EVENTO-INGLES": ""
-               },
-               "PARTICIPANTE-DE-EVENTOS-CONGRESSOS": {
-                  "_NOME-COMPLETO-DO-PARTICIPANTE-DE-EVENTOS-CONGRESSOS": "Victor Laurindo Horta Ferreira",
-                  "_NOME-PARA-CITACAO-DO-PARTICIPANTE-DE-EVENTOS-CONGRESSOS": "FERREIRA, V. L. H.",
-                  "_ORDEM-PARTICIPANTE": "1"
-               },
-               "AREAS-DO-CONHECIMENTO": "",
-               "INFORMACOES-ADICIONAIS": {
-                  "_DESCRICAO-INFORMACOES-ADICIONAIS": "",
-                  "_DESCRICAO-INFORMACOES-ADICIONAIS-INGLES": ""
-               },
-               "_SEQUENCIA-PRODUCAO": "1"
-            },
-            "OUTRAS-PARTICIPACOES-EM-EVENTOS-CONGRESSOS": {
-               "DADOS-BASICOS-DE-OUTRAS-PARTICIPACOES-EM-EVENTOS-CONGRESSOS": {
-                  "_NATUREZA": "Outra",
-                  "_TITULO": "Robocup Small- Size (F180) Team - RoboIME",
-                  "_ANO": "2012",
-                  "_PAIS": "Brasil",
-                  "_IDIOMA": "",
-                  "_MEIO-DE-DIVULGACAO": "NAO_INFORMADO",
-                  "_HOME-PAGE-DO-TRABALHO": "",
-                  "_FLAG-RELEVANCIA": "NAO",
-                  "_TIPO-PARTICIPACAO": "Outras formas",
-                  "_FORMA-PARTICIPACAO": "Participante",
-                  "_DOI": "",
-                  "_TITULO-INGLES": "",
-                  "_FLAG-DIVULGACAO-CIENTIFICA": "NAO"
-               },
-               "DETALHAMENTO-DE-OUTRAS-PARTICIPACOES-EM-EVENTOS-CONGRESSOS": {
-                  "_NOME-DO-EVENTO": "Latin American Robotics Competition",
-                  "_NOME-INSTITUICAO": "",
-                  "_LOCAL-DO-EVENTO": "",
-                  "_CIDADE-DO-EVENTO": "Fortaleza - CE",
-                  "_NOME-DO-EVENTO-INGLES": ""
-               },
-               "PARTICIPANTE-DE-EVENTOS-CONGRESSOS": {
-                  "_NOME-COMPLETO-DO-PARTICIPANTE-DE-EVENTOS-CONGRESSOS": "Victor Laurindo Horta Ferreira",
-                  "_NOME-PARA-CITACAO-DO-PARTICIPANTE-DE-EVENTOS-CONGRESSOS": "FERREIRA, V. L. H.",
-                  "_ORDEM-PARTICIPANTE": "1"
-               },
-               "AREAS-DO-CONHECIMENTO": "",
-               "INFORMACOES-ADICIONAIS": {
-                  "_DESCRICAO-INFORMACOES-ADICIONAIS": "",
-                  "_DESCRICAO-INFORMACOES-ADICIONAIS-INGLES": ""
-               },
-               "_SEQUENCIA-PRODUCAO": "2"
-            }
-         },
-         "INFORMACOES-ADICIONAIS-INSTITUICOES": {
-            "INFORMACAO-ADICIONAL-INSTITUICAO": [
-               {
-                  "_CODIGO-INSTITUICAO": "869900000005",
-                  "_SIGLA-INSTITUICAO": "IME",
-                  "_SIGLA-UF-INSTITUICAO": "RJ",
-                  "_SIGLA-PAIS-INSTITUICAO": "BRA",
-                  "_NOME-PAIS-INSTITUICAO": "Brasil",
-                  "_FLAG-AGENCIA-FOMENTO": "NAO",
-                  "_FLAG-INSTITUICAO-DE-ENSINO": "SIM"
-               },
-               {
-                  "_CODIGO-INSTITUICAO": "985600205726",
-                  "_SIGLA-INSTITUICAO": "DCT/EB",
-                  "_SIGLA-UF-INSTITUICAO": "DF",
-                  "_SIGLA-PAIS-INSTITUICAO": "BRA",
-                  "_NOME-PAIS-INSTITUICAO": "Brasil",
-                  "_FLAG-AGENCIA-FOMENTO": "NAO",
-                  "_FLAG-INSTITUICAO-DE-ENSINO": "SIM"
-               },
-               {
-                  "_CODIGO-INSTITUICAO": "J3KQ00000000",
-                  "_SIGLA-INSTITUICAO": "AMAN",
-                  "_SIGLA-UF-INSTITUICAO": "RJ",
-                  "_SIGLA-PAIS-INSTITUICAO": "BRA",
-                  "_NOME-PAIS-INSTITUICAO": "Brasil",
-                  "_FLAG-AGENCIA-FOMENTO": "NAO",
-                  "_FLAG-INSTITUICAO-DE-ENSINO": "SIM"
-               }
-            ]
-         },
-         "INFORMACOES-ADICIONAIS-CURSOS": {
-            "INFORMACAO-ADICIONAL-CURSO": [
-               {
-                  "_CODIGO-CURSO": "60171219",
-                  "_CODIGO-ORGAO": "",
-                  "_NOME-ORGAO": "",
-                  "_CODIGO-INSTITUICAO": "869900000005",
-                  "_NOME-INSTITUICAO": "Instituto Militar de Engenharia",
-                  "_NOME-GRANDE-AREA-DO-CONHECIMENTO": "OUTROS",
-                  "_NOME-DA-AREA-DO-CONHECIMENTO": "",
-                  "_NOME-DA-SUB-AREA-DO-CONHECIMENTO": "",
-                  "_NOME-DA-ESPECIALIDADE": "",
-                  "_NIVEL-CURSO": "GRADUACAO"
-               },
-               {
-                  "_CODIGO-CURSO": "90000000",
-                  "_CODIGO-ORGAO": "",
-                  "_NOME-ORGAO": "",
-                  "_CODIGO-INSTITUICAO": "J3KQ00000000",
-                  "_NOME-INSTITUICAO": "Academia Militar das Agulhas Negras",
-                  "_NOME-GRANDE-AREA-DO-CONHECIMENTO": "OUTROS",
-                  "_NOME-DA-AREA-DO-CONHECIMENTO": "Defesa",
-                  "_NOME-DA-SUB-AREA-DO-CONHECIMENTO": "",
-                  "_NOME-DA-ESPECIALIDADE": "",
-                  "_NIVEL-CURSO": "GRADUACAO"
-               }
-            ]
-         }
-      },
-      "_SISTEMA-ORIGEM-XML": "LATTES_OFFLINE",
-      "_DATA-ATUALIZACAO": "21062013",
-      "_HORA-ATUALIZACAO": "104414",
-      "_NUMERO-IDENTIFICADOR": ""
-   }
-}
+<CURRICULO-VITAE SISTEMA-ORIGEM-XML="LATTES_OFFLINE" DATA-ATUALIZACAO="21062013" HORA-ATUALIZACAO="104414" NUMERO-IDENTIFICADOR="">
+  <DADOS-GERAIS NOME-COMPLETO="Victor Laurindo Horta Ferreira" NOME-EM-CITACOES-BIBLIOGRAFICAS="FERREIRA, V. L. H." NACIONALIDADE="B" PAIS-DE-NASCIMENTO="Brasil" UF-NASCIMENTO="RJ" CIDADE-NASCIMENTO="Cabo Frio" PERMISSAO-DE-DIVULGACAO="NAO" DATA-FALECIMENTO="">
+    <RESUMO-CV TEXTO-RESUMO-CV-RH="Possui graduação em Ciências Militares pela Academia Militar das Agulhas Negras (2008)." TEXTO-RESUMO-CV-RH-EN="bachelor's at Ciências Militares from Academia Militar das Agulhas Negras (2008)."/>
+    <OUTRAS-INFORMACOES-RELEVANTES OUTRAS-INFORMACOES-RELEVANTES=""/>
+    <ENDERECO FLAG-DE-PREFERENCIA="ENDERECO_RESIDENCIAL">
+      <ENDERECO-PROFISSIONAL CODIGO-INSTITUICAO-EMPRESA="" NOME-INSTITUICAO-EMPRESA="" CODIGO-UNIDADE="" NOME-UNIDADE="" CODIGO-ORGAO="" NOME-ORGAO="" PAIS="" UF="" LOGRADOURO-COMPLEMENTO="" BAIRRO="" CIDADE="" CAIXA-POSTAL="" CEP="" DDD="" TELEFONE="" RAMAL="" FAX="" HOME-PAGE=""/>
+    </ENDERECO>
+    <FORMACAO-ACADEMICA-TITULACAO>
+      <GRADUACAO SEQUENCIA-FORMACAO="1" NIVEL="1" TITULO-DO-TRABALHO-DE-CONCLUSAO-DE-CURSO="A Participação do Exército Brasileiro na Terceira Missão de Verificação das Nações Unidas em Angola" NOME-DO-ORIENTADOR="Flávio Henrique Pinheiro da Costa" CODIGO-INSTITUICAO="J3KQ00000000" NOME-INSTITUICAO="Academia Militar das Agulhas Negras" CODIGO-CURSO="" NOME-CURSO="Ciências Militares" CODIGO-AREA-CURSO="" STATUS-DO-CURSO="CONCLUIDO" ANO-DE-INICIO="2005" ANO-DE-CONCLUSAO="2008" FLAG-BOLSA="NAO" TIPO-GRADUACAO="N" CODIGO-INSTITUICAO-GRAD="" NOME-INSTITUICAO-GRAD="" CODIGO-INSTITUICAO-OUTRA-GRAD="" NOME-INSTITUICAO-OUTRA-GRAD="" NOME-ORIENTADOR-GRAD="" CODIGO-AGENCIA-FINANCIADORA="" NOME-AGENCIA="" NUMERO-ID-ORIENTADOR="" CODIGO-CURSO-CAPES="" TITULO-DO-TRABALHO-DE-CONCLUSAO-DE-CURSO-INGLES="" NOME-CURSO-INGLES=""/>
+      <GRADUACAO SEQUENCIA-FORMACAO="2" NIVEL="1" TITULO-DO-TRABALHO-DE-CONCLUSAO-DE-CURSO="" NOME-DO-ORIENTADOR="" CODIGO-INSTITUICAO="869900000005" NOME-INSTITUICAO="Instituto Militar de Engenharia" CODIGO-CURSO="60171219" NOME-CURSO="Engenharia da Computação" CODIGO-AREA-CURSO="" STATUS-DO-CURSO="EM_ANDAMENTO" ANO-DE-INICIO="2011" ANO-DE-CONCLUSAO="" FLAG-BOLSA="NAO" TIPO-GRADUACAO="N" CODIGO-INSTITUICAO-GRAD="" NOME-INSTITUICAO-GRAD="" CODIGO-INSTITUICAO-OUTRA-GRAD="" NOME-INSTITUICAO-OUTRA-GRAD="" NOME-ORIENTADOR-GRAD="" CODIGO-AGENCIA-FINANCIADORA="" NOME-AGENCIA="" NUMERO-ID-ORIENTADOR="" CODIGO-CURSO-CAPES="50621" TITULO-DO-TRABALHO-DE-CONCLUSAO-DE-CURSO-INGLES="" NOME-CURSO-INGLES=""/>
+    </FORMACAO-ACADEMICA-TITULACAO>
+    <ATUACOES-PROFISSIONAIS>
+      <ATUACAO-PROFISSIONAL CODIGO-INSTITUICAO="985600205726" NOME-INSTITUICAO="Departamento de Ciência e Tecnologia - Exército Brasileiro" SEQUENCIA-ATIVIDADE="1" SEQUENCIA-IMPORTANCIA="">
+        <VINCULOS SEQUENCIA-HISTORICO="1" TIPO-DE-VINCULO="SERVIDOR_PUBLICO" ENQUADRAMENTO-FUNCIONAL="LIVRE" CARGA-HORARIA-SEMANAL="25" FLAG-DEDICACAO-EXCLUSIVA="NAO" MES-INICIO="01" ANO-INICIO="2013" MES-FIM="02" ANO-FIM="2013" OUTRAS-INFORMACOES="Estágio de verão realizado no Centro de Desenvolvimento de Sistemas, Organização Militar subordinada ao Departamento de Ciência e Tecnologia do Exército." FLAG-VINCULO-EMPREGATICIO="NAO" OUTRO-VINCULO-INFORMADO="" OUTRO-ENQUADRAMENTO-FUNCIONAL-INFORMADO="Estagiário" OUTRO-ENQUADRAMENTO-FUNCIONAL-INFORMADO-INGLES="" OUTRAS-INFORMACOES-INGLES=""/>
+      </ATUACAO-PROFISSIONAL>
+      <ATUACAO-PROFISSIONAL CODIGO-INSTITUICAO="869900000005" NOME-INSTITUICAO="Instituto Militar de Engenharia" SEQUENCIA-ATIVIDADE="2" SEQUENCIA-IMPORTANCIA="">
+        <VINCULOS SEQUENCIA-HISTORICO="2" TIPO-DE-VINCULO="LIVRE" ENQUADRAMENTO-FUNCIONAL="LIVRE" CARGA-HORARIA-SEMANAL="" FLAG-DEDICACAO-EXCLUSIVA="NAO" MES-INICIO="" ANO-INICIO="2012" MES-FIM="" ANO-FIM="" OUTRAS-INFORMACOES="" FLAG-VINCULO-EMPREGATICIO="NAO" OUTRO-VINCULO-INFORMADO="" OUTRO-ENQUADRAMENTO-FUNCIONAL-INFORMADO="" OUTRO-ENQUADRAMENTO-FUNCIONAL-INFORMADO-INGLES="" OUTRAS-INFORMACOES-INGLES=""/>
+        <ATIVIDADES-DE-PARTICIPACAO-EM-PROJETO>
+          <PARTICIPACAO-EM-PROJETO SEQUENCIA-FUNCAO-ATIVIDADE="1" FLAG-PERIODO="ATUAL" MES-INICIO="" ANO-INICIO="2012" MES-FIM="" ANO-FIM="" CODIGO-ORGAO="869901000998" NOME-ORGAO="Seção de Engenharia Elétrica" CODIGO-UNIDADE="" NOME-UNIDADE="">
+            <PROJETO-DE-PESQUISA SEQUENCIA-PROJETO="1" ANO-INICIO="2012" ANO-FIM="" NOME-DO-PROJETO="Estudo de dispositivos utilizados para Automação Residencial - Domótica" SITUACAO="EM_ANDAMENTO" NATUREZA="PESQUISA" NUMERO-GRADUACAO="3" NUMERO-ESPECIALIZACAO="" NUMERO-MESTRADO-ACADEMICO="" NUMERO-MESTRADO-PROF="" NUMERO-DOUTORADO="" DESCRICAO-DO-PROJETO="Pesquisa das principais tecnologias existentes na área de automação residencial. Análise das principais vantages e desvantagens do protocolo CAN (&quot;CAN-BUS&quot;) para sistemas de automação residencial. Desenvolvimento de protótipo de nós e atuadores com sistema CAN e interfaceamento via dispositivo Android." DESCRICAO-DO-PROJETO-INGLES="" NOME-DO-PROJETO-INGLES="Estudo de dispositivos utilizados para Automação Residencial - Domótica" FLAG-POTENCIAL-INOVACAO="SIM">
+              <EQUIPE-DO-PROJETO>
+                <INTEGRANTES-DO-PROJETO NOME-COMPLETO="Bruno Nardi de Carvalho Dantas" NOME-PARA-CITACAO="DANTAS, B. N. C." ORDEM-DE-INTEGRACAO="1" FLAG-RESPONSAVEL="NAO" NRO-ID-CNPQ=""/>
+                <INTEGRANTES-DO-PROJETO NOME-COMPLETO="Amarildo Teodoro da Costa" NOME-PARA-CITACAO="COSTA, A. T." ORDEM-DE-INTEGRACAO="2" FLAG-RESPONSAVEL="SIM" NRO-ID-CNPQ=""/>
+                <INTEGRANTES-DO-PROJETO NOME-COMPLETO="Jefferson Costa de Matos" NOME-PARA-CITACAO="MATOS, J. C." ORDEM-DE-INTEGRACAO="3" FLAG-RESPONSAVEL="NAO" NRO-ID-CNPQ=""/>
+              </EQUIPE-DO-PROJETO>
+            </PROJETO-DE-PESQUISA>
+          </PARTICIPACAO-EM-PROJETO>
+        </ATIVIDADES-DE-PARTICIPACAO-EM-PROJETO>
+      </ATUACAO-PROFISSIONAL>
+    </ATUACOES-PROFISSIONAIS>
+    <AREAS-DE-ATUACAO>
+      <AREA-DE-ATUACAO SEQUENCIA-AREA-DE-ATUACAO="1" NOME-GRANDE-AREA-DO-CONHECIMENTO="OUTROS" NOME-DA-AREA-DO-CONHECIMENTO="" NOME-DA-SUB-AREA-DO-CONHECIMENTO="" NOME-DA-ESPECIALIDADE=""/>
+    </AREAS-DE-ATUACAO>
+    <IDIOMAS>
+      <IDIOMA IDIOMA="PT" DESCRICAO-DO-IDIOMA="Português" PROFICIENCIA-DE-LEITURA="BEM" PROFICIENCIA-DE-FALA="BEM" PROFICIENCIA-DE-ESCRITA="BEM" PROFICIENCIA-DE-COMPREENSAO="BEM"/>
+      <IDIOMA IDIOMA="EN" DESCRICAO-DO-IDIOMA="Inglês" PROFICIENCIA-DE-LEITURA="BEM" PROFICIENCIA-DE-FALA="BEM" PROFICIENCIA-DE-ESCRITA="BEM" PROFICIENCIA-DE-COMPREENSAO="BEM"/>
+    </IDIOMAS>
+  </DADOS-GERAIS>
+  <DADOS-COMPLEMENTARES>
+    <FORMACAO-COMPLEMENTAR>
+      <FORMACAO-COMPLEMENTAR-CURSO-DE-CURTA-DURACAO SEQUENCIA-FORMACAO="3" NIVEL="F" CARGA-HORARIA="24" CODIGO-INSTITUICAO="" NOME-INSTITUICAO="Instituto de Engenharia de Gestão" CODIGO-CURSO="" NOME-CURSO="VBA aplicado a Negócios" STATUS-DO-CURSO="CONCLUIDO" ANO-DE-INICIO="2012" ANO-DE-CONCLUSAO="2012" NOME-CURSO-INGLES=""/>
+      <FORMACAO-COMPLEMENTAR-CURSO-DE-CURTA-DURACAO SEQUENCIA-FORMACAO="4" NIVEL="F" CARGA-HORARIA="200" CODIGO-INSTITUICAO="" NOME-INSTITUICAO="Centro de Instrução de Blindados" CODIGO-CURSO="" NOME-CURSO="Operação de Viaturas Blindadas M108 e M109A3" STATUS-DO-CURSO="CONCLUIDO" ANO-DE-INICIO="2010" ANO-DE-CONCLUSAO="2010" NOME-CURSO-INGLES=""/>
+    </FORMACAO-COMPLEMENTAR>
+    <PARTICIPACAO-EM-EVENTOS-CONGRESSOS>
+      <PARTICIPACAO-EM-CONGRESSO SEQUENCIA-PRODUCAO="1">
+        <DADOS-BASICOS-DA-PARTICIPACAO-EM-CONGRESSO NATUREZA="Congresso" TITULO="" ANO="2008" PAIS="Brasil" IDIOMA="" MEIO-DE-DIVULGACAO="NAO_INFORMADO" HOME-PAGE-DO-TRABALHO="http://www.defesa.gov.br/projetosweb/cadn/" FLAG-RELEVANCIA="NAO" TIPO-PARTICIPACAO="" FORMA-PARTICIPACAO="Ouvinte" DOI="" TITULO-INGLES="" FLAG-DIVULGACAO-CIENTIFICA="NAO"/>
+        <DETALHAMENTO-DA-PARTICIPACAO-EM-CONGRESSO NOME-DO-EVENTO="V Congresso Acadêmico sobre Defesa Nacional" NOME-INSTITUICAO="" LOCAL-DO-EVENTO="" CIDADE-DO-EVENTO="Resende - RJ" NOME-DO-EVENTO-INGLES=""/>
+        <PARTICIPANTE-DE-EVENTOS-CONGRESSOS NOME-COMPLETO-DO-PARTICIPANTE-DE-EVENTOS-CONGRESSOS="Victor Laurindo Horta Ferreira" NOME-PARA-CITACAO-DO-PARTICIPANTE-DE-EVENTOS-CONGRESSOS="FERREIRA, V. L. H." ORDEM-PARTICIPANTE="1"/>
+        <AREAS-DO-CONHECIMENTO/>
+        <INFORMACOES-ADICIONAIS DESCRICAO-INFORMACOES-ADICIONAIS="" DESCRICAO-INFORMACOES-ADICIONAIS-INGLES=""/>
+      </PARTICIPACAO-EM-CONGRESSO>
+    </PARTICIPACAO-EM-EVENTOS-CONGRESSOS>
+    <INFORMACOES-ADICIONAIS-INSTITUICOES>
+      <INFORMACAO-ADICIONAL-INSTITUICAO CODIGO-INSTITUICAO="869900000005" SIGLA-INSTITUICAO="IME" SIGLA-UF-INSTITUICAO="RJ" SIGLA-PAIS-INSTITUICAO="BRA" NOME-PAIS-INSTITUICAO="Brasil" FLAG-AGENCIA-FOMENTO="NAO" FLAG-INSTITUICAO-DE-ENSINO="SIM"/>
+      <INFORMACAO-ADICIONAL-INSTITUICAO CODIGO-INSTITUICAO="985600205726" SIGLA-INSTITUICAO="DCT/EB" SIGLA-UF-INSTITUICAO="DF" SIGLA-PAIS-INSTITUICAO="BRA" NOME-PAIS-INSTITUICAO="Brasil" FLAG-AGENCIA-FOMENTO="NAO" FLAG-INSTITUICAO-DE-ENSINO="SIM"/>
+      <INFORMACAO-ADICIONAL-INSTITUICAO CODIGO-INSTITUICAO="J3KQ00000000" SIGLA-INSTITUICAO="AMAN" SIGLA-UF-INSTITUICAO="RJ" SIGLA-PAIS-INSTITUICAO="BRA" NOME-PAIS-INSTITUICAO="Brasil" FLAG-AGENCIA-FOMENTO="NAO" FLAG-INSTITUICAO-DE-ENSINO="SIM"/>
+    </INFORMACOES-ADICIONAIS-INSTITUICOES>
+    <INFORMACOES-ADICIONAIS-CURSOS>
+      <INFORMACAO-ADICIONAL-CURSO CODIGO-CURSO="60171219" CODIGO-ORGAO="" NOME-ORGAO="" CODIGO-INSTITUICAO="869900000005" NOME-INSTITUICAO="Instituto Militar de Engenharia" NOME-GRANDE-AREA-DO-CONHECIMENTO="OUTROS" NOME-DA-AREA-DO-CONHECIMENTO="" NOME-DA-SUB-AREA-DO-CONHECIMENTO="" NOME-DA-ESPECIALIDADE="" NIVEL-CURSO="GRADUACAO"/>
+      <INFORMACAO-ADICIONAL-CURSO CODIGO-CURSO="90000000" CODIGO-ORGAO="" NOME-ORGAO="" CODIGO-INSTITUICAO="J3KQ00000000" NOME-INSTITUICAO="Academia Militar das Agulhas Negras" NOME-GRANDE-AREA-DO-CONHECIMENTO="OUTROS" NOME-DA-AREA-DO-CONHECIMENTO="Defesa" NOME-DA-SUB-AREA-DO-CONHECIMENTO="" NOME-DA-ESPECIALIDADE="" NIVEL-CURSO="GRADUACAO"/>
+    </INFORMACOES-ADICIONAIS-CURSOS>
+  </DADOS-COMPLEMENTARES>
+</CURRICULO-VITAE>
