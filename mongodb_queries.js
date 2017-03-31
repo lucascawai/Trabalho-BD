@@ -25,5 +25,5 @@ print("########################################")
 
 print("########################################")
 print("4b) Pessoas e seus prêmios: (com unwind)")
-db.curriculos.aggregate([{$unwind: '$CURRICULO-VITAE.DADOS-GERAIS.PREMIOS-TITULOS.PREMIO-TITULO' },{$project:{"_id":1, "CURRICULO-VITAE.DADOS-GERAIS.NOME-COMPLETO":1, "CURRICULO-VITAE.DADOS-GERAIS.PREMIOS-TITULOS.PREMIO-TITULO":1}}]).forEach(get_results)
+db.curriculos.aggregate([{$unwind: '$CURRICULO-VITAE.DADOS-GERAIS.PREMIOS-TITULOS.PREMIO-TITULO' },{$project:{"_id":0, "CURRICULO-VITAE.DADOS-GERAIS.NOME-COMPLETO":1, "CURRICULO-VITAE.DADOS-GERAIS.PREMIOS-TITULOS.PREMIO-TITULO":1}}]).forEach(get_results)
 print("########################################")
